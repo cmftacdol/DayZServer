@@ -1,0 +1,24 @@
+14:12:44.925 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2
+14:12:45.703 [Spatial Settings] WARNING: Couldn't find config file !
+14:12:45.703 [Spatial Settings] Spatial config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:12:45.710 [Spatial Settings] WARNING: Couldn't find config file !
+14:12:45.714 [Spatial Settings] Spatial config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:12:45.722 [Spatial Player Settings] WARNING: Couldn't find config file !
+14:12:45.722 [Spatial Player Settings] player config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:12:45.734 [Spatial Notification Settings] WARNING: Couldn't find Notification config
+14:12:45.734 [Spatial Notification Settings] generic Notification config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:12:45.781 [Spatial AI] Spatial AI Enabled
+14:12:45.781 [Spatial AI] points Disabled
+14:12:45.785 [Spatial AI] Locations Disabled
+14:12:45.785 [Spatial AI] Audio Sensitive Locations Disabled
+14:23:21.117 [Spatial Player Settings] WARNING: Couldn't find config file !
+14:23:21.117 [Spatial Player Settings] player config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:23:21.363 [Spatial Player Settings] WARNING: Couldn't find config file !
+14:23:21.363 [Spatial Player Settings] player config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:23:21.378 [Spatial Player Settings] WARNING: Couldn't find config file !
+14:23:21.378 [Spatial Player Settings] player config will be located in: $profile:ExpansionMod\AI\Spatial\
+14:48:05.492 [Spatial AI] Player: Penguin Number: 3, Faction name: Passive, Loadout: EastLoadout.json
+14:48:05.492 [Spatial AI] Next valid check in: 1381170ms
+14:48:06.421 [Spatial AI] Spawning 3 Passive bots at <1808.211426, 173.582031, 5182.748047>
+15:11:06.773 [Spatial AI] Next valid check in: 2248568ms
+15:30:37.570 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2

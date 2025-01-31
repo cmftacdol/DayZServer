@@ -1,0 +1,7 @@
+{
+    "Suppression_Normal_Decay": 10.0,
+    "Suppression_Fast_Decay": 15.0,
+    "Suppresion_Protection_Decay": 40.0,
+    "Suppression_Max_Value": 200.0,
+    "Suppression_Muffle_Start": 140.0
+}

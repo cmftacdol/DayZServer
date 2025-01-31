@@ -1,0 +1,222 @@
+
+
+[2025-01-28 02:55:21] Client version: no bootstrapper found
+[2025-01-28 02:55:21] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 02:55:21] Connectivity test (202.138.177.168:80 (202.138.177.168:80)): OK!
+[2025-01-28 02:55:21] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-28 03:12:09] Client version: no bootstrapper found
+[2025-01-28 03:12:09] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 03:12:10] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-28 03:12:10] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-28 03:17:13] Client version: no bootstrapper found
+[2025-01-28 03:17:13] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 03:17:13] Connectivity test (202.138.177.147:80 (202.138.177.147:80)): OK!
+[2025-01-28 03:17:13] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-28 06:27:05] Client version: no bootstrapper found
+[2025-01-28 06:27:05] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 06:27:05] Connectivity test (202.138.177.168:80 (202.138.177.168:80)): OK!
+[2025-01-28 06:27:05] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-28 14:04:05] Client version: no bootstrapper found
+[2025-01-28 14:04:05] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 14:04:05] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-28 14:04:05] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-28 14:12:24] Client version: no bootstrapper found
+[2025-01-28 14:12:24] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 14:12:25] Connectivity test (202.138.187.97:80 (202.138.187.97:80)): OK!
+[2025-01-28 14:12:25] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-28 16:43:49] Client version: no bootstrapper found
+[2025-01-28 16:43:49] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-28 16:43:49] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-01-28 16:43:49] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-29 00:49:41] Client version: no bootstrapper found
+[2025-01-29 00:49:41] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 00:49:41] Connectivity test (202.138.177.169:80 (202.138.177.169:80)): OK!
+[2025-01-29 00:49:41] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-29 01:03:54] Client version: no bootstrapper found
+[2025-01-29 01:03:54] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:03:54] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:03:54] Connectivity test: result=Failed (since 0.0s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:01] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:01] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:01] Connectivity test: result=Failed (since 6.8s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:08] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:08] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:08] Connectivity test: result=Failed (since 14.2s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:14] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:14] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:14] Connectivity test: result=Failed (since 20.6s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:21] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:21] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:21] Connectivity test: result=Failed (since 27.4s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:29] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:29] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:29] Connectivity test: result=Failed (since 35.0s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:39] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:39] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:39] Connectivity test: result=Failed (since 44.8s ago), prev=Unknown, in progress=0
+[2025-01-29 01:04:48] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:04:48] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:04:48] Connectivity test: result=Failed (since 54.5s ago), prev=Unknown, in progress=0
+[2025-01-29 01:05:00] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:05:00] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:05:00] Connectivity test: result=Failed (since 66.4s ago), prev=Unknown, in progress=0
+[2025-01-29 01:05:13] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:05:13] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:05:13] Connectivity test: result=Failed (since 79.4s ago), prev=Unknown, in progress=0
+[2025-01-29 01:05:25] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:05:25] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:05:25] Connectivity test: result=Failed (since 91.5s ago), prev=Unknown, in progress=0
+[2025-01-29 01:05:39] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:05:39] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:05:39] Connectivity test: result=Failed (since 105.6s ago), prev=Unknown, in progress=0
+[2025-01-29 01:05:57] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:05:57] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:05:57] Connectivity test: result=Failed (since 123.0s ago), prev=Unknown, in progress=0
+[2025-01-29 01:06:14] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:06:14] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:06:14] Connectivity test: result=Failed (since 140.0s ago), prev=Unknown, in progress=0
+[2025-01-29 01:06:36] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:06:36] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:06:36] Connectivity test: result=Failed (since 162.1s ago), prev=Unknown, in progress=0
+[2025-01-29 01:06:56] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:06:56] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:06:56] Connectivity test: result=Failed (since 182.7s ago), prev=Unknown, in progress=0
+[2025-01-29 01:07:22] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:07:23] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:07:23] Connectivity test: result=Failed (since 208.9s ago), prev=Unknown, in progress=0
+[2025-01-29 01:07:52] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:07:52] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2025-01-29 01:07:52] Connectivity test: result=Failed (since 237.9s ago), prev=Unknown, in progress=0
+[2025-01-29 01:08:24] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:08:24] Connectivity test (202.138.177.147:80 (202.138.177.147:80)): OK!
+[2025-01-29 01:08:24] Connectivity test: result=Connected (since 0.0s ago), prev=Failed, in progress=0
+
+
+[2025-01-29 01:09:29] Client version: no bootstrapper found
+[2025-01-29 01:09:29] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:09:29] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-29 01:09:29] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-29 01:16:48] Client version: no bootstrapper found
+[2025-01-29 01:16:48] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 01:16:49] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-29 01:16:49] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-29 11:41:51] Client version: no bootstrapper found
+[2025-01-29 11:41:51] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 11:41:51] Connectivity test (202.138.187.74:80 (202.138.187.74:80)): OK!
+[2025-01-29 11:41:51] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-29 11:47:11] Client version: no bootstrapper found
+[2025-01-29 11:47:11] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 11:47:11] Connectivity test (202.138.187.74:80 (202.138.187.74:80)): OK!
+[2025-01-29 11:47:11] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-29 12:40:19] Client version: no bootstrapper found
+[2025-01-29 12:40:19] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-29 12:40:20] Connectivity test (202.138.187.74:80 (202.138.187.74:80)): OK!
+[2025-01-29 12:40:20] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 12:05:16] Client version: no bootstrapper found
+[2025-01-30 12:05:16] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 12:05:16] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-01-30 12:05:16] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 15:00:25] Client version: no bootstrapper found
+[2025-01-30 15:00:25] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 15:00:25] Connectivity test (202.138.177.147:80 (202.138.177.147:80)): OK!
+[2025-01-30 15:00:25] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 15:15:43] Client version: no bootstrapper found
+[2025-01-30 15:15:43] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 15:15:43] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-01-30 15:15:43] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 15:37:26] Client version: no bootstrapper found
+[2025-01-30 15:37:26] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 15:37:26] Connectivity test (202.138.177.168:80 (202.138.177.168:80)): OK!
+[2025-01-30 15:37:26] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 15:50:38] Client version: no bootstrapper found
+[2025-01-30 15:50:38] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 15:50:38] Connectivity test (202.138.177.147:80 (202.138.177.147:80)): OK!
+[2025-01-30 15:50:38] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 16:02:48] Client version: no bootstrapper found
+[2025-01-30 16:02:48] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 16:02:48] Connectivity test (202.138.177.147:80 (202.138.177.147:80)): OK!
+[2025-01-30 16:02:48] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 16:13:23] Client version: no bootstrapper found
+[2025-01-30 16:13:23] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 16:13:23] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-01-30 16:13:23] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 16:28:37] Client version: no bootstrapper found
+[2025-01-30 16:28:37] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 16:28:37] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-30 16:28:37] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 16:40:34] Client version: no bootstrapper found
+[2025-01-30 16:40:34] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 16:40:34] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-30 16:40:34] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 16:51:03] Client version: no bootstrapper found
+[2025-01-30 16:51:03] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 16:51:03] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-30 16:51:03] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-30 23:17:52] Client version: no bootstrapper found
+[2025-01-30 23:17:52] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-30 23:17:52] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-01-30 23:17:52] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-31 08:40:18] Client version: no bootstrapper found
+[2025-01-31 08:40:18] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-31 08:40:19] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-01-31 08:40:19] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-31 08:56:07] Client version: no bootstrapper found
+[2025-01-31 08:56:07] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-31 08:56:07] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-01-31 08:56:07] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-01-31 09:09:13] Client version: no bootstrapper found
+[2025-01-31 09:09:13] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-01-31 09:09:13] Connectivity test (202.138.177.147:80 (202.138.177.147:80)): OK!
+[2025-01-31 09:09:13] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
