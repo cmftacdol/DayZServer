@@ -1,0 +1,14 @@
+02:16:05.582 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2
+02:23:52.613 [Spatial Settings] Minimum engagement too low. setting to 5m
+02:23:52.621 [Spatial Settings] Minimum engagement too low. setting to 5m
+02:23:52.638 [Spatial AI] Spatial AI Enabled
+02:23:52.638 [Spatial AI] points Disabled
+02:23:52.638 [Spatial AI] Locations Enabled
+02:23:52.638 [Spatial AI] Audio Sensitive Locations Enabled
+02:59:13.732 [Spatial AI] Next valid check in: 2636470ms
+03:21:30.806 [AI Patrol 00012] Spawning 1 Raiders bots at <6549.464355, 172.269028, 11012.502930>
+03:21:31.519 [AI Patrol 00012] Global patrol count: 1
+03:25:36.898 [AI Patrol 00014] Spawning 2 East bots at <9245.638672, 199.803955, 10829.736328>
+03:25:37.380 [AI Patrol 00014] Global patrol count: 2
+03:33:40.697 [AI Patrol 00012] Despawning 1 Raiders bots (spawn position <6549.464355, 172.269028, 11012.502930>, 0/1 deceased)
+03:33:40.697 [AI Patrol 00012] Global patrol count: 1

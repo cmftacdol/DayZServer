@@ -1,0 +1,71 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2025-02-01_02-15-28.log started at 01.02. 02:40:41
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 01.02 2025 02:40:41
+NULL pointer to instance
+Class:      'Hologram'
+Function: 'ProjectionBasedOnParent'
+Stack trace:
+BedRespawning/scripts/4_World/sleepingbags.c:239
+scripts/4_World/classes\hologram.c:114
+scripts/4_World/entities\manbase\playerbase.c:2353
+scripts/4_World/classes\useractionscomponent\actions\interact\actionrepositionpluggeditem.c:53
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:265
+scripts/4_World/entities\manbase\playerbase.c:2958
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@Building Fortifications;@CargoSorting;@CarVanillaPlus;@CaseBag;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Early Winter or Late Fall Livonia;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Survivor Animations;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 01.02 2025 02:40:52
+NULL pointer to instance
+Class:      'Hologram'
+Function: 'ProjectionBasedOnParent'
+Stack trace:
+BedRespawning/scripts/4_World/sleepingbags.c:239
+scripts/4_World/classes\hologram.c:114
+scripts/4_World/entities\manbase\playerbase.c:2353
+scripts/4_World/classes\useractionscomponent\actions\interact\actionrepositionpluggeditem.c:53
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:265
+scripts/4_World/entities\manbase\playerbase.c:2958
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@Building Fortifications;@CargoSorting;@CarVanillaPlus;@CaseBag;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Early Winter or Late Fall Livonia;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Survivor Animations;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 01.02 2025 02:41:16
+NULL pointer to instance
+Class:      'Hologram'
+Function: 'ProjectionBasedOnParent'
+Stack trace:
+BedRespawning/scripts/4_World/sleepingbags.c:239
+scripts/4_World/classes\hologram.c:114
+scripts/4_World/entities\manbase\playerbase.c:2353
+scripts/4_World/classes\useractionscomponent\actions\interact\actionrepositionpluggeditem.c:53
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:265
+scripts/4_World/entities\manbase\playerbase.c:2958
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@Building Fortifications;@CargoSorting;@CarVanillaPlus;@CaseBag;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Early Winter or Late Fall Livonia;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Survivor Animations;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 01.02 2025 02:41:54
+NULL pointer to instance
+Class:      'Hologram'
+Function: 'ProjectionBasedOnParent'
+Stack trace:
+BedRespawning/scripts/4_World/sleepingbags.c:239
+scripts/4_World/classes\hologram.c:114
+scripts/4_World/entities\manbase\playerbase.c:2353
+scripts/4_World/classes\useractionscomponent\actions\interact\actionrepositionpluggeditem.c:53
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:265
+scripts/4_World/entities\manbase\playerbase.c:2958
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@Building Fortifications;@CargoSorting;@CarVanillaPlus;@CaseBag;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Early Winter or Late Fall Livonia;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Survivor Animations;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory; profiles profiles 
