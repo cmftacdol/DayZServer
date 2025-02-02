@@ -3175,6 +3175,7 @@
             crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
     </type>
     <type name="BaseballBat">

@@ -29,8 +29,7 @@
 <TruckArray>	CarRadiator
 <TruckArray>	SparkPlug
 <TruckArray>	HeadlightH7
-<TruckArray>	Truck5
-<TruckArray>	
+<TruckArray>	GlowPlug
 <TruckArray>	
 <TruckArray>	
 <TruckArray>	
@@ -42,8 +41,7 @@
 <CarArray>	CarRadiator
 <CarArray>	SparkPlug
 <CarArray>	HeadlightH7
-<CarArray>	Car5
-<CarArray>	
+<CarArray>	GlowPlug
 <CarArray>	
 <CarArray>	
 <CarArray>	

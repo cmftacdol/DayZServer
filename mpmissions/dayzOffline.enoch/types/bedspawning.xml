@@ -16,7 +16,12 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
+
+    
     <type name="br_sleepingbag_deployed">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"

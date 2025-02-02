@@ -1,17 +1,14 @@
 {
 	"version": 122,
-	"GeneralData":
-	{
-	"disableBaseDamage": true,
+	"GeneralData": {
+		"disableBaseDamage": true,
 		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
-    "PlayerData":
-	{
+	"PlayerData": {
 		"disablePersonalLight": false,
-		"StaminaData":
-		{
+		"StaminaData": {
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
@@ -24,14 +21,12 @@
 			"obstacleTraversalStaminaModifier": 1.0,
 			"holdBreathStaminaModifier": 1.0
 		},
-		"ShockHandlingData":
-		{
+		"ShockHandlingData": {
 			"shockRefillSpeedConscious": 5.0,
 			"shockRefillSpeedUnconscious": 1.0,
 			"allowRefillSpeedModifier": true
 		},
-		"MovementData":
-		{
+		"MovementData": {
 			"timeToStrafeJog": 0.1,
 			"rotationSpeedJog": 0.3,
 			"timeToSprint": 0.45,
@@ -39,25 +34,53 @@
 			"rotationSpeedSprint": 0.15,
 			"allowStaminaAffectInertia": true
 		},
-		"DrowningData":
-		{
+		"DrowningData": {
 			"staminaDepletionSpeed": 10.0,
 			"healthDepletionSpeed": 10.0,
 			"shockDepletionSpeed": 10.0
 		}
 	},
-	"WorldsData":
-	{
+	"WorldsData": {
 		"lightingConfig": 1,
 		"objectSpawnersArr": [],
-		"environmentMinTemps": [-6.5, -9.5, -6.5, -9.5, 2, 6, 9, 10, 6, 1, -5, -10],
-		"environmentMaxTemps": [-3, -5, -3, -5, 9, 14, 16, 17, 14, 8, 1, -3],
-		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
+		"environmentMinTemps": [
+			-11.0,
+			-9.4,
+			-6.1,
+			-3.5,
+			-1.0,
+			0.3,
+			0.1,
+			-1.1,
+			-2.3,
+			-4.3,
+			-7.8,
+			-12.6
+		],
+		"environmentMaxTemps": [
+			-7,
+			-4,
+			-4.5,
+			-1,
+			1.5,
+			2.5,
+			2.3,
+			2.9,
+			0.1,
+			-2.6,
+			-5.0,
+			-10.0
+		],
+		"wetnessWeightModifiers": [
+			1.0,
+			1.0,
+			1.33,
+			1.66,
+			2.0
+		]
 	},
-	"BaseBuildingData":
-	{
-		"HologramData":
-		{
+	"BaseBuildingData": {
+		"HologramData": {
 			"disableIsCollidingBBoxCheck": false,
 			"disableIsCollidingPlayerCheck": false,
 			"disableIsClippingRoofCheck": false,
@@ -68,20 +91,21 @@
 			"disableHeightPlacementCheck": false,
 			"disableIsUnderwaterCheck": false,
 			"disableIsInTerrainCheck": false,
-			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
+			"disallowedTypesInUnderground": [
+				"FenceKit",
+				"TerritoryFlagKit",
+				"WatchtowerKit"
+			]
 		},
-		"ConstructionData":
-		{
+		"ConstructionData": {
 			"disablePerformRoofCheck": false,
 			"disableIsCollidingCheck": false,
 			"disableDistanceCheck": false
 		}
 	},
-	"UIData":
-	{
+	"UIData": {
 		"use3DMap": false,
-		"HitIndicationData":
-		{
+		"HitIndicationData": {
 			"hitDirectionOverrideEnabled": false,
 			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
@@ -92,8 +116,7 @@
 			"hitIndicationPostProcessEnabled": true
 		}
 	},
-	"MapData":
-	{
+	"MapData": {
 		"ignoreMapOwnership": false,
 		"ignoreNavItemsOwnership": false,
 		"displayPlayerPosition": false,

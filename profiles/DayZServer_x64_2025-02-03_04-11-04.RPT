@@ -1,0 +1,922 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe -config=serverDZ.cfg "-mod=@Early Winter or Late Fall Livonia;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CargoSorting;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;" -profiles=profiles "-servermod=@Survivor Missions"
+=====================================================================
+Exe timestamp: 2025/01/28 02:52:30
+Current time:  2025/02/03 04:11:19
+Version 1.26.159040
+=====================================================================
+
+ 4:11:19.147 [Inputs] Loading inputs default "bin/constants.xml"
+ 4:11:19.161 [Inputs] Loading inputs default "bin/specific.xml"
+ 4:11:19.162 [Inputs] Loading inputs default "EarPlugs\data\inputs.xml"
+ 4:11:19.162 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+ 4:11:19.162 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+ 4:11:19.163 [Inputs] Loading inputs default "SearchInventory/Scripts/Data/inputs.xml"
+ 4:11:19.163 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 4:11:19.163 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+ 4:11:19.164 [Inputs] Loading inputs default "rag/rag_immersive_vehicles/scripts/4_world/rag_immersive_vehicles/actions/inputs/inputs.xml"
+ 4:11:19.164 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+ 4:11:19.164 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 4:11:19.164 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 4:11:19.164 [Inputs] Loading inputs cfg "bin/core.xml"
+ 4:11:19.164 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 4:11:19.165 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 4:11:35.688 Hostname of server: "Project: Genesis"
+ 4:20:37.361 [CE][Hive] :: Initializing OFFLINE
+ 4:20:37.361 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\
+ 4:20:37.361 [CE][Hive] :: Loading core data ... 
+ 4:20:37.365 [CE][CoreData] :: 8 root classes, 19 defaults, 0 updaters...
+ 4:20:48.898 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+ 4:20:48.900 [CE][TypeSetup] :: 680 classes setuped...
+ 4:20:50.195 [CE][RegisterBind] :: 0 classes binded...
+ 4:20:50.196 [CE][RegisterConfig] :: 13812 config classes registered, 0 sub-counters...
+ 4:20:50.196 [CE][Hive] :: Loading map data ... 
+ 4:20:50.206 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 17 types
+ 4:20:50.269 [CE][LoadPrototype] :: loaded 445 prototypes
+ 4:20:50.269   842 containers, 11094 points
+ 4:20:50.269   83 dispatches, 324 proxies
+ 4:20:50.269 !!! [CE][LoadPrototype] 4 groups have no points...
+ 4:20:50.269 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 4:20:50.269 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+ 4:20:50.286 [CE][LoadPrototype] :: loaded 0 prototypes
+ 4:20:50.286   50 containers, 276 points
+ 4:20:50.286   0 dispatches, 0 proxies
+ 4:20:50.286 [CE][LoadPrototype] :: last group name: PathD_7100...
+ 4:20:51.24 [CE][LoadMap] "Group" :: loaded 5753 groups, groups failed: 0, largest group range: 26.6
+ 4:20:51.26 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 26.6
+ 4:20:51.107 [CE][Links] found 556 total links between groups, of 5753
+ 4:20:51.107 [CE][LoadClusters] "Cluster" :: Loading files...
+ 4:20:51.263 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
+ 4:20:51.427 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
+ 4:20:51.589 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
+ 4:20:51.749 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
+ 4:20:51.838 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 25015 instances
+ 4:20:51.868 [CE][Storage] ver:21 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.bin"
+ 4:20:51.880 [CE][Storage] ver:21 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.001"
+ 4:20:51.896 [CE][Storage] ver:21 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.002"
+ 4:20:51.896 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.bin".
+ 4:20:52.68 !!! [CE][offlineDB] :: No Shutdown message present.
+ 4:20:52.75 [CE][offlineDB] :: Loaded 45 dynamic events 242 total types.
+ 4:20:52.226 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.226 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.226 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.226 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.226 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 4:20:52.227 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.227 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.227 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.227 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.227 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.255 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.256 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:20:52.345 !!! [CE] :: Unknown value: 'Tier4'.
+ 4:20:52.346 !!! [CE] :: Unknown value: 'Tier4'.
+ 4:20:52.346 !!! [CE] :: Unknown value: 'Tier4'.
+ 4:20:52.371 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.371 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_black_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_black' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_green_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_green' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_purple_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_purple' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_red_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_red' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_yellow_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_yellow' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_paint' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_white' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_cabin_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_cabin' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.372 !!! [CE][offlineDB] :: Type 'rag_cabin_water_pump' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_Admin_Hammer' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_Admin_Hatchet' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_PillarKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_Pillar' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_RoofKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_Roof' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_FloorKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_Floor' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_CeilingKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.373 !!! [CE][offlineDB] :: Type 'RaG_BB_Ceiling' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_StaircaseKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Staircase' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Staircase_2Kit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Staircase_2' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_StairsKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Stairs' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_WallKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Wall' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_DoorKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Door' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_WindowKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Window' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.374 !!! [CE][offlineDB] :: Type 'RaG_BB_Window_SmallKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Window_Small' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Low_WallKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Low_Wall' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_FoundationKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Foundation' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_GateKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Gate' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_GateLeftKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_GateLeft' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_GateRightKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_GateRight' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_WoodStorageKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_WoodStorage' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_RampKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Ramp' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_StepLadderKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_StepLadder' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Ladder' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Floor_HatchKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.375 !!! [CE][offlineDB] :: Type 'RaG_BB_Floor_Hatch' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.376 !!! [CE][offlineDB] :: Type 'RaG_BB_Single_DoorKit' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.376 !!! [CE][offlineDB] :: Type 'RaG_BB_Single_Door' will be ignored. (Type does not exist. (Typo?))
+ 4:20:52.565 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 4:20:52.565 [CE][DE][SPAWNS] :: Total positions: 492
+ 4:20:52.565 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 61
+ 4:20:52.576 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.bin"
+ 4:20:52.576 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.001"
+ 4:20:52.585 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.002"
+ 4:20:52.586 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.bin".
+ 4:20:52.586 [CE][DynamicEvent] Load  Events:[45] Primary spawners: 45 Secondary spawners: 4
+ 4:20:52.588 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin"
+ 4:20:52.608 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.001"
+ 4:20:52.626 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.002"
+ 4:20:52.627 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin" 691 items.
+ 4:20:54.670   691 items loaded. (0 failed)
+ 4:20:54.689 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin"
+ 4:20:54.711 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.001"
+ 4:20:54.726 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.002"
+ 4:20:54.726 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin" 2858 items.
+ 4:20:57.25   2858 items loaded. (0 failed)
+ 4:20:57.52 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin"
+ 4:20:57.61 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.001"
+ 4:20:57.73 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.002"
+ 4:20:57.73 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin" 803 items.
+ 4:20:57.711   803 items loaded. (0 failed)
+ 4:20:57.728 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin"
+ 4:20:57.742 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.001"
+ 4:20:57.753 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.002"
+ 4:20:57.753 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin" 1726 items.
+ 4:20:58.701   1726 items loaded. (0 failed)
+ 4:20:58.720 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin"
+ 4:20:58.723 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.001"
+ 4:20:58.735 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.002"
+ 4:20:58.735 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin" 1563 items.
+ 4:20:59.574   1563 items loaded. (0 failed)
+ 4:20:59.591 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin"
+ 4:20:59.596 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.001"
+ 4:20:59.614 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.002"
+ 4:20:59.614 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin" 2061 items.
+ 4:21:00.596   2061 items loaded. (0 failed)
+ 4:21:00.625 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin"
+ 4:21:00.642 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.001"
+ 4:21:00.646 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.002"
+ 4:21:00.646 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin" 1209 items.
+ 4:21:01.201   1209 items loaded. (0 failed)
+ 4:21:01.225 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin"
+ 4:21:01.242 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.001"
+ 4:21:01.257 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.002"
+ 4:21:01.257 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin" 1351 items.
+ 4:21:01.884   1351 items loaded. (0 failed)
+ 4:21:01.903 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin"
+ 4:21:01.922 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.001"
+ 4:21:01.940 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.002"
+ 4:21:01.940 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin" 1314 items.
+ 4:21:02.533   1314 items loaded. (0 failed)
+ 4:21:02.546 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin"
+ 4:21:02.565 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.001"
+ 4:21:02.578 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.002"
+ 4:21:02.578 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin" 1149 items.
+ 4:21:03.57   1149 items loaded. (0 failed)
+ 4:21:03.86 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin"
+ 4:21:03.103 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.001"
+ 4:21:03.117 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.002"
+ 4:21:03.117 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin" 3162 items.
+ 4:21:04.347   3162 items loaded. (0 failed)
+ 4:21:04.357 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin"
+ 4:21:04.374 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.001"
+ 4:21:04.389 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.002"
+ 4:21:04.389 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin" 490 items.
+ 4:21:04.582   490 items loaded. (0 failed)
+ 4:21:04.582 [CE][Storage] ver:26 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.bin"
+ 4:21:04.583 [CE][Storage] ver:26 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.001"
+ 4:21:04.583 [CE][Storage] ver:26 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.002"
+ 4:21:04.583 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.bin" 2 items.
+ 4:21:04.583   2 items loaded. (0 failed)
+ 4:21:04.599 [CE][Storage] ver:25 stamp:4278, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin"
+ 4:21:04.608 [CE][Storage] ver:25 stamp:4266, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.001"
+ 4:21:04.622 [CE][Storage] ver:25 stamp:4267, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.002"
+ 4:21:04.622 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin" 172 items.
+ 4:21:05.361   172 items loaded. (0 failed)
+ 4:21:05.373 [CE][Hive] :: Storage load took:12.78 seconds, recovery stamp:4278
+ 4:21:05.373   entity: 21169, building: 2
+ 4:21:05.373   no lifetime: 48
+ 4:21:05.373   pathgraph's: 513
+ 4:21:05.373 [CE][Hive] :: Initializing ... 
+ 4:21:05.416 [CE][InitializeMap] :: initialized: 1
+ 4:21:05.417 [CE][Hive] :: Initializing spawners ... 
+ 4:21:07.282 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:23889, Total in Map: 18514 at 0 (sec)
+ 4:21:07.282   tests:0, repeats:0 fails:0, overtime:0
+ 4:21:07.283 [CE][DynEvent] :: 45 types
+ 4:21:07.283 [00] AmbientFox
+ 4:21:07.283   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:21:07.283 [01] AmbientHare
+ 4:21:07.283   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:21:07.283 [02] AmbientHen
+ 4:21:07.283   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:21:07.283 [03] AnimalBear
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [04] AnimalCow
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [05] AnimalDeer
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [06] AnimalGoat
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [07] AnimalPig
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [08] AnimalRoeDeer
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [09] AnimalSheep
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [10] AnimalWildBoar
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [11] AnimalWolf
+ 4:21:07.283   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:21:07.283 [12] InfectedArmy
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [13] InfectedArmyConvoy
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [14] InfectedArmyHard
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [15] InfectedCity
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [16] InfectedFirefighter
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [17] InfectedIndustrial
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [18] InfectedMedic
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [19] InfectedNBC
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [20] InfectedPolice
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [21] InfectedPoliceHard
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [22] InfectedPrisoner
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [23] InfectedReligious
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [24] InfectedSanta
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [25] InfectedSolitude
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [26] InfectedVillage
+ 4:21:07.283   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [27] ItemPlanks
+ 4:21:07.283   Primary Spawner: "Item", active: yes, repeat: 1
+ 4:21:07.283 [28] Loot
+ 4:21:07.283   Primary Spawner: "Loot", active: yes, repeat: 2
+ 4:21:07.283 [29] StaticContaminatedArea
+ 4:21:07.283   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:21:07.283 [30] StaticHeliCrash
+ 4:21:07.283   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:21:07.283   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [31] StaticMilitaryConvoy
+ 4:21:07.283   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:21:07.283   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [32] StaticPoliceSituation
+ 4:21:07.283   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:21:07.283   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [33] StaticTrain
+ 4:21:07.283   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:21:07.283   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:21:07.283 [34] TrajectoryConiferous
+ 4:21:07.283   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:21:07.283 [35] TrajectoryDeciduous
+ 4:21:07.283   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:21:07.283 [36] TrajectoryHumus
+ 4:21:07.283   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:21:07.283 [37] TrajectoryStones
+ 4:21:07.283   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:21:07.283 [38] VehicleBoat
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [39] VehicleCivilianSedan
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [40] VehicleHatchback02
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [41] VehicleOffroad02
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [42] VehicleOffroadHatchback
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [43] VehicleSedan02
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [44] VehicleTruck01
+ 4:21:07.283   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:21:07.283 [CE][Hive] :: Initializing of spawners done.
+ 4:21:07.289 [CE][Hive] :: Init sequence finished.
+ 4:21:07.289 Player connect enabled
+ 4:21:08.111 [IdleMode] Entering IN - save processed
+ 4:35:38.712 [Login]: Adding player Penguin (67157856) to login queue at position 0
+ 4:35:38.713 [LoginMachine]: Add player Penguin (67157856 192.168.1.2:61776)
+ 4:35:38.713 [StateMachine]: Player Penguin (dpnid 67157856 uid ) Entering AuthPlayerLoginState
+ 4:35:39.739 [StateMachine]: Player Penguin (dpnid 67157856 uid ) Entering WaitAuthPlayerLoginState
+ 4:35:42.613 Player Penguin (id=R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) has connected.
+ 4:35:42.613 Player "Penguin"(steamID=76561198413928129) is connected
+ 4:35:42.614 [StateMachine]: Player Penguin (dpnid 67157856 uid ) Entering WaitPlayerAssignedLoginState
+ 4:35:43.138 [StateMachine]: Player Penguin (dpnid 67157856 uid ) Entering PlayerAssignedLoginState
+ 4:35:43.138 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering DBGetLoginTimeLoginState
+ 4:35:43.140 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering DBWaitLoginTimeLoginState
+ 4:35:43.523 [IdleMode] Leaving OUT
+ 4:35:45.140 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering DBGetCharacterLoginState
+ 4:35:45.140 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering CreateNetObjectsLoginState
+ 4:35:45.144 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering PreloadCamLoginState
+ 4:35:45.144 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering WaitPreloadCamLoginState
+ 4:36:05.628 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Jeans_Black"
+ 4:36:05.726 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "PetrolLighter"
+ 4:36:05.826 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Jeans_Green"
+ 4:36:05.925 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Jeans_Blue"
+ 4:36:06.25 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Jeans_BlueDark"
+ 4:36:06.126 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "BaseballCap_Blue"
+ 4:36:06.225 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Jeans_Grey"
+ 4:36:06.325 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "BaseballCap_Beige"
+ 4:36:06.425 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "BaseballCap_Olive"
+ 4:36:06.525 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "BaseballCap_CMMG_Black"
+ 4:36:06.625 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "BaseballCap_Black"
+ 4:36:06.725 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "KitchenKnife"
+ 4:36:06.825 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "FlatCap_Brown"
+ 4:36:06.925 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Jeans_Brown"
+ 4:36:07.25 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "BaseballCap_CMMG_Pink"
+ 4:36:07.125 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "FlatCap_BlackCheck"
+ 4:36:07.225 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "FlatCap_Black"
+ 4:36:07.325 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "FlatCap_BrownCheck"
+ 4:36:07.425 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "BaseballCap_Red"
+ 4:36:32.438 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "BaseballCap_Red"
+ 4:36:32.538 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "FlatCap_Red"
+ 4:36:32.638 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "BaseballCap_Pink"
+ 4:36:32.738 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "BoonieHat_Tan"
+ 4:36:32.839 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "KukriKnife"
+ 4:36:32.939 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "SlacksPants_Black"
+ 4:36:33.39 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "SlacksPants_Beige"
+ 4:36:33.140 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "BoonieHat_Blue"
+ 4:36:33.238 [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "FlatCap_Blue"
+ 4:36:33.338 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "ZmijovkaCap_Blue"
+ 4:36:33.438 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "BoonieHat_Olive"
+ 4:36:33.538 [CE][LootRespawner] (PRIDummy) :: Item [30] causing search overtime: "DressShoes_Brown"
+ 4:36:33.638 [CE][LootRespawner] (PRIDummy) :: Item [31] causing search overtime: "BoonieHat_Red"
+ 4:36:33.738 [CE][LootRespawner] (PRIDummy) :: Item [32] causing search overtime: "FlatCap_Grey"
+ 4:36:33.838 [CE][LootRespawner] (PRIDummy) :: Item [33] causing search overtime: "WomanSuit_DarkGrey"
+ 4:36:33.938 [CE][LootRespawner] (PRIDummy) :: Item [34] causing search overtime: "SlacksPants_Blue"
+ 4:36:34.38 [CE][LootRespawner] (PRIDummy) :: Item [35] causing search overtime: "WomanSuit_Khaki"
+ 4:36:34.139 [CE][LootRespawner] (PRIDummy) :: Item [36] causing search overtime: "ManSuit_Brown"
+ 4:36:34.238 [CE][LootRespawner] (PRIDummy) :: Item [37] causing search overtime: "WoolGloves_White"
+ 4:36:34.338 [CE][LootRespawner] (PRIDummy) :: Item [38] causing search overtime: "BoonieHat_Orange"
+ 4:36:35.457 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 4:36:36.661 [CE][Links] found 0 total links between groups, of 1
+ 4:36:36.661 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 4:36:36.665 [CE][Links] found 0 total links between groups, of 2
+ 4:36:36.665 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.667 [CE][Links] found 0 total links between groups, of 3
+ 4:36:36.667 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.668 [CE][Links] found 0 total links between groups, of 4
+ 4:36:36.668 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+ 4:36:36.670 [CE][Links] found 0 total links between groups, of 5
+ 4:36:36.670 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+ 4:36:36.672 [CE][Links] found 0 total links between groups, of 6
+ 4:36:36.672 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+ 4:36:36.673 [CE][Links] found 0 total links between groups, of 7
+ 4:36:36.673 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.674 [CE][Links] found 0 total links between groups, of 8
+ 4:36:36.674 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.676 [CE][Links] found 4 total links between groups, of 9
+ 4:36:36.676 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.678 [CE][Links] found 4 total links between groups, of 10
+ 4:36:36.678 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.680 [CE][Links] found 8 total links between groups, of 11
+ 4:36:36.680 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.681 [CE][Links] found 8 total links between groups, of 12
+ 4:36:36.681 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 4:36:36.682 [CE][Links] found 8 total links between groups, of 13
+ 4:36:36.682 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.683 [CE][Links] found 8 total links between groups, of 14
+ 4:36:36.683 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+ 4:36:36.685 [CE][Links] found 10 total links between groups, of 15
+ 4:36:36.685 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.687 [CE][Links] found 10 total links between groups, of 16
+ 4:36:36.687 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 4:36:36.688 [CE][Links] found 10 total links between groups, of 17
+ 4:36:36.689 [CE][Links] found 10 total links between groups, of 18
+ 4:36:36.689 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.689 [CE][Links] found 10 total links between groups, of 19
+ 4:36:36.689 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 4:36:36.690 [CE][Links] found 10 total links between groups, of 20
+ 4:36:36.690 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.692 [CE][Links] found 10 total links between groups, of 21
+ 4:36:36.692 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.693 [CE][Links] found 10 total links between groups, of 22
+ 4:36:36.693 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.695 [CE][Links] found 10 total links between groups, of 23
+ 4:36:36.695 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.695 [CE][Links] found 12 total links between groups, of 24
+ 4:36:36.695 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.697 [CE][Links] found 14 total links between groups, of 25
+ 4:36:36.697 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+ 4:36:36.698 [CE][Links] found 14 total links between groups, of 26
+ 4:36:36.698 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.699 [CE][Links] found 14 total links between groups, of 27
+ 4:36:36.699 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+ 4:36:36.700 [CE][Links] found 16 total links between groups, of 28
+ 4:36:36.700 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+ 4:36:36.701 [CE][Links] found 18 total links between groups, of 29
+ 4:36:36.701 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+ 4:36:36.702 [CE][Links] found 20 total links between groups, of 30
+ 4:36:36.702 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+ 4:36:36.704 [CE][Links] found 22 total links between groups, of 31
+ 4:36:36.704 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban2_firetruck_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 2
+ 4:36:36.704 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban2_firetruck_DE :: !!! Sum of container LootMax is lower than event child LootMax (2 < 5)
+ 4:36:36.704 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban2_firetruck_DE :: !!! Wanting to spawn more loot than possible (3 > 2)
+ 4:36:36.705 [CE][Links] found 22 total links between groups, of 32
+ 4:36:36.705 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban1_firetruck_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 2
+ 4:36:36.706 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Sum of container LootMax is lower than event child LootMax (2 < 5)
+ 4:36:36.706 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Wanting to spawn more loot than possible (4 > 2)
+ 4:36:41.328 [StateMachine]: Player Penguin (dpnid 67157856 uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=) Entering GetLoadedCharLoginState
+ 4:37:17.205 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 67157856
+    uid R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=
+ 4:37:35.418 [CE][LootRespawner] (PRIDummy) :: Item [39] causing search overtime: "BoonieHat_Orange"
+ 4:37:35.518 [CE][LootRespawner] (PRIDummy) :: Item [40] causing search overtime: "BoonieHat_Black"
+ 4:37:35.618 [CE][LootRespawner] (PRIDummy) :: Item [41] causing search overtime: "DressShoes_Sunburst"
+ 4:37:35.718 [CE][LootRespawner] (PRIDummy) :: Item [42] causing search overtime: "SlacksPants_Khaki"
+ 4:37:35.818 [CE][LootRespawner] (PRIDummy) :: Item [43] causing search overtime: "SlacksPants_Brown"
+ 4:37:35.918 [CE][LootRespawner] (PRIDummy) :: Item [44] causing search overtime: "FlatCap_GreyCheck"
+ 4:37:36.19 [CE][LootRespawner] (PRIDummy) :: Item [45] causing search overtime: "SlacksPants_White"
+ 4:37:36.119 [CE][LootRespawner] (PRIDummy) :: Item [46] causing search overtime: "WomanSuit_White"
+ 4:37:36.218 [CE][LootRespawner] (PRIDummy) :: Item [47] causing search overtime: "ManSuit_Beige"
+ 4:37:36.318 [CE][LootRespawner] (PRIDummy) :: Item [48] causing search overtime: "SlacksPants_LightGrey"
+ 4:37:36.418 [CE][LootRespawner] (PRIDummy) :: Item [49] causing search overtime: "ManSuit_Khaki"
+ 4:37:36.518 [CE][LootRespawner] (PRIDummy) :: Item [50] causing search overtime: "DressShoes_Black"
+ 4:37:36.618 [CE][LootRespawner] (PRIDummy) :: Item [51] causing search overtime: "DressShoes_Beige"
+ 4:37:36.718 [CE][LootRespawner] (PRIDummy) :: Item [52] causing search overtime: "WomanSuit_Brown"
+ 4:37:36.819 [CE][LootRespawner] (PRIDummy) :: Item [53] causing search overtime: "ManSuit_LightGrey"
+ 4:37:36.918 [CE][LootRespawner] (PRIDummy) :: Item [54] causing search overtime: "WomanSuit_Black"
+ 4:37:37.18 [CE][LootRespawner] (PRIDummy) :: Item [55] causing search overtime: "ManSuit_Black"
+ 4:37:37.119 [CE][LootRespawner] (PRIDummy) :: Item [56] causing search overtime: "ManSuit_White"
+ 4:37:37.219 [CE][LootRespawner] (PRIDummy) :: Item [57] causing search overtime: "WomanSuit_Beige"
+ 4:37:37.318 [CE][LootRespawner] (PRIDummy) :: Item [58] causing search overtime: "DressShoes_White"
+ 4:38:02.322 [CE][LootRespawner] (PRIDummy) :: Item [59] causing search overtime: "DressShoes_White"
+ 4:38:02.422 [CE][LootRespawner] (PRIDummy) :: Item [60] causing search overtime: "WomanSuit_LightGrey"
+ 4:38:02.522 [CE][LootRespawner] (PRIDummy) :: Item [61] causing search overtime: "ManSuit_Blue"
+ 4:38:02.622 [CE][LootRespawner] (PRIDummy) :: Item [62] causing search overtime: "SlacksPants_DarkGrey"
+ 4:38:02.723 [CE][LootRespawner] (PRIDummy) :: Item [63] causing search overtime: "ManSuit_DarkGrey"
+ 4:38:02.831 [CE][LootRespawner] (PRIDummy) :: Item [64] causing search overtime: "CZ61"
+ 4:38:03.25 [CE][LootRespawner] (PRIDummy) :: Item [65] causing search overtime: "Mp133Shotgun"
+ 4:38:03.123 [CE][LootRespawner] (PRIDummy) :: Item [66] causing search overtime: "HipPack_Black"
+ 4:38:03.422 [CE][LootRespawner] (PRIDummy) :: Item [67] causing search overtime: "RidersJacket_Black"
+ 4:38:03.522 [CE][LootRespawner] (PRIDummy) :: Item [68] causing search overtime: "ShortJeans_Brown"
+ 4:38:03.622 [CE][LootRespawner] (PRIDummy) :: Item [69] causing search overtime: "ShortJeans_Green"
+ 4:38:03.722 [CE][LootRespawner] (PRIDummy) :: Item [70] causing search overtime: "ShortJeans_Darkblue"
+ 4:38:03.822 [CE][LootRespawner] (PRIDummy) :: Item [71] causing search overtime: "Blouse_Green"
+ 4:38:03.923 [CE][LootRespawner] (PRIDummy) :: Item [72] causing search overtime: "ShortJeans_Red"
+ 4:38:04.22 [CE][LootRespawner] (PRIDummy) :: Item [73] causing search overtime: "Derringer_Grey"
+ 4:38:04.122 [CE][LootRespawner] (PRIDummy) :: Item [74] causing search overtime: "Mag_SSG82_5rnd"
+ 4:38:04.222 [CE][LootRespawner] (PRIDummy) :: Item [75] causing search overtime: "Blouse_White"
+ 4:38:29.231 [CE][LootRespawner] (PRIDummy) :: Item [76] causing search overtime: "Blouse_White"
+ 4:38:29.331 [CE][LootRespawner] (PRIDummy) :: Item [77] causing search overtime: "Blouse_Blue"
+ 4:38:29.431 [CE][LootRespawner] (PRIDummy) :: Item [78] causing search overtime: "SSG82"
+ 4:38:29.533 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "AmmoBox_380_35rnd"
+ 4:38:29.533 [CE][LootRespawner] (PRIDummy) :: Item [79] causing search overtime: "AmmoBox_380_35rnd"
+ 4:38:29.633 [CE][LootRespawner] (PRIDummy) :: Item [80] causing search overtime: "ChernarusSportShirt"
+ 4:38:29.732 [CE][LootRespawner] (PRIDummy) :: Item [81] causing search overtime: "Magnum"
+ 4:38:29.931 [CE][LootRespawner] (PRIDummy) :: Item [82] causing search overtime: "ShortJeans_Blue"
+ 4:38:30.31 [CE][LootRespawner] (PRIDummy) :: Item [83] causing search overtime: "Blouse_Violet"
+ 4:38:30.131 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "Mag_Glock_15Rnd"
+ 4:38:30.131 [CE][LootRespawner] (PRIDummy) :: Item [84] causing search overtime: "Mag_Glock_15Rnd"
+ 4:38:30.231 [CE][LootRespawner] (PRIDummy) :: Item [85] causing search overtime: "PaddedGloves_Brown"
+ 4:38:30.331 [CE][LootRespawner] (PRIDummy) :: Item [86] causing search overtime: "Chips"
+ 4:38:30.731 [CE][LootRespawner] (PRIDummy) :: Item [87] causing search overtime: "WomanSuit_Blue"
+ 4:38:30.832 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "Raincoat_Green"
+ 4:38:30.931 [CE][LootRespawner] (PRIDummy) :: Item [88] causing search overtime: "SlingBag_Black"
+ 4:38:31.31 [CE][LootRespawner] (PRIDummy) :: Item [89] causing search overtime: "SlingBag_Gray"
+ 4:38:31.931 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 4:38:56.232 [CE][LootRespawner] (PRIDummy) :: Item [90] causing search overtime: "ParamedicJacket_Blue"
+ 4:38:56.430 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "WoolGloves_Black"
+ 4:38:56.431 [CE][LootRespawner] (PRIDummy) :: Item [91] causing search overtime: "WoolGloves_Black"
+ 4:38:56.932 [CE][LootRespawner] (PRIDummy) :: Item [92] causing search overtime: "PrisonUniformPants"
+ 4:38:57.31 [CE][LootRespawner] (PRIDummy) :: Item [93] causing search overtime: "Fal_OeBttstck"
+ 4:38:57.431 [CE][LootRespawner] (PRIDummy) :: Item [94] causing search overtime: "PrisonerCap"
+ 4:38:57.532 [CE][LootRespawner] (PRIDummy) :: Item [95] causing search overtime: "NBCBootsGray"
+ 4:38:57.631 [CE][LootRespawner] (PRIDummy) :: Item [96] causing search overtime: "MedicalScrubsHat_White"
+ 4:38:57.731 [CE][LootRespawner] (PRIDummy) :: Item [97] causing search overtime: "casebag_green"
+ 4:38:57.831 [CE][LootRespawner] (PRIDummy) :: Item [98] causing search overtime: "NBCHoodGray"
+ 4:38:57.931 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "Flag_Cannibals"
+ 4:38:57.931 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "Flag_Cannibals"
+ 4:38:57.931 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Flag_Cannibals"
+ 4:39:23.53 [CE][LootRespawner] (PRIDummy) :: Item [99] causing search overtime: "BandageDressing"
+ 4:39:23.352 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "NBCJacketGray"
+ 4:39:23.552 [CE][LootRespawner] (PRIDummy) :: Item [100] causing search overtime: "PetrolLighter"
+ 4:39:23.652 [CE][LootRespawner] (PRIDummy) :: Item [101] causing search overtime: "Jeans_Green"
+ 4:39:23.752 [CE][LootRespawner] (PRIDummy) :: Item [102] causing search overtime: "Jeans_Blue"
+ 4:39:23.852 [CE][LootRespawner] (PRIDummy) :: Item [103] causing search overtime: "Jeans_BlueDark"
+ 4:39:24.52 [CE][LootRespawner] (PRIDummy) :: Item [104] causing search overtime: "BaseballCap_Blue"
+ 4:39:24.152 [CE][LootRespawner] (PRIDummy) :: Item [105] causing search overtime: "Jeans_Grey"
+ 4:39:24.252 [CE][LootRespawner] (PRIDummy) :: Item [106] causing search overtime: "BaseballCap_Beige"
+ 4:39:24.352 [CE][LootRespawner] (PRIDummy) :: Item [107] causing search overtime: "BaseballCap_Olive"
+ 4:39:24.452 [CE][LootRespawner] (PRIDummy) :: Item [108] causing search overtime: "BaseballCap_CMMG_Black"
+ 4:39:24.552 [CE][LootRespawner] (PRIDummy) :: Item [109] causing search overtime: "BaseballCap_Black"
+ 4:39:24.652 [CE][LootRespawner] (PRIDummy) :: Item [110] causing search overtime: "Jeans_Black"
+ 4:39:24.752 [CE][LootRespawner] (PRIDummy) :: Item [111] causing search overtime: "KitchenKnife"
+ 4:39:24.853 [CE][LootRespawner] (PRIDummy) :: Item [112] causing search overtime: "FlatCap_Brown"
+ 4:39:24.952 [CE][LootRespawner] (PRIDummy) :: Item [113] causing search overtime: "Jeans_Brown"
+ 4:39:49.957 !!! [CE][Point] Removing 875.482788, 5391.201660 from Land_Shed_W3
+ 4:39:49.959 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "BaseballBat"
+ 4:39:50.56 [CE][LootRespawner] (PRIDummy) :: Item [114] causing search overtime: "Jeans_Brown"
+ 4:39:50.156 [CE][LootRespawner] (PRIDummy) :: Item [115] causing search overtime: "BaseballCap_CMMG_Pink"
+ 4:39:50.256 [CE][LootRespawner] (PRIDummy) :: Item [116] causing search overtime: "FlatCap_BlackCheck"
+ 4:39:50.356 [CE][LootRespawner] (PRIDummy) :: Item [117] causing search overtime: "FlatCap_Black"
+ 4:39:50.456 [CE][LootRespawner] (PRIDummy) :: Item [118] causing search overtime: "FlatCap_BrownCheck"
+ 4:39:50.556 [CE][LootRespawner] (PRIDummy) :: Item [119] causing search overtime: "BaseballCap_Red"
+ 4:39:50.656 [CE][LootRespawner] (PRIDummy) :: Item [120] causing search overtime: "FlatCap_Red"
+ 4:39:50.756 [CE][LootRespawner] (PRIDummy) :: Item [121] causing search overtime: "BaseballCap_Pink"
+ 4:39:50.857 [CE][LootRespawner] (PRIDummy) :: Item [122] causing search overtime: "BoonieHat_Tan"
+ 4:39:50.956 [CE][LootRespawner] (PRIDummy) :: Item [123] causing search overtime: "KukriKnife"
+ 4:39:51.56 [CE][LootRespawner] (PRIDummy) :: Item [124] causing search overtime: "SlacksPants_Black"
+ 4:39:51.156 [CE][LootRespawner] (PRIDummy) :: Item [125] causing search overtime: "SlacksPants_Beige"
+ 4:39:51.257 [CE][LootRespawner] (PRIDummy) :: Item [126] causing search overtime: "BoonieHat_Blue"
+ 4:39:51.356 [CE][LootRespawner] (PRIDummy) :: Item [127] causing search overtime: "FlatCap_Blue"
+ 4:39:51.456 [CE][LootRespawner] (PRIDummy) :: Item [128] causing search overtime: "ZmijovkaCap_Blue"
+ 4:39:51.556 [CE][LootRespawner] (PRIDummy) :: Item [129] causing search overtime: "BoonieHat_Olive"
+ 4:39:51.656 [CE][LootRespawner] (PRIDummy) :: Item [130] causing search overtime: "DressShoes_Brown"
+ 4:39:51.756 [CE][LootRespawner] (PRIDummy) :: Item [131] causing search overtime: "BoonieHat_Red"
+ 4:39:51.856 [CE][LootRespawner] (PRIDummy) :: Item [132] causing search overtime: "FlatCap_Grey"
+ 4:39:52.356 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 4:40:16.863 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "FarmingHoe"
+ 4:40:16.956 [CE][LootRespawner] (PRIDummy) :: Item [133] causing search overtime: "FlatCap_Grey"
+ 4:40:17.56 [CE][LootRespawner] (PRIDummy) :: Item [134] causing search overtime: "WomanSuit_DarkGrey"
+ 4:40:17.156 [CE][LootRespawner] (PRIDummy) :: Item [135] causing search overtime: "SlacksPants_Blue"
+ 4:40:17.256 [CE][LootRespawner] (PRIDummy) :: Item [136] causing search overtime: "WomanSuit_Khaki"
+ 4:40:17.356 [CE][LootRespawner] (PRIDummy) :: Item [137] causing search overtime: "ManSuit_Brown"
+ 4:40:17.456 [CE][LootRespawner] (PRIDummy) :: Item [138] causing search overtime: "WoolGloves_White"
+ 4:40:17.556 [CE][LootRespawner] (PRIDummy) :: Item [139] causing search overtime: "BoonieHat_Orange"
+ 4:40:17.656 [CE][LootRespawner] (PRIDummy) :: Item [140] causing search overtime: "BoonieHat_Black"
+ 4:40:17.756 [CE][LootRespawner] (PRIDummy) :: Item [141] causing search overtime: "DressShoes_Sunburst"
+ 4:40:17.856 [CE][LootRespawner] (PRIDummy) :: Item [142] causing search overtime: "SlacksPants_Khaki"
+ 4:40:17.956 [CE][LootRespawner] (PRIDummy) :: Item [143] causing search overtime: "DressShoes_Beige"
+ 4:40:18.57 [CE][LootRespawner] (PRIDummy) :: Item [144] causing search overtime: "SlacksPants_Brown"
+ 4:40:18.156 [CE][LootRespawner] (PRIDummy) :: Item [145] causing search overtime: "FlatCap_GreyCheck"
+ 4:40:18.256 [CE][LootRespawner] (PRIDummy) :: Item [146] causing search overtime: "SlacksPants_White"
+ 4:40:18.356 [CE][LootRespawner] (PRIDummy) :: Item [147] causing search overtime: "WomanSuit_White"
+ 4:40:18.456 [CE][LootRespawner] (PRIDummy) :: Item [148] causing search overtime: "ManSuit_Beige"
+ 4:40:18.556 [CE][LootRespawner] (PRIDummy) :: Item [149] causing search overtime: "SlacksPants_LightGrey"
+ 4:40:18.656 [CE][LootRespawner] (PRIDummy) :: Item [150] causing search overtime: "ManSuit_Khaki"
+ 4:40:18.756 [CE][LootRespawner] (PRIDummy) :: Item [151] causing search overtime: "DressShoes_Black"
+ 4:40:43.757 [CE][LootRespawner] (PRIDummy) :: Item [152] causing search overtime: "DressShoes_Black"
+ 4:40:43.856 [CE][LootRespawner] (PRIDummy) :: Item [153] causing search overtime: "WomanSuit_Brown"
+ 4:40:43.956 [CE][LootRespawner] (PRIDummy) :: Item [154] causing search overtime: "ManSuit_LightGrey"
+ 4:40:44.56 [CE][LootRespawner] (PRIDummy) :: Item [155] causing search overtime: "WomanSuit_Black"
+ 4:40:44.156 [CE][LootRespawner] (PRIDummy) :: Item [156] causing search overtime: "ManSuit_Black"
+ 4:40:44.256 [CE][LootRespawner] (PRIDummy) :: Item [157] causing search overtime: "ManSuit_White"
+ 4:40:44.356 [CE][LootRespawner] (PRIDummy) :: Item [158] causing search overtime: "WomanSuit_Beige"
+ 4:40:44.456 [CE][LootRespawner] (PRIDummy) :: Item [159] causing search overtime: "DressShoes_White"
+ 4:40:44.556 [CE][LootRespawner] (PRIDummy) :: Item [160] causing search overtime: "WomanSuit_LightGrey"
+ 4:40:44.656 [CE][LootRespawner] (PRIDummy) :: Item [161] causing search overtime: "ManSuit_Blue"
+ 4:40:44.756 [CE][LootRespawner] (PRIDummy) :: Item [162] causing search overtime: "SlacksPants_DarkGrey"
+ 4:40:44.856 [CE][LootRespawner] (PRIDummy) :: Item [163] causing search overtime: "ManSuit_DarkGrey"
+ 4:40:44.957 [CE][LootRespawner] (PRIDummy) :: Item [164] causing search overtime: "Mp133Shotgun"
+ 4:40:45.56 [CE][LootRespawner] (PRIDummy) :: Item [165] causing search overtime: "HipPack_Black"
+ 4:40:45.156 [CE][LootRespawner] (PRIDummy) :: Item [166] causing search overtime: "RidersJacket_Black"
+ 4:40:45.256 [CE][LootRespawner] (PRIDummy) :: Item [167] causing search overtime: "ShortJeans_Brown"
+ 4:40:45.359 [CE][LootRespawner] (PRIDummy) :: Item [168] causing search overtime: "CZ61"
+ 4:40:45.456 [CE][LootRespawner] (PRIDummy) :: Item [169] causing search overtime: "ShortJeans_Green"
+ 4:40:45.556 [CE][LootRespawner] (PRIDummy) :: Item [170] causing search overtime: "ShortJeans_Darkblue"
+ 4:40:45.656 [CE][LootRespawner] (PRIDummy) :: Item [171] causing search overtime: "Blouse_Green"
+ 4:41:10.656 [CE][LootRespawner] (PRIDummy) :: Item [172] causing search overtime: "Blouse_Green"
+ 4:41:10.756 [CE][LootRespawner] (PRIDummy) :: Item [173] causing search overtime: "ShortJeans_Red"
+ 4:41:10.856 [CE][LootRespawner] (PRIDummy) :: Item [174] causing search overtime: "Derringer_Grey"
+ 4:41:10.956 [CE][LootRespawner] (PRIDummy) :: Item [175] causing search overtime: "Mag_SSG82_5rnd"
+ 4:41:11.56 [CE][LootRespawner] (PRIDummy) :: Item [176] causing search overtime: "Blouse_White"
+ 4:41:11.156 [CE][LootRespawner] (PRIDummy) :: Item [177] causing search overtime: "Blouse_Blue"
+ 4:41:11.257 [CE][LootRespawner] (PRIDummy) :: Item [178] causing search overtime: "SSG82"
+ 4:41:11.357 [CE][LootRespawner] (PRIDummy) :: Item [179] causing search overtime: "InediaPain_SplintKit"
+ 4:41:11.556 [CE][LootRespawner] (PRIDummy) :: Item [180] causing search overtime: "Magnum"
+ 4:41:11.656 [CE][LootRespawner] (PRIDummy) :: Item [181] causing search overtime: "ShortJeans_Blue"
+ 4:41:11.756 [CE][LootRespawner] (PRIDummy) :: Item [182] causing search overtime: "Blouse_Violet"
+ 4:41:11.856 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "Mag_Glock_15Rnd"
+ 4:41:11.856 [CE][LootRespawner] (PRIDummy) :: Item [183] causing search overtime: "Mag_Glock_15Rnd"
+ 4:41:11.956 [CE][LootRespawner] (PRIDummy) :: Item [184] causing search overtime: "PaddedGloves_Brown"
+ 4:41:12.156 [CE][LootRespawner] (PRIDummy) :: Item [185] causing search overtime: "WomanSuit_Blue"
+ 4:41:12.256 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "AmmoBox_380_35rnd"
+ 4:41:12.256 [CE][LootRespawner] (PRIDummy) :: Item [186] causing search overtime: "AmmoBox_380_35rnd"
+ 4:41:12.557 [CE][LootRespawner] (PRIDummy) :: Item [187] causing search overtime: "SlingBag_Black"
+ 4:41:12.756 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 4:41:22.510 !!! _toMoveOutOrDelete resized during cleaning
+ 4:41:37.614 [CE][LootRespawner] (PRIDummy) :: Item [188] causing search overtime: "SlingBag_Black"
+ 4:41:37.714 [CE][LootRespawner] (PRIDummy) :: Item [189] causing search overtime: "SlingBag_Gray"
+ 4:41:37.814 [CE][LootRespawner] (PRIDummy) :: Item [190] causing search overtime: "ChernarusSportShirt"
+ 4:41:37.914 [CE][LootRespawner] (PRIDummy) :: Item [191] causing search overtime: "Chips"
+ 4:41:38.116 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "AK74"
+ 4:41:38.120 [CE][LootRespawner] (PRIDummy) :: Item [192] causing search overtime: "AK74"
+ 4:41:38.313 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "WoolGloves_Black"
+ 4:41:38.314 [CE][LootRespawner] (PRIDummy) :: Item [193] causing search overtime: "WoolGloves_Black"
+ 4:41:38.514 [CE][LootRespawner] (PRIDummy) :: Item [194] causing search overtime: "PrisonUniformPants"
+ 4:41:38.714 [CE][LootRespawner] (PRIDummy) :: Item [195] causing search overtime: "ParamedicJacket_Blue"
+ 4:41:39.514 [CE][LootRespawner] (PRIDummy) :: Item [196] causing search overtime: "PrisonerCap"
+ 4:42:04.520 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "MilitaryBoots_Black"
+ 4:42:04.619 [CE][LootRespawner] (PRIDummy) :: Item [197] causing search overtime: "PrisonerCap"
+ 4:42:04.820 [CE][LootRespawner] (PRIDummy) :: Item [198] causing search overtime: "MedicalScrubsHat_White"
+ 4:42:05.20 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "casebag_green"
+ 4:42:06.319 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "FOG_Pouch_Mag_LV119_CB"
+ 4:42:09.319 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 4:42:31.422 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "Raincoat_Pink"
+ 4:42:32.319 [CE][LootRespawner] (PRIDummy) :: Item [199] causing search overtime: "NBCBootsGray"
+ 4:42:32.619 [CE][LootRespawner] (PRIDummy) :: Item [200] causing search overtime: "PetrolLighter"
+ 4:42:32.719 [CE][LootRespawner] (PRIDummy) :: Item [201] causing search overtime: "Jeans_Green"
+ 4:42:32.819 [CE][LootRespawner] (PRIDummy) :: Item [202] causing search overtime: "Jeans_Blue"
+ 4:42:32.919 [CE][LootRespawner] (PRIDummy) :: Item [203] causing search overtime: "Jeans_BlueDark"
+ 4:42:33.19 [CE][LootRespawner] (PRIDummy) :: Item [204] causing search overtime: "BaseballCap_Blue"
+ 4:42:33.119 [CE][LootRespawner] (PRIDummy) :: Item [205] causing search overtime: "Jeans_Grey"
+ 4:42:33.219 [CE][LootRespawner] (PRIDummy) :: Item [206] causing search overtime: "BaseballCap_Beige"
+ 4:42:33.320 [CE][LootRespawner] (PRIDummy) :: Item [207] causing search overtime: "BaseballCap_Olive"
+ 4:42:33.820 [CE][Links] found 22 total links between groups, of 33
+ 4:42:33.820 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.821 [CE][Links] found 22 total links between groups, of 34
+ 4:42:33.821 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.823 [CE][Links] found 22 total links between groups, of 35
+ 4:42:33.823 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.827 [CE][Links] found 24 total links between groups, of 36
+ 4:42:33.827 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.828 [CE][Links] found 24 total links between groups, of 37
+ 4:42:33.828 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.835 [CE][Links] found 24 total links between groups, of 38
+ 4:42:33.835 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.837 [CE][Links] found 24 total links between groups, of 39
+ 4:42:33.837 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.838 [CE][Links] found 24 total links between groups, of 40
+ 4:42:33.838 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.839 [CE][Links] found 24 total links between groups, of 41
+ 4:42:33.839 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.843 [CE][Links] found 24 total links between groups, of 42
+ 4:42:33.843 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.844 [CE][Links] found 24 total links between groups, of 43
+ 4:42:33.844 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.858 [CE][Links] found 24 total links between groups, of 44
+ 4:42:33.858 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.862 [CE][Links] found 24 total links between groups, of 45
+ 4:42:33.862 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.864 [CE][Links] found 24 total links between groups, of 46
+ 4:42:33.864 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:33.865 [CE][Links] found 24 total links between groups, of 47
+ 4:42:33.865 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:42:58.325 [CE][LootRespawner] (PRIDummy) :: Item [208] causing search overtime: "BaseballCap_Olive"
+ 4:42:58.526 [CE][LootRespawner] (PRIDummy) :: Item [209] causing search overtime: "BaseballCap_CMMG_Black"
+ 4:42:58.625 [CE][LootRespawner] (PRIDummy) :: Item [210] causing search overtime: "BaseballCap_Black"
+ 4:42:58.726 [CE][LootRespawner] (PRIDummy) :: Item [211] causing search overtime: "Jeans_Black"
+ 4:42:58.826 [CE][LootRespawner] (PRIDummy) :: Item [212] causing search overtime: "KitchenKnife"
+ 4:42:58.925 [CE][LootRespawner] (PRIDummy) :: Item [213] causing search overtime: "FlatCap_Brown"
+ 4:42:59.25 [CE][LootRespawner] (PRIDummy) :: Item [214] causing search overtime: "Jeans_Brown"
+ 4:42:59.125 [CE][LootRespawner] (PRIDummy) :: Item [215] causing search overtime: "BaseballCap_CMMG_Pink"
+ 4:42:59.225 [CE][LootRespawner] (PRIDummy) :: Item [216] causing search overtime: "FlatCap_BlackCheck"
+ 4:42:59.325 [CE][LootRespawner] (PRIDummy) :: Item [217] causing search overtime: "FlatCap_Black"
+ 4:42:59.425 [CE][LootRespawner] (PRIDummy) :: Item [218] causing search overtime: "FlatCap_BrownCheck"
+ 4:42:59.525 [CE][LootRespawner] (PRIDummy) :: Item [219] causing search overtime: "BaseballCap_Red"
+ 4:42:59.625 [CE][LootRespawner] (PRIDummy) :: Item [220] causing search overtime: "FlatCap_Red"
+ 4:42:59.726 [CE][LootRespawner] (PRIDummy) :: Item [221] causing search overtime: "BaseballCap_Pink"
+ 4:42:59.925 [CE][LootRespawner] (PRIDummy) :: Item [222] causing search overtime: "BoonieHat_Tan"
+ 4:43:00.26 [CE][LootRespawner] (PRIDummy) :: Item [223] causing search overtime: "KukriKnife"
+ 4:43:00.225 [CE][LootRespawner] (PRIDummy) :: Item [224] causing search overtime: "SlacksPants_Black"
+ 4:43:25.226 [CE][LootRespawner] (PRIDummy) :: Item [225] causing search overtime: "SlacksPants_Black"
+ 4:43:25.325 [CE][LootRespawner] (PRIDummy) :: Item [226] causing search overtime: "SlacksPants_Beige"
+ 4:43:25.425 [CE][LootRespawner] (PRIDummy) :: Item [227] causing search overtime: "BoonieHat_Blue"
+ 4:43:25.525 [CE][LootRespawner] (PRIDummy) :: Item [228] causing search overtime: "FlatCap_Blue"
+ 4:43:25.625 [CE][LootRespawner] (PRIDummy) :: Item [229] causing search overtime: "ZmijovkaCap_Blue"
+ 4:43:25.726 [CE][LootRespawner] (PRIDummy) :: Item [230] causing search overtime: "BoonieHat_Olive"
+ 4:43:25.825 [CE][LootRespawner] (PRIDummy) :: Item [231] causing search overtime: "WoolGloves_White"
+ 4:43:25.925 [CE][LootRespawner] (PRIDummy) :: Item [232] causing search overtime: "DressShoes_Brown"
+ 4:43:26.25 [CE][LootRespawner] (PRIDummy) :: Item [233] causing search overtime: "BoonieHat_Red"
+ 4:43:26.125 [CE][LootRespawner] (PRIDummy) :: Item [234] causing search overtime: "FlatCap_Grey"
+ 4:43:26.225 [CE][LootRespawner] (PRIDummy) :: Item [235] causing search overtime: "WomanSuit_DarkGrey"
+ 4:43:26.325 [CE][LootRespawner] (PRIDummy) :: Item [236] causing search overtime: "SlacksPants_Blue"
+ 4:43:26.425 [CE][LootRespawner] (PRIDummy) :: Item [237] causing search overtime: "WomanSuit_Khaki"
+ 4:43:26.526 [CE][LootRespawner] (PRIDummy) :: Item [238] causing search overtime: "ManSuit_Brown"
+ 4:43:26.625 [CE][LootRespawner] (PRIDummy) :: Item [239] causing search overtime: "BoonieHat_Orange"
+ 4:43:26.725 [CE][LootRespawner] (PRIDummy) :: Item [240] causing search overtime: "BoonieHat_Black"
+ 4:43:26.825 [CE][LootRespawner] (PRIDummy) :: Item [241] causing search overtime: "DressShoes_Sunburst"
+ 4:43:26.925 [CE][LootRespawner] (PRIDummy) :: Item [242] causing search overtime: "SlacksPants_Khaki"
+ 4:43:27.25 [CE][LootRespawner] (PRIDummy) :: Item [243] causing search overtime: "DressShoes_Beige"
+ 4:43:27.125 [CE][LootRespawner] (PRIDummy) :: Item [244] causing search overtime: "SlacksPants_Brown"
+ 4:43:29.725 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+ 4:43:52.125 [CE][LootRespawner] (PRIDummy) :: Item [245] causing search overtime: "SlacksPants_Brown"
+ 4:43:52.225 [CE][LootRespawner] (PRIDummy) :: Item [246] causing search overtime: "FlatCap_GreyCheck"
+ 4:43:52.325 [CE][LootRespawner] (PRIDummy) :: Item [247] causing search overtime: "SlacksPants_White"
+ 4:43:52.426 [CE][LootRespawner] (PRIDummy) :: Item [248] causing search overtime: "WomanSuit_White"
+ 4:43:52.525 [CE][LootRespawner] (PRIDummy) :: Item [249] causing search overtime: "ManSuit_Beige"
+ 4:43:52.626 [CE][LootRespawner] (PRIDummy) :: Item [250] causing search overtime: "SlacksPants_LightGrey"
+ 4:43:52.726 [CE][LootRespawner] (PRIDummy) :: Item [251] causing search overtime: "ManSuit_Khaki"
+ 4:43:52.826 [CE][LootRespawner] (PRIDummy) :: Item [252] causing search overtime: "WomanSuit_Brown"
+ 4:43:52.926 [CE][LootRespawner] (PRIDummy) :: Item [253] causing search overtime: "ManSuit_LightGrey"
+ 4:43:53.28 [CE][LootRespawner] (PRIDummy) :: Item [254] causing search overtime: "WomanSuit_Black"
+ 4:43:53.127 [CE][LootRespawner] (PRIDummy) :: Item [255] causing search overtime: "ManSuit_Black"
+ 4:43:53.226 [CE][LootRespawner] (PRIDummy) :: Item [256] causing search overtime: "ManSuit_White"
+ 4:43:53.326 [CE][LootRespawner] (PRIDummy) :: Item [257] causing search overtime: "WomanSuit_Beige"
+ 4:43:53.426 [CE][LootRespawner] (PRIDummy) :: Item [258] causing search overtime: "DressShoes_Black"
+ 4:43:53.526 [CE][LootRespawner] (PRIDummy) :: Item [259] causing search overtime: "DressShoes_White"
+ 4:43:53.626 [CE][LootRespawner] (PRIDummy) :: Item [260] causing search overtime: "WomanSuit_LightGrey"
+ 4:43:53.727 [CE][LootRespawner] (PRIDummy) :: Item [261] causing search overtime: "ManSuit_Blue"
+ 4:43:53.826 [CE][LootRespawner] (PRIDummy) :: Item [262] causing search overtime: "SlacksPants_DarkGrey"
+ 4:43:53.927 [CE][LootRespawner] (PRIDummy) :: Item [263] causing search overtime: "ManSuit_DarkGrey"
+ 4:43:54.30 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Shirt_PlaneBlack"
+ 4:44:19.159 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "FarmingHoe"
+ 4:44:19.258 [CE][LootRespawner] (PRIDummy) :: Item [264] causing search overtime: "HipPack_Black"
+ 4:44:19.359 [CE][LootRespawner] (PRIDummy) :: Item [265] causing search overtime: "RidersJacket_Black"
+ 4:44:19.458 [CE][LootRespawner] (PRIDummy) :: Item [266] causing search overtime: "ShortJeans_Brown"
+ 4:44:19.559 [CE][LootRespawner] (PRIDummy) :: Item [267] causing search overtime: "ShortJeans_Green"
+ 4:44:19.658 [CE][LootRespawner] (PRIDummy) :: Item [268] causing search overtime: "ShortJeans_Darkblue"
+ 4:44:19.759 [CE][LootRespawner] (PRIDummy) :: Item [269] causing search overtime: "Blouse_Green"
+ 4:44:19.858 [CE][LootRespawner] (PRIDummy) :: Item [270] causing search overtime: "ShortJeans_Red"
+ 4:44:19.961 [CE][LootRespawner] (PRIDummy) :: Item [271] causing search overtime: "Mp133Shotgun"
+ 4:44:20.58 [CE][LootRespawner] (PRIDummy) :: Item [272] causing search overtime: "Derringer_Grey"
+ 4:44:20.158 [CE][LootRespawner] (PRIDummy) :: Item [273] causing search overtime: "Mag_SSG82_5rnd"
+ 4:44:20.259 [CE][LootRespawner] (PRIDummy) :: Item [274] causing search overtime: "BandageDressing"
+ 4:44:20.360 [CE][LootRespawner] (PRIDummy) :: Item [275] causing search overtime: "Blouse_White"
+ 4:44:20.458 [CE][LootRespawner] (PRIDummy) :: Item [276] causing search overtime: "Blouse_Blue"
+ 4:44:20.559 [CE][LootRespawner] (PRIDummy) :: Item [277] causing search overtime: "CZ61"
+ 4:44:20.658 [CE][LootRespawner] (PRIDummy) :: Item [278] causing search overtime: "SSG82"
+ 4:44:20.760 [CE][LootRespawner] (PRIDummy) :: Item [279] causing search overtime: "Magnum"
+ 4:44:20.858 [CE][LootRespawner] (PRIDummy) :: Item [280] causing search overtime: "ShortJeans_Blue"
+ 4:44:20.958 [CE][LootRespawner] (PRIDummy) :: Item [281] causing search overtime: "Blouse_Violet"
+ 4:44:46.72 [CE][LootRespawner] (PRIDummy) :: Item [282] causing search overtime: "Blouse_Violet"
+ 4:44:46.175 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "Mag_Glock_15Rnd"
+ 4:44:46.177 [CE][LootRespawner] (PRIDummy) :: Item [283] causing search overtime: "Mag_Glock_15Rnd"
+ 4:44:46.273 [CE][LootRespawner] (PRIDummy) :: Item [284] causing search overtime: "InediaPain_SplintKit"
+ 4:44:46.372 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "AmmoBox_380_35rnd"
+ 4:44:46.372 [CE][LootRespawner] (PRIDummy) :: Item [285] causing search overtime: "AmmoBox_380_35rnd"
+ 4:44:46.472 [CE][LootRespawner] (PRIDummy) :: Item [286] causing search overtime: "PaddedGloves_Brown"
+ 4:44:46.573 [CE][LootRespawner] (PRIDummy) :: Item [287] causing search overtime: "ChernarusSportShirt"
+ 4:44:46.672 [CE][LootRespawner] (PRIDummy) :: Item [288] causing search overtime: "LabCoat"
+ 4:44:46.773 [CE][LootRespawner] (PRIDummy) :: Item [289] causing search overtime: "WomanSuit_Blue"
+ 4:44:46.872 [CE][LootRespawner] (PRIDummy) :: Item [290] causing search overtime: "SlingBag_Black"
+ 4:44:46.972 [CE][LootRespawner] (PRIDummy) :: Item [291] causing search overtime: "SlingBag_Gray"
+ 4:44:47.72 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "AthleticShoes_Grey"
+ 4:44:47.173 [CE][LootRespawner] (PRIDummy) :: Item [292] causing search overtime: "Chips"
+ 4:44:47.472 [CE][LootRespawner] (PRIDummy) :: Item [293] causing search overtime: "PrisonUniformPants"
+ 4:44:47.572 [CE][LootRespawner] (PRIDummy) :: Item [294] causing search overtime: "ParamedicJacket_Blue"
+ 4:44:47.872 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "WoolGloves_Black"
+ 4:44:47.872 [CE][LootRespawner] (PRIDummy) :: Item [295] causing search overtime: "WoolGloves_Black"
+ 4:44:50.172 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 4:45:12.873 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to place, performance drops: "PolicePants"
+ 4:45:12.873 [CE][LootRespawner] (PRIDummy) :: Item [296] causing search overtime: "PolicePants"
+ 4:45:12.975 [CE][LootRespawner] (PRIDummy) :: Item [25] is hard to place, performance drops: "AmmoBox_12gaRubberSlug_10Rnd"
+ 4:45:12.975 [CE][LootRespawner] (PRIDummy) :: Item [297] causing search overtime: "AmmoBox_12gaRubberSlug_10Rnd"
+ 4:45:13.373 [CE][LootRespawner] (PRIDummy) :: Item [26] is hard to place, performance drops: "WoolGloves_Black"
+ 4:45:13.373 [CE][LootRespawner] (PRIDummy) :: Item [298] causing search overtime: "WoolGloves_Black"
+ 4:45:14.173 [CE][LootRespawner] (PRIDummy) :: Item [299] causing search overtime: "PrisonerCap"
+ 4:45:14.373 [CE][LootRespawner] (PRIDummy) :: Item [27] is hard to place, performance drops: "FOG_Shirt_Polo_OD"
+ 4:45:14.977 [CE][Links] found 24 total links between groups, of 48
+ 4:45:14.977 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 4:45:14.983 [CE][Links] found 24 total links between groups, of 49
+ 4:45:14.983 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 4:45:14.994 [CE][Links] found 24 total links between groups, of 50
+ 4:45:14.994 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 4:45:15.00 [CE][Links] found 24 total links between groups, of 51
+ 4:45:15.00 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Tractor_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.06 [CE][Links] found 24 total links between groups, of 52
+ 4:45:15.06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_wreck_truck01_aban1_firetruck_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 2
+ 4:45:15.06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Sum of container LootMax is lower than event child LootMax (2 < 5)
+ 4:45:15.06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Wanting to spawn more loot than possible (4 > 2)
+ 4:45:15.08 [CE][Links] found 24 total links between groups, of 53
+ 4:45:15.08 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.14 [CE][Links] found 24 total links between groups, of 54
+ 4:45:15.14 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.18 [CE][Links] found 24 total links between groups, of 55
+ 4:45:15.18 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 4:45:15.38 [CE][Links] found 24 total links between groups, of 56
+ 4:45:15.38 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.42 [CE][Links] found 24 total links between groups, of 57
+ 4:45:15.42 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+ 4:45:15.46 [CE][Links] found 24 total links between groups, of 58
+ 4:45:15.46 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.57 [CE][Links] found 24 total links between groups, of 59
+ 4:45:15.57 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.68 [CE][Links] found 24 total links between groups, of 60
+ 4:45:15.68 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.72 [CE][Links] found 24 total links between groups, of 61
+ 4:45:15.72 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.86 [CE][Links] found 24 total links between groups, of 62
+ 4:45:15.86 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:15.88 [CE][Links] found 24 total links between groups, of 63
+ 4:45:15.88 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 4:45:15.90 [CE][Links] found 24 total links between groups, of 64
+ 4:45:15.90 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 4:45:39.803 [CE][LootRespawner] (PRIDummy) :: Item [300] causing search overtime: "ShortJeans_Black"
+ 4:45:39.902 [CE][LootRespawner] (PRIDummy) :: Item [28] is hard to place, performance drops: "CanvasPantsMidi_Violet"
+ 4:45:40.201 [CE][LootRespawner] (PRIDummy) :: Item [29] is hard to place, performance drops: "FOG_Tshirt_White_Star"
+ 4:45:40.301 [CE][LootRespawner] (PRIDummy) :: Item [30] is hard to place, performance drops: "FOG_Gorka_Jacket_Partizan"
+ 4:45:41.201 [CE][LootRespawner] (PRIDummy) :: Item [31] is hard to place, performance drops: "FOG_SAS_Holster_M81"
+ 4:46:06.804 [CE][LootRespawner] (PRIDummy) :: Item [32] is hard to place, performance drops: "ChestHolster"
+ 4:46:06.901 [CE][LootRespawner] (PRIDummy) :: Item [301] causing search overtime: "MedicalScrubsHat_White"
+ 4:46:07.101 [CE][LootRespawner] (PRIDummy) :: Item [33] is hard to place, performance drops: "FOG_DEFCONVans_Shoes_Blue"
+ 4:46:07.401 [CE][LootRespawner] (PRIDummy) :: Item [302] causing search overtime: "PetrolLighter"
+ 4:46:07.501 [CE][LootRespawner] (PRIDummy) :: Item [303] causing search overtime: "Jeans_Green"
+ 4:46:07.601 [CE][LootRespawner] (PRIDummy) :: Item [304] causing search overtime: "Jeans_Blue"
+ 4:46:07.701 [CE][LootRespawner] (PRIDummy) :: Item [305] causing search overtime: "Jeans_BlueDark"
+ 4:46:07.801 [CE][LootRespawner] (PRIDummy) :: Item [306] causing search overtime: "BaseballCap_Blue"
+ 4:46:07.901 [CE][LootRespawner] (PRIDummy) :: Item [307] causing search overtime: "Jeans_Grey"
+ 4:46:08.102 [CE][LootRespawner] (PRIDummy) :: Item [308] causing search overtime: "BaseballCap_Beige"
+ 4:46:08.201 [CE][LootRespawner] (PRIDummy) :: Item [309] causing search overtime: "BaseballCap_Olive"
+ 4:46:08.301 [CE][LootRespawner] (PRIDummy) :: Item [310] causing search overtime: "BaseballCap_CMMG_Black"
+ 4:46:08.401 [CE][LootRespawner] (PRIDummy) :: Item [311] causing search overtime: "BaseballCap_Black"
+ 4:46:08.502 [CE][LootRespawner] (PRIDummy) :: Item [312] causing search overtime: "Jeans_Black"
+ 4:46:08.601 [CE][LootRespawner] (PRIDummy) :: Item [313] causing search overtime: "KitchenKnife"
+ 4:46:10.601 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 4:46:33.608 [CE][LootRespawner] (PRIDummy) :: Item [314] causing search overtime: "KitchenKnife"
+ 4:46:33.807 [CE][LootRespawner] (PRIDummy) :: Item [315] causing search overtime: "FlatCap_Brown"
+ 4:46:33.907 [CE][LootRespawner] (PRIDummy) :: Item [316] causing search overtime: "Jeans_Brown"
+ 4:46:34.07 [CE][LootRespawner] (PRIDummy) :: Item [317] causing search overtime: "BaseballCap_CMMG_Pink"
+ 4:46:34.107 [CE][LootRespawner] (PRIDummy) :: Item [318] causing search overtime: "FlatCap_BlackCheck"
+ 4:46:34.208 [CE][LootRespawner] (PRIDummy) :: Item [319] causing search overtime: "FlatCap_Black"
+ 4:46:34.307 [CE][LootRespawner] (PRIDummy) :: Item [320] causing search overtime: "FlatCap_BrownCheck"
+ 4:46:34.407 [CE][LootRespawner] (PRIDummy) :: Item [321] causing search overtime: "BaseballCap_Red"
+ 4:46:34.508 [CE][LootRespawner] (PRIDummy) :: Item [322] causing search overtime: "FlatCap_Red"
+ 4:46:34.607 [CE][LootRespawner] (PRIDummy) :: Item [323] causing search overtime: "BaseballCap_Pink"
+ 4:46:34.807 [CE][LootRespawner] (PRIDummy) :: Item [324] causing search overtime: "BoonieHat_Tan"
+ 4:46:34.908 [CE][LootRespawner] (PRIDummy) :: Item [325] causing search overtime: "KukriKnife"
+ 4:46:35.107 [CE][LootRespawner] (PRIDummy) :: Item [326] causing search overtime: "SlacksPants_Black"
+ 4:46:35.207 [CE][LootRespawner] (PRIDummy) :: Item [327] causing search overtime: "SlacksPants_Beige"
+ 4:46:35.307 [CE][LootRespawner] (PRIDummy) :: Item [328] causing search overtime: "BoonieHat_Blue"
+ 4:46:35.407 [CE][LootRespawner] (PRIDummy) :: Item [329] causing search overtime: "FlatCap_Blue"
+ 4:46:35.507 [CE][LootRespawner] (PRIDummy) :: Item [330] causing search overtime: "ZmijovkaCap_Blue"
+ 4:47:00.508 [CE][LootRespawner] (PRIDummy) :: Item [331] causing search overtime: "ZmijovkaCap_Blue"
+ 4:47:00.609 [CE][LootRespawner] (PRIDummy) :: Item [332] causing search overtime: "BoonieHat_Olive"
+ 4:47:00.708 [CE][LootRespawner] (PRIDummy) :: Item [333] causing search overtime: "WoolGloves_White"
+ 4:47:00.808 [CE][LootRespawner] (PRIDummy) :: Item [334] causing search overtime: "DressShoes_Brown"
+ 4:47:00.908 [CE][LootRespawner] (PRIDummy) :: Item [335] causing search overtime: "BoonieHat_Red"
+ 4:47:01.08 [CE][LootRespawner] (PRIDummy) :: Item [336] causing search overtime: "FlatCap_Grey"
+ 4:47:01.108 [CE][LootRespawner] (PRIDummy) :: Item [337] causing search overtime: "WomanSuit_DarkGrey"
+ 4:47:01.208 [CE][LootRespawner] (PRIDummy) :: Item [338] causing search overtime: "SlacksPants_Blue"
+ 4:47:01.308 [CE][LootRespawner] (PRIDummy) :: Item [339] causing search overtime: "WomanSuit_Khaki"
+ 4:47:01.408 [CE][LootRespawner] (PRIDummy) :: Item [340] causing search overtime: "ManSuit_Brown"
+ 4:47:01.509 [CE][LootRespawner] (PRIDummy) :: Item [341] causing search overtime: "BoonieHat_Orange"
+ 4:47:01.608 [CE][LootRespawner] (PRIDummy) :: Item [342] causing search overtime: "BoonieHat_Black"
+ 4:47:01.708 [CE][LootRespawner] (PRIDummy) :: Item [343] causing search overtime: "DressShoes_Sunburst"
+ 4:47:01.808 [CE][LootRespawner] (PRIDummy) :: Item [344] causing search overtime: "SlacksPants_Khaki"
+ 4:47:01.908 [CE][LootRespawner] (PRIDummy) :: Item [345] causing search overtime: "DressShoes_Beige"
+ 4:47:02.08 [CE][LootRespawner] (PRIDummy) :: Item [346] causing search overtime: "SlacksPants_Brown"
+ 4:47:02.109 [CE][LootRespawner] (PRIDummy) :: Item [347] causing search overtime: "FlatCap_GreyCheck"
+ 4:47:02.208 [CE][LootRespawner] (PRIDummy) :: Item [348] causing search overtime: "SlacksPants_White"
+ 4:47:02.308 [CE][LootRespawner] (PRIDummy) :: Item [349] causing search overtime: "WomanSuit_White"
+ 4:47:02.408 [CE][LootRespawner] (PRIDummy) :: Item [350] causing search overtime: "ManSuit_Beige"
+ 4:47:27.408 [CE][LootRespawner] (PRIDummy) :: Item [351] causing search overtime: "ManSuit_Beige"
+ 4:47:27.508 [CE][LootRespawner] (PRIDummy) :: Item [352] causing search overtime: "SlacksPants_LightGrey"
+ 4:47:27.608 [CE][LootRespawner] (PRIDummy) :: Item [353] causing search overtime: "ManSuit_Khaki"
+ 4:47:27.708 [CE][LootRespawner] (PRIDummy) :: Item [354] causing search overtime: "WomanSuit_Brown"
