@@ -15,8 +15,8 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Akol_MosinMount_NoAttachment">
         <nominal>10</nominal>
@@ -146,8 +146,8 @@
         <category name="weapons" />
         <usage name="Police" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Akol_Okp77">
         <nominal>10</nominal>
@@ -162,8 +162,8 @@
         <category name="weapons" />
         <usage name="Police" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Akol_Specter6x">
         <nominal>5</nominal>
@@ -177,8 +177,8 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Akol_RailHuntingOptic">
         <nominal>5</nominal>
@@ -193,8 +193,8 @@
         <category name="weapons" />
         <usage name="Hunting" />
         <value name="Tier2" />
+        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Akol_Magnifier">
         <nominal>5</nominal>
@@ -206,8 +206,8 @@
         <cost>100</cost>
         <category name="weapons" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
     </type>

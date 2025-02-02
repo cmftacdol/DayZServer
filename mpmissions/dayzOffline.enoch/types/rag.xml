@@ -182,7 +182,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Farm" />
         <usage name="Industrial" />
@@ -205,7 +204,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Farm" />
         <usage name="Industrial" />
@@ -228,7 +226,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Farm" />
         <usage name="Industrial" />
@@ -251,7 +248,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -275,7 +271,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
         <usage name="Farm" />
         <usage name="School" />
@@ -394,7 +389,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Farm" />
         <usage name="Industrial" />
     </type>
@@ -416,7 +410,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Farm" />
         <usage name="Industrial" />
     </type>
@@ -438,7 +431,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
@@ -461,7 +453,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
@@ -484,7 +475,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="School" />
     </type>
@@ -506,7 +496,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -530,7 +519,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -554,7 +542,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -576,7 +563,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -598,7 +584,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -620,7 +605,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -642,7 +626,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -664,7 +647,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -686,7 +668,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -710,7 +691,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -734,7 +714,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="School" />
@@ -757,7 +736,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="School" />
@@ -780,7 +758,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -804,7 +781,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -828,7 +804,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -852,7 +827,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -876,7 +850,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="School" />
@@ -899,7 +872,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="School" />
@@ -922,7 +894,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -946,7 +917,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -970,7 +940,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
     </type>
     <type name="rag_baseitems_globe">
@@ -991,7 +960,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Medic" />
@@ -1014,7 +982,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Medic" />
@@ -1037,7 +1004,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1062,7 +1028,6 @@
             crafted="0" deloot="0" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1079,7 +1044,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1096,7 +1060,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1113,7 +1076,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1130,7 +1092,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1147,7 +1108,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1169,7 +1129,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1195,7 +1154,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1221,7 +1179,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1247,7 +1204,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -1271,7 +1227,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Industrial" />
         <usage name="Farm" />
@@ -1296,7 +1251,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Industrial" />
         <usage name="Farm" />
@@ -1321,7 +1275,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Industrial" />
         <usage name="Farm" />
@@ -1381,7 +1334,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
     </type>
@@ -1403,7 +1355,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1430,7 +1381,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1457,7 +1407,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1484,7 +1433,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1511,7 +1459,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1538,7 +1485,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1565,7 +1511,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Hunting" />
@@ -1602,7 +1547,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Military" />
     </type>
     <type name="rag_baseitems_big_safe">
@@ -1623,7 +1567,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1649,7 +1592,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1675,7 +1617,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
         <usage name="Coast" />
     </type>
@@ -1712,7 +1653,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
         <usage name="Coast" />
     </type>
@@ -1736,7 +1676,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1762,7 +1701,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1788,7 +1726,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1814,7 +1751,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1840,7 +1776,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -1866,7 +1801,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_workbench">
@@ -1887,7 +1821,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_lantern_kit">
@@ -1903,7 +1836,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_lantern">
@@ -1924,7 +1856,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_lantern_wall">
@@ -1945,7 +1876,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="School" />
     </type>
@@ -2060,7 +1990,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="School" />
     </type>
@@ -2077,7 +2006,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="School" />
     </type>
@@ -2094,7 +2022,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Industrial" />
@@ -2120,7 +2047,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2171,7 +2097,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2195,7 +2120,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2219,7 +2143,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2243,7 +2166,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2267,7 +2189,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2291,7 +2212,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2315,7 +2235,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2345,7 +2264,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2370,7 +2288,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="School" />
@@ -2399,7 +2316,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2423,7 +2339,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2447,7 +2362,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2486,7 +2400,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2510,7 +2423,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2534,7 +2446,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2563,7 +2474,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2592,7 +2502,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2625,7 +2534,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Farm" />
         <usage name="Town" />
         <usage name="Village" />
@@ -2643,7 +2551,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Farm" />
         <usage name="Town" />
         <usage name="Village" />
@@ -2663,7 +2570,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Farm" />
         <usage name="Town" />
         <usage name="Village" />
@@ -2683,7 +2589,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Farm" />
         <usage name="Town" />
         <usage name="Village" />
@@ -2701,7 +2606,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2725,7 +2629,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2749,7 +2652,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2773,7 +2675,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -2804,7 +2705,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2827,7 +2727,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2850,7 +2749,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2873,7 +2771,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2896,7 +2793,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2919,7 +2815,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2942,7 +2837,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2965,7 +2859,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -2988,7 +2881,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3011,7 +2903,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3034,7 +2925,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3057,7 +2947,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3080,7 +2969,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3103,7 +2991,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3126,7 +3013,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3149,7 +3035,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3172,7 +3057,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Office" />
@@ -3195,7 +3079,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
     </type>
@@ -3222,7 +3105,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3246,7 +3128,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
         <usage name="Lunapark" />
     </type>
@@ -3263,7 +3144,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3287,7 +3167,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3311,7 +3190,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Military" />
     </type>
@@ -3328,7 +3206,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Hunting" />
         <usage name="Military" />
     </type>
@@ -3355,7 +3232,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3379,7 +3255,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3403,7 +3278,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3427,7 +3301,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3451,7 +3324,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -3475,7 +3347,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_carlift">
@@ -3496,7 +3367,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_carlift_static">
@@ -3517,7 +3387,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Town" />
         <usage name="Village" />
     </type>
@@ -3534,7 +3403,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -3556,7 +3424,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Military" />
     </type>
@@ -3618,7 +3485,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
     </type>
@@ -3640,7 +3506,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
     </type>
@@ -3662,7 +3527,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
     </type>
@@ -3684,7 +3548,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
     </type>
@@ -3706,7 +3569,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
     </type>
@@ -3743,7 +3605,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="EngineOil">
@@ -3759,7 +3620,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_pumpkin">
@@ -3780,7 +3640,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Office" />
         <usage name="School" />
         <usage name="Medic" />
@@ -3803,7 +3662,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Hunting" />
@@ -3909,7 +3767,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="School" />
         <usage name="Town" />
         <usage name="Village" />
@@ -3927,7 +3784,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="School" />
         <usage name="Town" />
@@ -3952,7 +3808,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="School" />
     </type>
@@ -3994,7 +3849,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -4018,7 +3872,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />
@@ -4042,7 +3895,6 @@
         <category name="tools" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Town" />

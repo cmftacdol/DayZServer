@@ -1211,7 +1211,7 @@
             crafted="0" deloot="0" />
         <category name="lootdispatch" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_Bag_DrawBridge_OD">
         <nominal>2</nominal>
@@ -1237,8 +1237,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_F4Terminator_BlackTiger">
         <nominal>2</nominal>
@@ -1251,8 +1250,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_F4Terminator_OD">
         <nominal>2</nominal>
@@ -1266,7 +1264,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_Bag_Trizip_OD">
         <nominal>2</nominal>
@@ -1973,7 +1971,7 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_IR_Marker">
         <nominal>30</nominal>
@@ -1991,7 +1989,7 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_Manta_Strobe_Tan">
         <nominal>30</nominal>
@@ -2009,7 +2007,7 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_MOHOC">
         <nominal>30</nominal>
@@ -2027,7 +2025,7 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_Comtac3_Headphones_CB">
         <nominal>2</nominal>
@@ -5838,8 +5836,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_Thor_Black">
         <nominal>2</nominal>
@@ -5852,8 +5849,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_Thor_Green">
         <nominal>2</nominal>
@@ -5866,8 +5862,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_Thor_EMR">
         <nominal>2</nominal>
@@ -5880,8 +5875,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_Thor_MC">
         <nominal>2</nominal>
@@ -5894,8 +5888,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_Thor_MCB">
         <nominal>2</nominal>
@@ -5908,8 +5901,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_Thor_M81">
         <nominal>2</nominal>
@@ -5922,8 +5914,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Vest_SSMK4_CB">
         <nominal>2</nominal>
@@ -7806,7 +7797,7 @@
         <category name="clothes" />
         <category name="weapons" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_PVS31_FDE">
         <nominal>2</nominal>
@@ -7821,7 +7812,7 @@
         <category name="clothes" />
         <category name="weapons" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_PVS31_FDE_Wrapped">
         <nominal>2</nominal>
@@ -7836,7 +7827,7 @@
         <category name="clothes" />
         <category name="weapons" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <!-- Types 1.2.1 -->
     <type name="FOG_BDU_Pants_Black">
@@ -9805,7 +9796,7 @@
             crafted="0" deloot="0" />
         <category name="lootdispatch" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_Bag_6ShBagT_Black">
         <nominal>2</nominal>
@@ -9818,8 +9809,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_6ShBagT_RG">
         <nominal>2</nominal>
@@ -9832,8 +9822,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_6ShBagT_CB">
         <nominal>2</nominal>
@@ -9846,8 +9835,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bergen_Rucksack_Black">
         <nominal>2</nominal>
@@ -9964,8 +9952,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_F4Terminator">
         <nominal>2</nominal>
@@ -9978,8 +9965,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_F4Terminator_Black">
         <nominal>2</nominal>
@@ -9992,8 +9978,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_F4Terminator_RG">
         <nominal>2</nominal>
@@ -10006,8 +9991,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_F4Terminator_CB">
         <nominal>2</nominal>
@@ -10020,8 +10004,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_MRASAP_Black">
         <nominal>2</nominal>
@@ -10099,8 +10082,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_BlackJack_RG">
         <nominal>2</nominal>
@@ -10113,8 +10095,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_BlackJack_CB">
         <nominal>2</nominal>
@@ -10127,8 +10108,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_BlackJack_MCB">
         <nominal>2</nominal>
@@ -10141,8 +10121,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_BlackJack_ERDL">
         <nominal>2</nominal>
@@ -10155,8 +10134,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_BlackJack_Black">
         <nominal>2</nominal>
@@ -10169,8 +10147,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_SSO_Tan">
         <nominal>2</nominal>
@@ -10183,8 +10160,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_SSO_Black">
         <nominal>2</nominal>
@@ -10197,8 +10173,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_SSO_MC">
         <nominal>2</nominal>
@@ -10211,8 +10186,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_SSO_CB">
         <nominal>2</nominal>
@@ -10225,8 +10199,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_SSO_MCB">
         <nominal>2</nominal>
@@ -10239,8 +10212,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_SSO_Toxic">
         <nominal>2</nominal>
@@ -10253,8 +10225,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
-        <value name="Tier4" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Bag_Trizip_Puke">
         <nominal>2</nominal>
@@ -10905,7 +10876,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_PVS31">
         <nominal>2</nominal>
@@ -10919,7 +10890,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Underground" />
-        <value name="Tier4" />
+        <value name="Unique" />
     </type>
     <type name="FOG_Combat_HikingBoots_Brown">
         <nominal>2</nominal>

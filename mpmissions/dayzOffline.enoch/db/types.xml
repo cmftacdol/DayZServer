@@ -27,7 +27,6 @@
         <usage name="Military" />
         <usage name="Police" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AK101">
         <nominal>2</nominal>
@@ -79,7 +78,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AK74_Black">
         <nominal>0</nominal>
@@ -143,7 +141,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="AKS74U">
         <nominal>17</nominal>
@@ -438,7 +436,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="AgaricusMushroom">
         <nominal>0</nominal>
@@ -581,7 +579,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
         <nominal>16</nominal>
@@ -611,7 +608,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_22_50Rnd">
         <nominal>55</nominal>
@@ -640,7 +636,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_308Win_20Rnd">
         <nominal>20</nominal>
@@ -656,7 +651,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_357_20Rnd">
         <nominal>30</nominal>
@@ -710,7 +704,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_545x39_20Rnd">
         <nominal>17</nominal>
@@ -725,7 +718,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_556x45Tracer_20Rnd">
         <nominal>7</nominal>
@@ -740,7 +732,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_556x45_20Rnd">
         <nominal>20</nominal>
@@ -755,7 +746,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_762x39Tracer_20Rnd">
         <nominal>7</nominal>
@@ -770,7 +760,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_762x39_20Rnd">
         <nominal>18</nominal>
@@ -786,7 +775,6 @@
         <usage name="Military" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
         <nominal>7</nominal>
@@ -801,7 +789,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_762x54_20Rnd">
         <nominal>15</nominal>
@@ -818,7 +805,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AmmoBox_9x19_25rnd">
         <nominal>30</nominal>
@@ -846,7 +832,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="AmmoBox_9x39_20Rnd">
         <nominal>7</nominal>
@@ -957,7 +943,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_357">
         <nominal>90</nominal>
@@ -1015,7 +1000,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <value name="Unique" />
     </type>
     <type name="Ammo_40mm_Smoke_Black">
@@ -1127,7 +1111,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_556x45Tracer">
         <nominal>25</nominal>
@@ -1144,7 +1127,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_762x39">
         <nominal>100</nominal>
@@ -1180,7 +1162,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_762x54">
         <nominal>60</nominal>
@@ -1200,7 +1181,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_762x54Tracer">
         <nominal>25</nominal>
@@ -1217,7 +1197,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_9x19">
         <nominal>100</nominal>
@@ -1262,7 +1241,6 @@
         <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ammo_CupidsBolt">
         <nominal>0</nominal>
@@ -2321,7 +2299,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AssaultBag_Green">
         <nominal>4</nominal>
@@ -2337,7 +2314,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AssaultBag_Ttsko">
         <nominal>4</nominal>
@@ -2353,7 +2329,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="AssaultBag_Winter">
         <nominal>4</nominal>
@@ -2511,7 +2486,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BDUJacket">
         <nominal>5</nominal>
@@ -2553,7 +2527,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Bait">
         <nominal>0</nominal>
@@ -2630,7 +2603,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Balaclava3Holes_Blue">
         <nominal>7</nominal>
@@ -2662,7 +2634,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Balaclava3Holes_White">
         <nominal>3</nominal>
@@ -2693,7 +2664,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BalaclavaMask_Beige">
         <nominal>5</nominal>
@@ -2730,7 +2700,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BalaclavaMask_Blackskull">
         <nominal>3</nominal>
@@ -2746,7 +2715,6 @@
         <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BalaclavaMask_Blue">
         <nominal>7</nominal>
@@ -2796,7 +2764,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BalaclavaMask_Pig">
         <nominal>2</nominal>
@@ -2977,7 +2944,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Bandana_Camopattern">
         <nominal>12</nominal>
@@ -2994,7 +2960,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Bandana_Greenpattern">
         <nominal>12</nominal>
@@ -3011,7 +2976,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Bandana_Polkapattern">
         <nominal>12</nominal>
@@ -3212,7 +3176,6 @@
         <category name="tools" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BaseballBat">
         <nominal>80</nominal>
@@ -3397,7 +3360,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BeanieHat_Black">
         <nominal>10</nominal>
@@ -3413,7 +3375,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BeanieHat_Blue">
         <nominal>10</nominal>
@@ -3442,7 +3403,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BeanieHat_Green">
         <nominal>10</nominal>
@@ -3458,7 +3418,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BeanieHat_Grey">
         <nominal>10</nominal>
@@ -3474,7 +3433,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BeanieHat_Pink">
         <nominal>10</nominal>
@@ -3490,7 +3448,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BeanieHat_Red">
         <nominal>10</nominal>
@@ -3506,7 +3463,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BearPelt">
         <nominal>0</nominal>
@@ -3836,7 +3792,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BomberJacket_Blue">
         <nominal>10</nominal>
@@ -3915,7 +3870,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="BomberJacket_SkyBlue">
         <nominal>12</nominal>
@@ -4208,7 +4162,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Breeches_Beetcheck">
         <nominal>25</nominal>
@@ -4289,7 +4242,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Breeches_Browncheck">
         <nominal>25</nominal>
@@ -4487,7 +4439,6 @@
         <category name="clothes" />
         <usage name="Police" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CZ527">
         <nominal>45</nominal>
@@ -4520,7 +4471,6 @@
         <category name="weapons" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CZ61">
         <nominal>20</nominal>
@@ -4536,7 +4486,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CZ75">
         <nominal>60</nominal>
@@ -4912,7 +4861,6 @@
         <usage name="Farm" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CargoPants_Black">
         <nominal>20</nominal>
@@ -4928,7 +4876,6 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CargoPants_Blue">
         <nominal>20</nominal>
@@ -4960,7 +4907,6 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CargoPants_Grey">
         <nominal>20</nominal>
@@ -5242,7 +5188,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Chestplate">
         <nominal>3</nominal>
@@ -5949,7 +5894,6 @@
         <category name="explosives" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
         <value name="Unique" />
     </type>
     <type name="Cleaver">
@@ -6268,7 +6212,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CowboyHat_black">
         <nominal>20</nominal>
@@ -6286,7 +6229,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CowboyHat_darkBrown">
         <nominal>20</nominal>
@@ -6304,7 +6246,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CowboyHat_green">
         <nominal>20</nominal>
@@ -6322,7 +6263,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CoyoteBag_Brown">
         <nominal>4</nominal>
@@ -6337,7 +6277,6 @@
         <category name="containers" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CoyoteBag_Green">
         <nominal>4</nominal>
@@ -6352,7 +6291,6 @@
         <category name="containers" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="CoyoteBag_Winter">
         <nominal>4</nominal>
@@ -6511,7 +6449,6 @@
         <usage name="Industrial" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DarkMotoHelmet_Black">
         <nominal>8</nominal>
@@ -6529,7 +6466,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DarkMotoHelmet_Blue">
         <nominal>8</nominal>
@@ -6581,7 +6517,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DarkMotoHelmet_Lime">
         <nominal>8</nominal>
@@ -7171,7 +7106,6 @@
         <usage name="Coast" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DryBag_Blue">
         <nominal>7</nominal>
@@ -7187,7 +7121,6 @@
         <usage name="Coast" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DryBag_Green">
         <nominal>4</nominal>
@@ -7203,7 +7136,6 @@
         <usage name="Coast" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DryBag_Orange">
         <nominal>7</nominal>
@@ -7219,7 +7151,6 @@
         <usage name="Coast" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DryBag_Red">
         <nominal>7</nominal>
@@ -7235,7 +7166,6 @@
         <usage name="Coast" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DryBag_Yellow">
         <nominal>7</nominal>
@@ -7251,7 +7181,6 @@
         <usage name="Coast" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="DrysackBag_Green">
         <nominal>0</nominal>
@@ -7577,7 +7506,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="FNX45">
         <nominal>25</nominal>
@@ -7593,7 +7521,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Fabric">
         <nominal>60</nominal>
@@ -8618,7 +8545,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="GPSReceiver">
         <nominal>25</nominal>
@@ -9332,7 +9258,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="GorkaHelmetVisor">
         <nominal>8</nominal>
@@ -9349,7 +9274,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="GorkaPants_Autumn">
         <nominal>4</nominal>
@@ -10524,7 +10448,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Headtorch_Grey">
         <nominal>120</nominal>
@@ -10544,7 +10467,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Heatpack">
         <nominal>50</nominal>
@@ -10573,7 +10495,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HighCapacityVest_Olive">
         <nominal>4</nominal>
@@ -10587,7 +10508,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="HikingBootsLow_Beige">
         <nominal>30</nominal>
@@ -10694,7 +10615,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HikingJacket_Blue">
         <nominal>25</nominal>
@@ -10711,7 +10631,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HikingJacket_Green">
         <nominal>15</nominal>
@@ -10727,7 +10646,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HikingJacket_Red">
         <nominal>25</nominal>
@@ -10744,7 +10662,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HipPack_Black">
         <nominal>15</nominal>
@@ -11024,7 +10941,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HunterPants_Brown">
         <nominal>14</nominal>
@@ -11039,7 +10955,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HunterPants_Spring">
         <nominal>0</nominal>
@@ -11054,7 +10969,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HunterPants_Summer">
         <nominal>15</nominal>
@@ -11070,7 +10984,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HunterPants_Winter">
         <nominal>4</nominal>
@@ -11085,7 +10998,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingBag">
         <nominal>12</nominal>
@@ -11101,7 +11013,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingBag_Hannah">
         <nominal>0</nominal>
@@ -11128,7 +11039,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingJacket_Brown">
         <nominal>14</nominal>
@@ -11143,7 +11053,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingJacket_Spring">
         <nominal>0</nominal>
@@ -11158,7 +11067,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingJacket_Summer">
         <nominal>14</nominal>
@@ -11174,7 +11082,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingJacket_Winter">
         <nominal>4</nominal>
@@ -11189,7 +11096,6 @@
         <category name="clothes" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingKnife">
         <nominal>60</nominal>
@@ -11220,7 +11126,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="HuntingVest">
         <nominal>10</nominal>
@@ -11870,7 +11775,7 @@
             crafted="0" deloot="0" />
         <category name="explosives" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Land_Container_1Aoh_DE">
         <nominal>0</nominal>
@@ -12949,7 +12854,7 @@
             crafted="0" deloot="1" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="M16A2">
         <nominal>2</nominal>
@@ -13208,7 +13113,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="M65Jacket_Black">
         <nominal>3</nominal>
@@ -13223,7 +13127,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="M65Jacket_Khaki">
         <nominal>3</nominal>
@@ -13238,7 +13141,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="M65Jacket_Olive">
         <nominal>5</nominal>
@@ -13252,7 +13154,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="M65Jacket_Tan">
         <nominal>5</nominal>
@@ -13267,7 +13169,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="M67Grenade">
         <nominal>15</nominal>
@@ -13282,7 +13183,6 @@
         <category name="explosives" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="M68Optic">
         <nominal>15</nominal>
@@ -13437,7 +13337,6 @@
         <usage name="Farm" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mackerel">
         <nominal>0</nominal>
@@ -13517,7 +13416,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_AK74_45Rnd">
         <nominal>4</nominal>
@@ -13531,7 +13429,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_AKM_30Rnd">
         <nominal>4</nominal>
@@ -13545,7 +13443,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_AKM_Drum75Rnd">
         <nominal>2</nominal>
@@ -13559,7 +13457,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_AKM_Palm30Rnd">
         <nominal>4</nominal>
@@ -13574,7 +13472,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_Aug_30Rnd">
         <nominal>5</nominal>
@@ -13672,7 +13569,6 @@
         <category name="weapons" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_CZ61_20Rnd">
         <nominal>20</nominal>
@@ -13688,7 +13584,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_CZ75_15Rnd">
         <nominal>60</nominal>
@@ -13760,7 +13655,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_Glock_15Rnd">
         <nominal>20</nominal>
@@ -13803,7 +13697,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_M14_20Rnd">
         <nominal>4</nominal>
@@ -13817,7 +13711,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_MKII_10Rnd">
         <nominal>30</nominal>
@@ -13942,7 +13836,6 @@
         <category name="weapons" />
         <usage name="Police" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_STANAG_30Rnd">
         <nominal>5</nominal>
@@ -13957,7 +13850,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_STANAG_60Rnd">
         <nominal>3</nominal>
@@ -14041,7 +13933,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_Scout_5Rnd">
         <nominal>8</nominal>
@@ -14084,7 +13976,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_VSS_10Rnd">
         <nominal>8</nominal>
@@ -14099,7 +13990,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mag_Vikhr_30Rnd">
         <nominal>4</nominal>
@@ -14113,7 +14003,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="Magnum">
         <nominal>25</nominal>
@@ -14513,7 +14403,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MetalPlate">
         <nominal>60</nominal>
@@ -14555,7 +14444,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="MilitaryBelt">
         <nominal>15</nominal>
@@ -14584,7 +14473,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MilitaryBeret_ChDKZ">
         <nominal>5</nominal>
@@ -14600,7 +14488,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MilitaryBeret_NZ">
         <nominal>4</nominal>
@@ -14629,7 +14516,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MilitaryBeret_UN">
         <nominal>4</nominal>
@@ -14903,7 +14789,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Mosin9130_Black">
         <nominal>0</nominal>
@@ -14987,7 +14872,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MotoHelmet_Blue">
         <nominal>15</nominal>
@@ -15042,7 +14926,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MotoHelmet_Lime">
         <nominal>15</nominal>
@@ -15126,7 +15009,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MountainBag_Green">
         <nominal>5</nominal>
@@ -15142,7 +15024,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MountainBag_Orange">
         <nominal>10</nominal>
@@ -15158,7 +15039,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MountainBag_Red">
         <nominal>10</nominal>
@@ -15174,7 +15054,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>
@@ -15202,7 +15081,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="NBCBootsGray">
         <nominal>2</nominal>
@@ -15217,7 +15095,7 @@
         <category name="clothes" />
         <tag name="floor" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="NBCBootsWhite">
         <nominal>0</nominal>
@@ -15258,7 +15136,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="NBCGlovesYellow">
         <nominal>3</nominal>
@@ -15287,7 +15165,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="NBCHoodWhite">
         <nominal>0</nominal>
@@ -15328,7 +15206,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="NBCJacketWhite">
         <nominal>0</nominal>
@@ -15369,7 +15247,7 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier4" />
+        <value name="Tier3" />
     </type>
     <type name="NBCPantsWhite">
         <nominal>0</nominal>
@@ -15411,7 +15289,6 @@
         <category name="tools" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="NVGoggles">
         <nominal>5</nominal>
@@ -15632,7 +15509,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="OMNOGloves_Gray">
         <nominal>7</nominal>
@@ -15649,7 +15525,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="OfficerHat">
         <nominal>10</nominal>
@@ -15866,7 +15741,6 @@
         <usage name="Industrial" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="OrientalMachete">
         <nominal>3</nominal>
@@ -15968,7 +15842,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PSO1Optic">
         <nominal>15</nominal>
@@ -16521,7 +16394,6 @@
         <usage name="Farm" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PigPelt">
         <nominal>0</nominal>
@@ -16575,7 +16447,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Pipe">
         <nominal>80</nominal>
@@ -16619,7 +16490,6 @@
         <category name="weapons" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PistolSuppressor">
         <nominal>10</nominal>
@@ -16773,7 +16643,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PlateCarrierHolster_Green">
         <nominal>4</nominal>
@@ -16838,7 +16707,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PlateCarrierPouches_Green">
         <nominal>4</nominal>
@@ -16878,7 +16746,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PlateCarrierVest_Black">
         <nominal>4</nominal>
@@ -16905,7 +16772,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PlateCarrierVest_Green">
         <nominal>4</nominal>
@@ -17200,7 +17066,6 @@
         <usage name="Police" />
         <usage name="Town" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PressVest_LightBlue">
         <nominal>15</nominal>
@@ -17216,7 +17081,6 @@
         <usage name="Police" />
         <usage name="Town" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="PrisonUniformJacket">
         <nominal>5</nominal>
@@ -17338,7 +17202,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="QuiltedJacket_Blue">
         <nominal>15</nominal>
@@ -17355,7 +17218,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="QuiltedJacket_Green">
         <nominal>10</nominal>
@@ -17371,7 +17233,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="QuiltedJacket_Grey">
         <nominal>15</nominal>
@@ -17388,7 +17249,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="QuiltedJacket_Orange">
         <nominal>20</nominal>
@@ -17495,7 +17355,6 @@
         <category name="explosives" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="RabbitLegMeat">
         <nominal>0</nominal>
@@ -17863,7 +17722,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Rice">
         <nominal>20</nominal>
@@ -17911,7 +17769,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Rope">
         <nominal>100</nominal>
@@ -17967,7 +17824,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="SKS_Bayonet">
         <nominal>10</nominal>
@@ -17983,7 +17839,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="SSG82">
         <nominal>12</nominal>
@@ -17998,7 +17853,6 @@
         <category name="weapons" />
         <usage name="Police" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="SV98">
         <nominal>3</nominal>
@@ -18142,7 +17996,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Sardines">
         <nominal>0</nominal>
@@ -19326,7 +19179,6 @@
         <usage name="Farm" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Sickle">
         <nominal>50</nominal>
@@ -19667,7 +19519,6 @@
         <tag name="floor" />
         <usage name="Industrial" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="SlicedPumpkin">
         <nominal>0</nominal>
@@ -19819,7 +19670,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Sneakers_Black">
         <nominal>40</nominal>
@@ -20698,7 +20548,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Sweater_Gray">
         <nominal>30</nominal>
@@ -20731,7 +20580,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Sweater_Red">
         <nominal>30</nominal>
@@ -20778,7 +20626,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="TShirt_Beige">
         <nominal>3</nominal>
@@ -21024,7 +20871,6 @@
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="TacticalShirt_Black">
         <nominal>8</nominal>
@@ -21039,7 +20885,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="TacticalShirt_Grey">
         <nominal>8</nominal>
@@ -21093,7 +20938,6 @@
         <category name="containers" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="TaloonBag_Green">
         <nominal>14</nominal>
@@ -21138,7 +20982,6 @@
         <category name="containers" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="TankerHelmet">
         <nominal>5</nominal>
@@ -21154,7 +20997,6 @@
         <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="TannedLeather">
         <nominal>0</nominal>
@@ -22114,7 +21956,6 @@
         <usage name="Police" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="UnknownFoodCan">
         <nominal>43</nominal>
@@ -22159,7 +22000,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ushanka_Blue">
         <nominal>20</nominal>
@@ -22175,7 +22015,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Ushanka_Green">
         <nominal>20</nominal>
@@ -22203,7 +22042,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Vikhr">
         <nominal>4</nominal>
@@ -22218,7 +22056,6 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="VitaminBottle">
         <nominal>40</nominal>
@@ -22453,7 +22290,6 @@
         <category name="weapons" />
         <usage name="Hunting" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="WinterCoif_Black">
         <nominal>14</nominal>
@@ -22750,7 +22586,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="WoodenCrate">
         <nominal>0</nominal>
@@ -22827,7 +22662,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="WoolCoat_Black">
         <nominal>6</nominal>
@@ -22843,7 +22677,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="WoolCoat_BlackCheck">
         <nominal>10</nominal>
@@ -22859,7 +22692,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="WoolCoat_Blue">
         <nominal>10</nominal>
@@ -22907,7 +22739,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="WoolCoat_Green">
         <nominal>6</nominal>
@@ -23022,9 +22853,6 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier1" />
-        <value name="Tier2" />
-        <value name="Tier4" />
     </type>
     <type name="WoolGlovesFingerless_Tan">
         <nominal>4</nominal>
@@ -23105,7 +22933,6 @@
         <usage name="Military" />
         <value name="Tier1" />
         <value name="Tier2" />
-        <value name="Tier4" />
     </type>
     <type name="WoolGloves_Tan">
         <nominal>10</nominal>
@@ -23345,7 +23172,6 @@
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Zagorky">
         <nominal>15</nominal>
@@ -25306,7 +25132,6 @@
         <usage name="Industrial" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="ZmijovkaCap_Blue">
         <nominal>20</nominal>
@@ -25323,7 +25148,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="ZmijovkaCap_Brown">
         <nominal>20</nominal>
@@ -25340,7 +25164,6 @@
         <usage name="Farm" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="ZmijovkaCap_Green">
         <nominal>20</nominal>
@@ -25357,7 +25180,6 @@
         <usage name="Hunting" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="ZmijovkaCap_Red">
         <nominal>20</nominal>
@@ -25374,7 +25196,6 @@
         <usage name="Village" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Zucchini">
         <nominal>20</nominal>

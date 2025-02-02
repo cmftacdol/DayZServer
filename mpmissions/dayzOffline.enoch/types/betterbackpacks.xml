@@ -18,7 +18,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Blue">
         <nominal>2</nominal>
@@ -36,7 +35,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Teal">
         <nominal>2</nominal>
@@ -54,7 +52,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Green">
         <nominal>2</nominal>
@@ -72,7 +69,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Grey">
         <nominal>2</nominal>
@@ -90,7 +86,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Red">
         <nominal>2</nominal>
@@ -108,7 +103,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Yellow">
         <nominal>2</nominal>
@@ -126,7 +120,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Black">
         <nominal>2</nominal>
@@ -144,7 +137,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_AoR2">
         <nominal>2</nominal>
@@ -162,7 +154,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Woodland">
         <nominal>2</nominal>
@@ -180,7 +171,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Nomadbackpack_v3_Winter">
         <nominal>2</nominal>
@@ -198,7 +188,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_ArmyGreen">
         <nominal>2</nominal>
@@ -216,7 +205,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_Black">
         <nominal>2</nominal>
@@ -234,7 +222,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_Brown">
         <nominal>2</nominal>
@@ -252,7 +239,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_Teal">
         <nominal>2</nominal>
@@ -270,7 +256,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_Weed">
         <nominal>2</nominal>
@@ -288,7 +273,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_White">
         <nominal>2</nominal>
@@ -306,7 +290,6 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Kits_Bottle_v3_Yellow">
         <nominal>2</nominal>
@@ -324,15 +307,14 @@
         <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
 
 
     <type name="casebag">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -340,12 +322,13 @@
             crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+        <value name="Tier3" />
     </type>
     <type name="casebag_green">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -353,12 +336,13 @@
             crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+        <value name="Tier3" />
     </type>
     <type name="casebag_winter">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -366,6 +350,7 @@
             crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+        <value name="Tier3" />
     </type>
 
 </types>
