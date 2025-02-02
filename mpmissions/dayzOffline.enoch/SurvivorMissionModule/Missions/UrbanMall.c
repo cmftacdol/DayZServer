@@ -314,7 +314,7 @@ class UrbanMallMission extends SurvivorMissions
 		{
 			//Spawn orange MountainBag 
 			//vector pos = MissionBuilding.ModelToWorld( RewardsPosition );
-			MissionObject = ItemBase.Cast( GetGame().CreateObject( "MountainBag_Orange" , m_MissionPosition ));
+			MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag" , m_MissionPosition ));
 			m_MissionObjects.InsertAt( MissionObject, 0 );
 		} 		
 	}
@@ -325,7 +325,7 @@ class UrbanMallMission extends SurvivorMissions
 		GetGame().CreateObject( "Lockpick", m_MissionPosition );
 		
 		//new MissionObject after deleting orange bag	
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "MountainBag_Orange", RewardsPos2 ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag", RewardsPos2 ));
 		
 		//Open office door 1st floor 
 		Building PoliceDepartment = Building.Cast( MissionBuilding );
@@ -760,7 +760,7 @@ class UrbanMallMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "MountainBag_Orange" )
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "casebag" )
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -772,7 +772,7 @@ class UrbanMallMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of mushrooms collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "MountainBag_Orange" && !m_MissionExtended )
+		if ( MissionObject && MissionObject.ClassName() == "casebag" && !m_MissionExtended )
 		{
 			int LastCount = 0;
 			int CargoCount = MissionObject.GetInventory().CountInventory();			

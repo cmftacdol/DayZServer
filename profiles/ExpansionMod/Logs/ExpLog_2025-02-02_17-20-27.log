@@ -1,0 +1,14 @@
+17:20:28.882 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2
+17:29:54.289 [Spatial Settings] Minimum engagement too low. setting to 5m
+17:29:54.300 [Spatial Settings] Minimum engagement too low. setting to 5m
+17:29:54.312 [Spatial AI] Spatial AI Enabled
+17:29:54.312 [Spatial AI] points Disabled
+17:29:54.312 [Spatial AI] Locations Enabled
+17:29:54.312 [Spatial AI] Audio Sensitive Locations Enabled
+17:51:53.402 [Spatial AI] Next valid check in: 1448518ms
+18:16:01.921 [Spatial AI] Next valid check in: 1509091ms
+18:39:52.789 [AI Patrol 00016] Spawning 3 West bots at <4867.200195, 174.270432, 9060.120117>
+18:39:53.203 [AI Patrol 00016] Global patrol count: 1
+18:40:10.656 [AI Patrol 00010] Spawning 5 Civilian bots at <5046.939941, 184.172333, 9767.009766>
+18:40:10.687 [AI Patrol 00010] Global patrol count: 2
+18:41:11.257 [Spatial AI] Next valid check in: 1441670ms

@@ -383,13 +383,21 @@ class CampMission extends SurvivorMissions
 		m_MissionAIs.Insert( GetGame().CreateObject( "ZmbM_HikerSkinny_Blue" , InfectedPos , false , true ) );
 		DayZInfected InfectedSurvivor = DayZInfected.Cast( m_MissionAIs[0] );
 			InfectedSurvivor.GetInventory().CreateAttachment("FlatCap_Blue");
-			InfectedSurvivor.GetInventory().CreateAttachment("MountainBag_Blue");
+			InfectedSurvivor.GetInventory().CreateAttachment("casebag_green");
 			InfectedSurvivor.GetInventory().CreateAttachment("UKAssVest_Black");
-		EntityAI weapon1 = InfectedSurvivor.GetInventory().CreateInInventory("M4A1_Green");
-				weapon1.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
-				weapon1.GetInventory().CreateAttachment("M4_MPBttstck");
-				weapon1.GetInventory().CreateAttachment("ACOGOptic");
-				weapon1.GetInventory().CreateAttachment("M4_Suppressor");
+
+			EntityAI weapon1 = GetGame().CreateObjectEx( "M4A1_Green", InfectedSurvivor.GetPosition() + "1 0 1", ECE_PLACE_ON_SURFACE );
+			weapon1.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
+			weapon1.GetInventory().CreateAttachment("M4_MPBttstck");
+			weapon1.GetInventory().CreateAttachment("ACOGOptic");
+			weapon1.GetInventory().CreateAttachment("M4_Suppressor");
+
+		// EntityAI weapon1 = InfectedSurvivor.GetInventory().CreateInInventory("M4A1_Green");
+		// 		weapon1.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
+		// 		weapon1.GetInventory().CreateAttachment("M4_MPBttstck");
+		// 		weapon1.GetInventory().CreateAttachment("ACOGOptic");
+		// 		weapon1.GetInventory().CreateAttachment("M4_Suppressor");
+		
 			InfectedSurvivor.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
 			InfectedSurvivor.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
 			InfectedSurvivor.GetInventory().CreateInInventory("M4_T3NRDSOptic");

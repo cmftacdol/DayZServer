@@ -1,0 +1,28 @@
+Unhandled exception
+
+Program: G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff7c2c43ab2 at 0x28dfde4c908
+
+SymGetSymFromAddr:487, addr:0x7ff7c2c43ab2
+SymGetSymFromAddr:487, addr:0x7ff7c2c43cd4
+SymGetSymFromAddr:487, addr:0x7ff7c2c38e4b
+SymGetSymFromAddr:487, addr:0x7ff7c2bcf0b4
+SymGetSymFromAddr:487, addr:0x7ff7c2b1cca2
+SymGetSymFromAddr:487, addr:0x7ff7c2aac821
+SymGetSymFromAddr:487, addr:0x7ff7c2aac8a9
+[CDPCreateServer]: ??? addr:0x7ff7c32f9ee8
+[CDPCreateServer]: ??? addr:0x7ff7c32fa5f9
+SymGetSymFromAddr:487, addr:0x7ff7c2d4061d
+[CDPCreateServer]: ??? addr:0x7ff7c32fab04
+SymGetSymFromAddr:487, addr:0x7ff7c2d4c17d
+[CDPCreateServer]: ??? addr:0x7ff7c3302676
+SymGetSymFromAddr:487, addr:0x7ff7c2e6667b
+[CDPCreateServer]: ??? addr:0x7ff7c3452622
+[BaseThreadInitThunk]: ??? addr:0x7fff3a517374
+[RtlUserThreadStart]: ??? addr:0x7fff3adbcc91
+[RtlUserThreadStart]: ??? addr:0x7fff3adbcc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @Early Winter or Late Fall Livonia;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CargoSorting;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core; profiles profiles servermod @Survivor Missions 

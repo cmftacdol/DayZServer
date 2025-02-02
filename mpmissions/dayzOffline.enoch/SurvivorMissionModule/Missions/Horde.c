@@ -106,7 +106,7 @@ class HordeMission extends SurvivorMissions
 	void SpawnObjects()
 	{				
 		//Mission object is pilot bag
-		MissionObject = ItemBase.Cast( GetGame().CreateObject("AliceBag_Camo", m_MissionPosition ) );
+		MissionObject = ItemBase.Cast( GetGame().CreateObject("casebag_green", m_MissionPosition ) );
 		MissionObject.SetPosition( m_MissionPosition + "0 0.2 0" );
 		//MissionObject.PlaceOnSurface(); 
 		

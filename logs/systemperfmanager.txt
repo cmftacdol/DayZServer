@@ -448,3 +448,21 @@
 [2025-02-02 15:51:55] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
 [2025-02-02 15:51:55] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
 [2025-02-02 15:51:55] Initialized system perf manager
+
+
+[2025-02-02 17:20:14] Client version: no bootstrapper found
+[2025-02-02 17:20:14] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-02-02 17:20:14] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-02-02 17:20:14] Initialized system perf manager
+
+
+[2025-02-02 18:54:45] Client version: no bootstrapper found
+[2025-02-02 18:54:45] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-02-02 18:54:45] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-02-02 18:54:45] Initialized system perf manager
+
+
+[2025-02-02 20:05:18] Client version: no bootstrapper found
+[2025-02-02 20:05:18] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-02-02 20:05:18] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-02-02 20:05:18] Initialized system perf manager

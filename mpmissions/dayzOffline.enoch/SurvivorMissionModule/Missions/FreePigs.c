@@ -172,7 +172,7 @@ class FreePigsMission extends SurvivorMissions
 	void SpawnRewards()
 	{						
 		//new MissionObject after deleting hunting bag
-		MissionObject = ItemBase.Cast( GetGame().CreateObject("MountainBag_Green", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject("casebag_green", m_MissionPosition ));
 		MissionObject.SetPosition( m_MissionPosition );
 		
 		//Get random loadout 
@@ -372,7 +372,7 @@ class FreePigsMission extends SurvivorMissions
 			m_MissionPosition = MissionBuilding.ModelToWorld( RewardsPosition );
 			
 			//Spawn mission target huntig bag
-			MissionObject = ItemBase.Cast( GetGame().CreateObject( "HuntingBag", m_MissionPosition ));
+			MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag_green", m_MissionPosition ));
 			MissionObject.SetPosition( m_MissionPosition );
 			MissionObject.SetOrientation( MissionBuilding.GetOrientation() + "-90 -25 0" );
 			m_MissionObjects.InsertAt( MissionObject, 0 );
@@ -474,7 +474,7 @@ class FreePigsMission extends SurvivorMissions
 		
 		//Set messages for secondary mission,
 		m_MissionMessage1 = "Allright, you have found the pigs. Herd them all out of the shed. Protect them from infected attacks and kill 2 pigs to get some meat.";
-		m_MissionMessage2 = "A man from the survivor camp said he could go to a save position anywhere in the forests and get the meat. I left a hunting bag at the picnic table on the hiking trail.";
+		m_MissionMessage2 = "A man from the survivor camp said he could go to a save position anywhere in the forests and get the meat. I left a case bag at the picnic table on the hiking trail.";
 		m_MissionMessage3 = "Bring the meat to the picnic table near\n** "+ m_MissionDescription[3] +", coordinates: "+ Coords +" **\nPut "+ ReqMeatAmount +" pig steaks inside it and then you can take what you need. Be careful!";
 				
 		//Search for mission building at old mission position	
@@ -509,7 +509,7 @@ class FreePigsMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "HuntingBag" )
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "casebag_green" )
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -521,7 +521,7 @@ class FreePigsMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of steaks collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "HuntingBag" && !m_MissionExtended )
+		if ( MissionObject && MissionObject.ClassName() == "casebag_green" && !m_MissionExtended )
 		{
 			int CargoCount = MissionObject.GetInventory().CountInventory();
 			int LastCount = 0;

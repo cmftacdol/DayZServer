@@ -1,24 +1,24 @@
 {
     "Version": 20,
-    "Spatial_MinTimer": 20,
-    "Spatial_MaxTimer": 40,
-    "MinDistance": 300,
-    "MaxDistance": 310,
+    "Spatial_MinTimer": 20.0,
+    "Spatial_MaxTimer": 40.0,
+    "MinDistance": 140,
+    "MaxDistance": 220,
     "HuntMode": 6,
     "Points_Enabled": 0,
-    "Locations_Enabled": 2,
-    "Audio_Enabled": 2,
-    "EngageTimer": 1,
-    "CleanupTimer": 20,
-    "PlayerChecks": -1,
+    "Locations_Enabled": 0,
+    "Audio_Enabled": 0,
+    "EngageTimer": 5.0,
+    "CleanupTimer": 6.0,
+    "PlayerChecks": -5,
     "MaxAI": 20,
     "GroupDifficulty": 0,
-    "MinimumPlayerDistance": 300,
+    "MinimumPlayerDistance": 0,
     "MaxSoloPlayers": 0,
-    "MinimumAge": 120,
+    "MinimumAge": 0,
     "ActiveHoursEnabled": 0,
-    "ActiveStartTime": 9.0,
-    "ActiveStopTime": 17.0,
+    "ActiveStartTime": 0.0,
+    "ActiveStopTime": 24.0,
     "TargetBone": "Neck",
     "MessageType": 1,
     "MessageTitle": "Spatial AI",
@@ -30,7 +30,7 @@
     "Spatial_IsUnconscious": 0,
     "Spatial_IsInSafeZone": 0,
     "Spatial_TPSafeZone": 0,
-    "Spatial_InOwnTerritory": 0,
+    "Spatial_InOwnTerritory": 1,
     "Group": [
         {
             "Spatial_MinCount": 2,
@@ -85,13 +85,7 @@
             "Spatial_UnlimitedReload": 1
         }
     ],
-    "Point": [
-
-    ],
-    "Location": [
-
-    ],
-    "Audio": [
-
-    ]
+    "Point": [],
+    "Location": [],
+    "Audio": []
 }

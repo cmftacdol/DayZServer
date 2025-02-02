@@ -228,7 +228,7 @@ class GanjaMission extends SurvivorMissions
 	void SpawnRewards()
 	{		
 		//new MissionObject after deleting protector case
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "MountainBag_Green", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag_green", m_MissionPosition ));
 		
 		//Get random loadout 
 		int selectedLoadout = Math.RandomIntInclusive( 0, 9);	//!change randomization limit after adding new loadouts!	
@@ -445,10 +445,10 @@ class GanjaMission extends SurvivorMissions
 			CarStuff = GetGame().CreateObject("EngineOil", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) ));
 			CarStuff.SetOrientation( MissionBuilding.GetOrientation() + "-90 0 0");
 			m_MissionObjects.InsertAt( CarStuff, 2 );
-			CarStuff = GetGame().CreateObject("EngineOil", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) + "0.2 0 0" ));
+			CarStuff = GetGame().CreateObject("LugWrench", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) + "0.2 0 0" ));
 			CarStuff.SetOrientation( MissionBuilding.GetOrientation() + "-90 0 0");
 			m_MissionObjects.InsertAt( CarStuff, 3 );			
-			CarStuff = GetGame().CreateObject("EngineOil", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) + "0.4 0 0" ));
+			CarStuff = GetGame().CreateObject("SparkPlug", MissionBuilding.ModelToWorld( Spawnpoints.Get(0) + "0.4 0 0" ));
 			CarStuff.SetOrientation( MissionBuilding.GetOrientation() + "-90 0 0");
 			m_MissionObjects.InsertAt( CarStuff, 4 );			
 			m_MissionObjects.Insert( GetGame().CreateObject("CanisterGasoline", MissionBuilding.ModelToWorld( Spawnpoints.Get(3) )));

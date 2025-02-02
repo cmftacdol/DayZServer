@@ -228,7 +228,7 @@ class TransportMission extends SurvivorMissions
 	void SpawnRewards()
 	{		
 		//new MissionObject after deleting protector case
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "MountainBag_Green", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag_green", m_MissionPosition ));
 		
 		//Get random loadout 
 		int selectedLoadout = Math.RandomIntInclusive( 0, 9);	//!change randomization limit after adding new loadouts!	
