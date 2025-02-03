@@ -309,7 +309,6 @@
         <value name="Tier3" />
     </type>
 
-
     <type name="casebag">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
@@ -320,9 +319,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <category name="clothes" />
+        <usage name="Underground" />
     </type>
     <type name="casebag_green">
         <nominal>1</nominal>
@@ -334,9 +332,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <category name="clothes" />
+        <usage name="Underground" />
     </type>
     <type name="casebag_winter">
         <nominal>1</nominal>
@@ -348,9 +345,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <category name="clothes" />
+        <usage name="Underground" />
     </type>
 
 </types>

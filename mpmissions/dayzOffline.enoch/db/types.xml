@@ -435,8 +435,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="AgaricusMushroom">
         <nominal>0</nominal>
@@ -12854,8 +12854,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="1" />
         <category name="weapons" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="M16A2">
         <nominal>2</nominal>
@@ -12947,30 +12947,35 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="M4A1_Black">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="1" deloot="0" />
+            crafted="0" deloot="0" />
         <category name="weapons" />
+        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="M4A1_Green">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="1" deloot="0" />
+            crafted="0" deloot="0" />
         <category name="weapons" />
+        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="M4_CQBBttstck">
         <nominal>5</nominal>
@@ -13209,8 +13214,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="Military" />
-        <value name="Unique" />
+        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="M9A1_Bayonet">
         <nominal>10</nominal>
@@ -22041,8 +22046,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Vikhr">
         <nominal>4</nominal>

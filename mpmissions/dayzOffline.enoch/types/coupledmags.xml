@@ -32,6 +32,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_FAMASCoupled_25Rnd">
         <nominal>5</nominal>
@@ -45,6 +46,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_AKMCoupled_30Rnd">
         <nominal>5</nominal>
@@ -58,6 +60,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_AKMCoupled_Palm30Rnd">
         <nominal>5</nominal>
@@ -71,6 +74,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_CMAGCoupled_20Rnd">
         <nominal>5</nominal>
@@ -84,6 +88,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_CMAGCoupled_30Rnd">
         <nominal>5</nominal>
@@ -97,6 +102,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_CMAGCoupled_40Rnd">
         <nominal>5</nominal>
@@ -110,6 +116,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_AK101Coupled_30Rnd">
         <nominal>5</nominal>
@@ -123,6 +130,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_AugCoupled_30Rnd">
         <nominal>5</nominal>
@@ -136,6 +144,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_AK74Coupled_30Rnd">
         <nominal>5</nominal>
@@ -149,6 +158,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_AK74Coupled_45Rnd">
         <nominal>5</nominal>
@@ -162,6 +172,7 @@
             crafted="0" deloot="0" />
          <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_SVDCoupled_10Rnd">
         <nominal>5</nominal>
@@ -175,6 +186,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_FALCoupled_20Rnd">
         <nominal>5</nominal>
@@ -188,6 +200,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_UMPCoupled_25Rnd">
         <nominal>5</nominal>
@@ -201,6 +214,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_VSSCoupled_10Rnd">
         <nominal>5</nominal>
@@ -214,6 +228,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_VALCoupled_20Rnd">
         <nominal>5</nominal>
@@ -227,6 +242,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_VikhrCoupled_30Rnd">
         <nominal>5</nominal>
@@ -240,6 +256,7 @@
             crafted="0" deloot="0" />
          <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_SaigaCoupled_5Rnd">
         <nominal>5</nominal>
@@ -253,6 +270,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_SaigaCoupled_8Rnd">
         <nominal>5</nominal>
@@ -266,6 +284,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_M14Coupled_10Rnd">
         <nominal>5</nominal>
@@ -279,6 +298,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
     <type name="Ki_Mag_M14Coupled_20Rnd">
         <nominal>5</nominal>
@@ -292,6 +312,7 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
+        <usage name="Underground" />
     </type>
 
 </types>
