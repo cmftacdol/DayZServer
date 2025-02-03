@@ -7795,9 +7795,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="weapons" />
-        <usage name="Underground" />
-        <value name="Unique" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_PVS31_FDE">
         <nominal>2</nominal>
@@ -7810,9 +7808,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="weapons" />
-        <usage name="Underground" />
-        <value name="Unique" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_PVS31_FDE_Wrapped">
         <nominal>2</nominal>
@@ -7825,9 +7821,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="weapons" />
-        <usage name="Underground" />
-        <value name="Unique" />
+        <usage name="ContaminatedArea" />
     </type>
     <!-- Types 1.2.1 -->
     <type name="FOG_BDU_Pants_Black">
@@ -10874,9 +10868,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="weapons" />
-        <usage name="Underground" />
-        <value name="Unique" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_PVS31">
         <nominal>2</nominal>
@@ -10888,9 +10880,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="weapons" />
-        <usage name="Underground" />
-        <value name="Unique" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="FOG_Combat_HikingBoots_Brown">
         <nominal>2</nominal>
