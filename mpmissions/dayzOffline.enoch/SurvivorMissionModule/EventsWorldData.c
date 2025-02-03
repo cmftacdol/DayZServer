@@ -340,12 +340,12 @@ class EventsWorldData extends SurvivorMissions
 		if ( m_MissionType == "BearHunt" )		m_MissionInstance = new BearHuntMission();	
 		if ( m_MissionType == "Camp" )			m_MissionInstance = new CampMission();
 		if ( m_MissionType == "CityMall" )		m_MissionInstance = new CityMallMission();
-		if ( m_MissionType == "FreePigs" )		m_MissionInstance = new FreePigsMission();
+		// if ( m_MissionType == "FreePigs" )		m_MissionInstance = new FreePigsMission();
 		if ( m_MissionType == "Graveyard" )		m_MissionInstance = new GraveyardMission();
 		if ( m_MissionType == "Horde" )			m_MissionInstance = new HordeMission();
 		if ( m_MissionType == "PlaneCrash" )	m_MissionInstance = new PlaneCrashMission();
-		if ( m_MissionType == "Psilos" )		m_MissionInstance = new PsilosMission();
-		if ( m_MissionType == "Ganja" )			m_MissionInstance = new GanjaMission();
+		// if ( m_MissionType == "Psilos" )		m_MissionInstance = new PsilosMission();
+		// if ( m_MissionType == "Ganja" )			m_MissionInstance = new GanjaMission();
 		if ( m_MissionType == "UrbanMall" )		m_MissionInstance = new UrbanMallMission();
 		// ***Add new mission types below this line when new mission events were defined 
 		//example: if ( ( m_MissionType == "MyNewMissionType" )		m_MissionInstance = new MyNewMission();

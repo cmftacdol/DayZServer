@@ -2289,3 +2289,145 @@ SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban
 SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<3dab66c0>> at Pos <<4151.786133, 216.007767, 10868.494141>>
 SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<401d6c20>> at Pos <<1986.562744, 207.833450, 7415.259277>>
 SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<401d6c20>> at Pos <<1986.562744, 207.833450, 7415.259277>>
+SCRIPT       : [SMM] Sending mission radio frequency info to all clients.
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<401d35c0>> at Pos <<4496.183105, 282.490326, 4798.280762>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<401d35c0>> at Pos <<4496.183105, 282.490326, 4798.280762>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_green<401db4a0>> at Pos <<4474.863281, 281.459320, 4799.821777>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_green<401db4a0>> at Pos <<4474.863281, 281.459320, 4799.821777>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<401dbdb0>> at Pos <<4482.446777, 282.303192, 4818.331543>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<401dbdb0>> at Pos <<4482.446777, 282.303192, 4818.331543>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<401d5a00>> at Pos <<4537.989746, 285.851410, 4741.682617>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<401d5a00>> at Pos <<4537.989746, 285.851410, 4741.682617>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<5ec22060>> at Pos <<4500.927734, 282.647491, 4835.281250>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<5ec22060>> at Pos <<4500.927734, 282.647491, 4835.281250>>
+SCRIPT       : 04:55:58.164 [EXPANSION DEBUG]: ExpansionVehicleT<CarScript><3fa2b270>::SetLastDriverUID - R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=
+SCRIPT       : 04:55:59.164 [EXPANSION DEBUG]: ExpansionVehicleT<CarScript><3fa2b270>::ResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:6755 (owner eAI_SurvivorM_Taiki<acc83140>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<60ae36b0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Glock19:27567 (owner eAI_SurvivorF_Irena<a446ae90>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<5bdb9c00> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: CZ550:24300 (owner eAI_SurvivorM_Lewis<5d2bd010>) - MagazineRepair - BAREM_CLO_BUF_MA0<60db11b0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:9975 (owner eAI_SurvivorF_Helga<eed7ed00>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<60d4f970> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<3955a980>> at Pos <<2256.269775, 278.084442, 6792.395508>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<3955a980>> at Pos <<2256.269775, 278.084442, 6792.395508>>
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: FNX45:18091 (owner eAI_SurvivorF_Gabi<5f52e020>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<61841fe0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponChargingInnerMag<b7218de0> closes stable state=BARIMLoadedCharged<5916c190> id=2
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<60f8ffa0>> at Pos <<2535.208984, 202.661026, 7707.196777>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<60f8ffa0>> at Pos <<2535.208984, 202.661026, 7707.196777>>
+SCRIPT       : 05:04:33.158 [EXPANSION DEBUG]: eAI_SurvivorM_Denis<61212280> Debug: Not removed during target cleanup eAIItemTargetInformation<15097be0>, entity=Ammo_Flare<15182c80>, position=<1871.390625, 201.367477, 7295.042969> eAITargetInformationState<60bc61b0>
+SCRIPT       : 05:04:33.158 [EXPANSION DEBUG]: eAI_SurvivorM_Denis<61212280> Debug: Not removed during target cleanup eAIItemTargetInformation<180c95d0>, entity=Deagle<15130c30>, position=<1917.350464, 216.369858, 7314.766113> eAITargetInformationState<61749360>
+SCRIPT       : 05:04:33.158 [EXPANSION DEBUG]: eAI_SurvivorM_Denis<61212280> Debug: Not removed during target cleanup eAIItemTargetInformation<15340520>, entity=Ammo_Flare<1516a360>, position=<1747.895996, 221.631790, 7158.866699> eAITargetInformationState<60bbab30>
+SCRIPT       : 05:04:33.158 [EXPANSION DEBUG]: eAI_SurvivorM_Denis<61212280> Debug: Not removed during target cleanup eAIItemTargetInformation<e279c10>, entity=Ammo_12gaPellets<e1128b0>, position=<1895.645874, 208.942703, 7253.897949> eAITargetInformationState<60bc3050>
+SCRIPT       : [SMM] Mission timed out. MISSION DEACTIVATED !
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<15097be0>, entity=Ammo_Flare<15182c80>, position=<1871.390625, 201.367477, 7295.042969> eAITargetInformationState<60bc66b0>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<1562c950>, entity=Deagle<15115d20>, position=<1975.523071, 226.724243, 7308.922852> eAITargetInformationState<60bdb1f0>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<6183dae0>, entity=Ammo_12gaPellets<5cf3d8a0>, position=<1887.333008, 205.232346, 7279.189941> eAITargetInformationState<6174bf20>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIZombieTargetInformation<618d22c0>, entity=ZmbF_CitizenANormal_LT_Base<61c54bb0>, position=<1912.051025, 204.411652, 7305.572266> eAITargetInformationState<6174e360>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<b7d5100>, entity=Deagle<a5073d40>, position=<1976.329346, 216.363327, 7307.550293> eAITargetInformationState<60bdb510>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<15340520>, entity=Ammo_Flare<1516a360>, position=<1747.895996, 221.631790, 7158.866699> eAITargetInformationState<60bbbf30>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<158363a0>, entity=Deagle<1511ab80>, position=<1986.263062, 228.044525, 7274.831055> eAITargetInformationState<617409e0>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<6183d360>, entity=Ammo_12gaPellets<5cf44c40>, position=<1887.333008, 205.232346, 7279.189941> eAITargetInformationState<6174c7e0>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<173d1ec0>, entity=Deagle<15126f70>, position=<1964.553467, 223.163315, 7316.077148> eAITargetInformationState<60bdcc30>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<eff97d0>, entity=Deagle<a50869b0>, position=<1972.889648, 214.123550, 7314.633789> eAITargetInformationState<60bdacf0>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<e279c10>, entity=Ammo_12gaPellets<e1128b0>, position=<1895.645874, 208.942703, 7253.897949> eAITargetInformationState<60bc2b50>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<6183d780>, entity=Ammo_12gaSlug<5cf440b0>, position=<1887.333496, 205.229736, 7279.189453> eAITargetInformationState<6174c100>
+SCRIPT       : 05:06:15.476 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<5f52e020> Debug: Not removed during target cleanup eAIItemTargetInformation<180c95d0>, entity=Deagle<15130c30>, position=<1917.350464, 216.369858, 7314.766113> eAITargetInformationState<6174cba0>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Tractor<60f93f10>> at Pos <<3074.929199, 251.050278, 7066.784668>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Tractor<60f93f10>> at Pos <<3074.929199, 251.050278, 7066.784668>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Harverster<60f94820>> at Pos <<3155.968262, 251.864227, 7065.036133>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Harverster<60f94820>> at Pos <<3155.968262, 251.864227, 7065.036133>>
+SCRIPT       : [SMM] New selected mission is Ganja mission 152 @ <11560.099609, 187.399994, 9778.500000> : north of Sitnik
+SCRIPT       : [SMM] MissionBuilding is Land_Garage_Row_Small at north of Sitnik @ <11560.055664, 187.446930, 9778.490234>
+SCRIPT       : [SMM] Despawning 0 mission objects from old mission...
+SCRIPT       : [SMM] No mission AI's to despawn.
+SCRIPT       : [SMM] Mission zone is active. Waiting for trigger...
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<60f990a0>> at Pos <<3170.205322, 250.663193, 7044.904785>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<60f990a0>> at Pos <<3170.205322, 250.663193, 7044.904785>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_yellow<60f9a2c0>> at Pos <<3171.405273, 250.417343, 7029.835938>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_yellow<60f9a2c0>> at Pos <<3171.405273, 250.417343, 7029.835938>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_blue<60f9c700>> at Pos <<9039.091797, 322.190094, 968.960022>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_blue<60f9c700>> at Pos <<9039.091797, 322.190094, 968.960022>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<60f9eb40>> at Pos <<9057.732422, 325.144318, 962.138733>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<60f9eb40>> at Pos <<9057.732422, 325.144318, 962.138733>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<60fa1890>> at Pos <<4724.270996, 418.735901, 3040.105957>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<60fa1890>> at Pos <<4724.270996, 418.735901, 3040.105957>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<60fa7c40>> at Pos <<2414.220947, 441.244934, 1414.988037>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<60fa7c40>> at Pos <<2414.220947, 441.244934, 1414.988037>>
+SCRIPT       : 05:13:52.734 [EXPANSION DEBUG]: ExpansionVehicleT<CarScript><3fa2b270>::SetLastDriverUID - R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=
+SCRIPT       : 05:13:53.734 [EXPANSION DEBUG]: ExpansionVehicleT<CarScript><3fa2b270>::ResetLastDriverUIDSynch
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_black<60f7b960>> at Pos <<3762.277832, 194.094589, 8722.024414>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_black<60f7b960>> at Pos <<3762.277832, 194.094589, 8722.024414>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<60f7a740>> at Pos <<3797.792236, 192.549576, 8766.405273>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<60f7a740>> at Pos <<3797.792236, 192.549576, 8766.405273>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<60f7cb80>> at Pos <<3810.502686, 192.310226, 8745.561523>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<60f7cb80>> at Pos <<3810.502686, 192.310226, 8745.561523>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Tractor<60f7b050>> at Pos <<9743.994141, 228.884125, 9107.462891>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Tractor<60f7b050>> at Pos <<9743.994141, 228.884125, 9107.462891>>
+SCRIPT       : [JYD-Parts]--| Part found= TruckBattery<620d5560> |--[JYD-Parts]
+SCRIPT       : [JunkYardDog]... [ SalvagePointTruck ] was salvaged from 0x00000000d07669a0 {<1685.57,182.923,7442.23>}
+SCRIPT       : [JYD-Parts]--| Part found= SparkPlug<620d6b80> |--[JYD-Parts]
+SCRIPT       : [JunkYardDog]... [ SalvagePointCar ] was salvaged from 0x00000000d07669a0 {<1686.57,182.421,7446.95>}
+SCRIPT       : [JYD-Parts]--| Part found= CarRadiator<61ffb140> |--[JYD-Parts]
+SCRIPT       : [JunkYardDog]... [ SalvagePointTruck ] was salvaged from 0x00000000d07669a0 {<1676.18,182.954,7440.12>}
+SCRIPT       : [JYD-Parts]--| Part found= CarRadiator<61ffbc50> |--[JYD-Parts]
+SCRIPT       : [JunkYardDog]... [ SalvagePointTruck ] was salvaged from 0x00000000d07669a0 {<1661.9,182.956,7434.5>}
+SCRIPT       : 05:20:41.003 [EXPANSION DEBUG]: ExpansionVehicleT<CarScript><3fa2b270>::SetLastDriverUID - R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=
+SCRIPT       : 05:20:42.001 [EXPANSION DEBUG]: ExpansionVehicleT<CarScript><3fa2b270>::ResetLastDriverUIDSynch
+SCRIPT       : [SMM] Sending mission radio frequency info to all clients.
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=Akol_MosinMount_ACOGOptic:27454 parent=Mosin9130:27453 slot=985792102 }
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<31582e20>> at Pos <<4246.814453, 242.190704, 10339.989258>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<31582e20>> at Pos <<4246.814453, 242.190704, 10339.989258>>
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:20226 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:14372 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:16112 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:11191 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:7512 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:6644 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:7591 parent=SurvivorM_Lewis:1:INSTANCETYPE_SERVER }
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<315934f0>> at Pos <<1039.168091, 421.550781, 2293.610840>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<315934f0>> at Pos <<1039.168091, 421.550781, 2293.610840>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<31594710>> at Pos <<1038.118042, 416.846497, 2278.378906>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<31594710>> at Pos <<1038.118042, 416.846497, 2278.378906>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<31598680>> at Pos <<8772.477539, 269.798523, 8563.994141>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<31598680>> at Pos <<8772.477539, 269.798523, 8563.994141>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_blue<3159ea30>> at Pos <<8778.442383, 270.012085, 8558.401367>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_blue<3159ea30>> at Pos <<8778.442383, 270.012085, 8558.401367>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Tractor<60f9d920>> at Pos <<1179.493774, 435.326782, 2339.895264>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Tractor<60f9d920>> at Pos <<1179.493774, 435.326782, 2339.895264>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<60fa2ab0>> at Pos <<10105.584961, 223.443512, 5877.052246>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<60fa2ab0>> at Pos <<10105.584961, 223.443512, 5877.052246>>
+SCRIPT       : [Logout]: New player R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw= with logout time 3
+SCRIPT       : Player "Penguin" (steamid=76561198413928129) initiated disconnect process...
+SCRIPT       : [Logout]: Player R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw= finished
+SCRIPT       : Player "Penguin" (steamid=76561198413928129) disconnected from server.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Spawned : 105
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Killed  : 41
+SCRIPT       : -- PvZ Kill / Spawn Ratio   : 0.39
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()
