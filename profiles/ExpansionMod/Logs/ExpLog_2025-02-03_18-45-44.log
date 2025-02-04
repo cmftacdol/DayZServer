@@ -1,0 +1,20 @@
+18:45:44.171 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2
+18:50:59.085 [Spatial AI] Spatial AI Enabled
+18:50:59.085 [Spatial AI] points Disabled
+18:50:59.085 [Spatial AI] Locations Disabled
+18:50:59.085 [Spatial AI] Audio Sensitive Locations Disabled
+19:01:52.101 [AI Object Patrol 00000] Spawning 2 West bots at <4021.763672, 237.882614, 10101.632813>
+19:01:52.492 [AI Object Patrol 00000] Global patrol count: 1
+19:06:03.875 [AI Patrol 00011] Spawning 1 Guards bots at <7638.000000, 233.621613, 5996.000000>
+19:06:03.898 [AI Patrol 00011] Global patrol count: 2
+19:07:37.304 [AI Object Patrol 00000] Despawning 2 West bots (spawn position <4021.763672, 237.882614, 10101.632813>, 0/2 deceased)
+19:07:37.304 [AI Object Patrol 00000] Global patrol count: 1
+19:08:06.804 [AI Patrol 00011] Guards bots were wiped out (spawn position <7638.000000, 233.621613, 5996.000000>, 1/1 deceased)
+19:08:06.804 [AI Patrol 00011] Global patrol count: 0
+19:15:13.710 [AI Patrol 00009] Spawning 1 Raiders bots at <2076.239990, 287.799988, 11132.099609>
+19:15:13.742 [AI Patrol 00009] Global patrol count: 1
+19:16:07.750 [Spatial AI] Player: Penguin Number: 2, Faction name: Raiders, Loadout: EastLoadout.json
+19:16:07.750 [Spatial AI] Next valid check in: 1215747ms
+19:16:08.375 [Spatial AI] Spawning 2 Raiders bots at <2477.098877, 308.074707, 11004.496094>
+19:18:26.695 [AI Patrol 00009] Despawning 1 Raiders bots (spawn position <2076.239990, 287.799988, 11132.099609>, 0/1 deceased)
+19:18:26.695 [AI Patrol 00009] Global patrol count: 0

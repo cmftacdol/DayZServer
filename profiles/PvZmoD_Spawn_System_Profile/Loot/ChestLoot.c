@@ -1,13 +1,14 @@
 ///								Spawn Type / Items list
 
-ref autoptr TStringArray data_Chest001 = { "All","Normal","AKM","Mag_AKM_30Rnd", "AK_Suppressor", "AK_Woodbttstck", "AK_WoodHndgrd",  "CarBattery" }; // Military base
-ref autoptr TStringArray data_Chest002 = { "All","Normal","CZ61","Mag_CZ61_20Rnd" }; // little police station
-ref autoptr TStringArray data_Chest003 = { "All","Normal","MP5K","Mag_MP5_30Rnd", "CarBattery", }; // big police station
-ref autoptr TStringArray data_Chest004 = { "All","Normal","AKM","Mag_AKM_30Rnd", "AK_Suppressor", "AK_Woodbttstck", "AK_WoodHndgrd", "CarBattery", }; // Prison
-ref autoptr TStringArray data_Chest005 = { "All","Normal","CarBattery","PressVest_Blue", }; // Altar
-ref autoptr TStringArray data_Chest006 = { "All","Normal","NailBox","NailBox", "NailBox", "NailBox",  }; // Indus
-ref autoptr TStringArray data_Chest007 = { "All","Normal","FirefighterAxe", }; // FireStation
-ref autoptr TStringArray data_Chest008 = { "All","Normal","AntiChemInjector","GasMask_Filter", }; // Toxic zones (v1.14 update)
+
+ref autoptr TStringArray data_Chest001 = { "-500","Stacked","AKM","Mag_AKM_30Rnd","Ammo_556x45","AK_Suppressor","AK_Woodbttstck","AK_WoodHndgrd","BaseRadio","CarBattery" }; // Military base
+ref autoptr TStringArray data_Chest002 = { "-500","Stacked","Mp133Shotgun","Ammo_12gaPellets","WeaponCleaningKit", }; // little police station
+ref autoptr TStringArray data_Chest003 = { "-500","Stacked","MP5K","Mag_MP5_30Rnd", "MP5_Compensator", "MP5_RailHndgrd", "MP5k_StockBttstck", }; // big police station
+ref autoptr TStringArray data_Chest004 = { "-5","Normal","AKM","Mag_AKM_30Rnd", "AK_Suppressor", "AK_Woodbttstck", "AK_WoodHndgrd", "CarBattery", }; // Prison
+ref autoptr TStringArray data_Chest005 = { "-5","Normal","CarBattery","PressVest_Blue" }; // Altar
+ref autoptr TStringArray data_Chest006 = { "-5","Normal","NailBox","LeatherSewingKit","DuctTape","SmallGasCanister","CanisterGasoline", }; // Indus
+ref autoptr TStringArray data_Chest007 = { "-5","Normal","FirefighterAxe","FirefighterAxe_Black","FirefighterAxe_Green","MM_FireExtinguisher","FirefighterJacket_Black","FirefighterJacket_Beige","FirefightersHelmet_White","FirefightersHelmet_Yellow", }; // FireStation
+ref autoptr TStringArray data_Chest008 = { "-1000","Stacked","AntiChemInjector","Grenade_ChemGas","GasMask_Filter" }; // Toxic zones (v1.14 update)
 
 /// use these line to create your own loot chest configuration
 ref autoptr TStringArray data_Chest009 = { "All","Normal","AKM","Mag_AKM_30Rnd", "AK_Suppressor", "AK_Woodbttstck", "AK_WoodHndgrd" }; // not used yet
