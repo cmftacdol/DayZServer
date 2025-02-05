@@ -413,3 +413,73 @@
 [2025-02-04 08:02:29] Client version: no bootstrapper found
 [2025-02-04 08:02:29] Initializing System Manager
 [2025-02-04 08:02:29] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-04 18:11:58] Client version: no bootstrapper found
+[2025-02-04 18:11:58] Initializing System Manager
+[2025-02-04 18:11:58] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-05 09:17:06] Client version: no bootstrapper found
+[2025-02-05 09:17:06] Initializing System Manager
+[2025-02-05 09:17:06] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-05 19:15:12] Client version: no bootstrapper found
+[2025-02-05 19:15:12] Initializing System Manager
+[2025-02-05 19:15:12] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-05 19:17:20] Client version: no bootstrapper found
+[2025-02-05 19:17:20] Initializing System Manager
+[2025-02-05 19:17:20] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-05 19:24:13] Client version: no bootstrapper found
+[2025-02-05 19:24:13] Initializing System Manager
+[2025-02-05 19:24:13] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:03:38] Client version: no bootstrapper found
+[2025-02-06 04:03:38] Initializing System Manager
+[2025-02-06 04:03:38] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:12:55] Client version: no bootstrapper found
+[2025-02-06 04:12:55] Initializing System Manager
+[2025-02-06 04:12:55] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:16:51] Client version: no bootstrapper found
+[2025-02-06 04:16:51] Initializing System Manager
+[2025-02-06 04:16:51] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:18:50] Client version: no bootstrapper found
+[2025-02-06 04:18:50] Initializing System Manager
+[2025-02-06 04:18:50] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:24:38] Client version: no bootstrapper found
+[2025-02-06 04:24:38] Initializing System Manager
+[2025-02-06 04:24:38] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:26:43] Client version: no bootstrapper found
+[2025-02-06 04:26:43] Initializing System Manager
+[2025-02-06 04:26:43] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:28:51] Client version: no bootstrapper found
+[2025-02-06 04:28:51] Initializing System Manager
+[2025-02-06 04:28:51] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:34:03] Client version: no bootstrapper found
+[2025-02-06 04:34:03] Initializing System Manager
+[2025-02-06 04:34:03] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:41:14] Client version: no bootstrapper found
+[2025-02-06 04:41:14] Initializing System Manager
+[2025-02-06 04:41:14] Skipping CSystemManager Init because we are in a game process

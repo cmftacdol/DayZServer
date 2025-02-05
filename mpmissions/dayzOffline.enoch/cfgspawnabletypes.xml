@@ -53,6 +53,40 @@
 	<type name="SmallProtectorCase">
 		<hoarder />
 	</type>
+	<type name="ScientificBriefcase">
+		<damage min="0.0" max="0.0" />
+		<cargo chance="1.0">
+			<item name="FilteringBottle" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="FilteringBottle" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Iceaxe" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="ChelatingTablets" />
+		</cargo>
+		<cargo chance="0.6">
+			<item name="PunchedCard" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="GlowPlug" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ki_Coupler" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ki_Coupler" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ki_Coupler" />
+		</cargo>
+		<hoarder />
+	</type>
 	<type name="UndergroundStash">
 		<hoarder />
 	</type>
@@ -1419,7 +1453,7 @@
 		</attachments>
 		<cargo preset="foodArmy" />
 		<cargo chance="0.6">
-			<item name="PunchedCard" chance="1.0" />
+			<item name="ScientificBriefcaseKeys" chance="1.0" />
 		</cargo>
 	</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">

@@ -909,9 +909,6 @@
     <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_SS">
         <btn name="kSpace" />
     </input>
-    <input name="UIOPENMENU">
-        <btn name="kO" />
-    </input>
     <input name="UATogglePlayerControls">
         <btn name="kSpace" />
     </input>
@@ -1054,6 +1051,15 @@
     </input>
     <input name="eAITestUDDecrease">
         <btn name="kDown" />
+    </input>
+    <input name="UAExpansionSnappingDirectionNext">
+        <btn name="mWheelUp" />
+    </input>
+    <input name="UAExpansionSnappingDirectionPrevious">
+        <btn name="mWheelDown" />
+    </input>
+    <input name="UAExpansionSnappingToggle">
+        <btn name="kX" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
