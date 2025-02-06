@@ -483,3 +483,13 @@
 [2025-02-06 04:41:14] Client version: no bootstrapper found
 [2025-02-06 04:41:14] Initializing System Manager
 [2025-02-06 04:41:14] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:55:03] Client version: no bootstrapper found
+[2025-02-06 04:55:03] Initializing System Manager
+[2025-02-06 04:55:03] Skipping CSystemManager Init because we are in a game process
+
+
+[2025-02-06 04:58:17] Client version: no bootstrapper found
+[2025-02-06 04:58:17] Initializing System Manager
+[2025-02-06 04:58:17] Skipping CSystemManager Init because we are in a game process
