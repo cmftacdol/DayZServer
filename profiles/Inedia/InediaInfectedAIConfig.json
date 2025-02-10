@@ -412,7 +412,7 @@
             "all": 0.0
         },
         "AttackPlayersUnconsciousHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackPlayersUnconsciousHitsLimit": {
             "all": 5.0
@@ -1030,7 +1030,7 @@
             "highstr": [
                 {
                     "AgentId": 64,
-                    "AddChance": 20.0,
+                    "AddChance": 10.0,
                     "AddChanceInBlock": 10.0,
                     "AddAmount": 10.0,
                     "AddAmountInBlock": 5.0,
@@ -1041,7 +1041,7 @@
             "mediumstr": [
                 {
                     "AgentId": 64,
-                    "AddChance": 15.0,
+                    "AddChance": 7.0,
                     "AddChanceInBlock": 7.5,
                     "AddAmount": 10.0,
                     "AddAmountInBlock": 5.0,
@@ -1052,7 +1052,7 @@
             "lowstr": [
                 {
                     "AgentId": 64,
-                    "AddChance": 10.0,
+                    "AddChance": 5.0,
                     "AddChanceInBlock": 5.0,
                     "AddAmount": 10.0,
                     "AddAmountInBlock": 5.0,
@@ -1323,7 +1323,7 @@
             "all": 1
         },
         "ButcheringSeconds": {
-            "all": 20.0
+            "all": 3.0
         },
         "ButcheringWithoutGlovesBloodyHandsChancePercent": {
             "all": 100.0
@@ -1403,7 +1403,7 @@
             "all": 1.0
         },
         "VisionRangeMultiplierNight": {
-            "all": 0.500000011920929
+            "all": 0.300000011920929
         },
         "SizeHandlerIsActive": {
             "all": 0
@@ -1578,7 +1578,7 @@
         "ShockIfRunsWithPainedLegs": 1,
         "ShockIfAttackingWithPainedArms": 1,
         "LimbsBreakSystemIsActive": 1,
-        "LimbsBreakPainThresholdPercent": 30.0,
+        "LimbsBreakPainThresholdPercent": 20.0,
         "HeadBreakDurationSeconds": 900.0,
         "ArmsBreakDurationSeconds": 900.0,
         "LegsBreakDurationSeconds": 900.0,
@@ -1606,10 +1606,10 @@
         "NoiseMultiplierLadderDay": 0.20000000298023225,
         "NoiseMultiplierLadderNight": 0.20000000298023225,
         "CamoClothingVisibilityMultipliers": {
-            "GhillieSuit_ColorBase": 0.800000011920929,
+            "GhillieSuit_ColorBase": 0.50,
             "all": 1.0,
-            "GhillieTop_ColorBase": 0.800000011920929,
-            "GhillieHood_ColorBase": 0.800000011920929
+            "GhillieTop_ColorBase": 0.50,
+            "GhillieHood_ColorBase": 0.50
         }
     },
     "Vehicles": {
@@ -1642,10 +1642,10 @@
             "Bicycle_Base": 0.0
         }
     },
-    "LossInterestToIrritantAfterSeconds": 120.0,
-    "LightInHouseMultiplier": 0.20000000298023225,
+    "LossInterestToIrritantAfterSeconds": 60.0,
+    "LightInHouseMultiplier": 0.10,
     "SoundInHouseMultiplier": 0.5,
-    "BloodParticlesLimit": 1000.0,
-    "BloodParticleDurationSeconds": 600.0,
+    "BloodParticlesLimit": 500.0,
+    "BloodParticleDurationSeconds": 120.0,
     "SaveConfigAfterInit": 0
 }
