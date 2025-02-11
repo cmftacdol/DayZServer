@@ -1,0 +1,14 @@
+06:09:17.517 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2
+06:09:18.275 [Spatial AI] Spatial AI Enabled
+06:09:18.275 [Spatial AI] points Disabled
+06:09:18.275 [Spatial AI] Locations Disabled
+06:09:18.275 [Spatial AI] Audio Sensitive Locations Disabled
+06:21:26.964 [AI Patrol 00006] Spawning 2 West bots at <1803.900024, 189.121780, 7447.220215>
+06:21:27.902 [AI Patrol 00006] Global patrol count: 1
+06:21:45.794 [AI Patrol 00011] Spawning 2 Mercenaries bots at <1922.949951, 203.663162, 7365.040039>
+06:21:45.828 [AI Patrol 00011] Global patrol count: 2
+06:23:51.361 [AI Patrol 00006] West bots were wiped out (spawn position <1803.900024, 189.121780, 7447.220215>, 2/2 deceased)
+06:23:51.363 [AI Patrol 00006] Global patrol count: 1
+06:26:15.976 [AI Patrol 00011] Despawning 2 Mercenaries bots (spawn position <1922.949951, 203.663162, 7365.040039>, 0/2 deceased)
+06:26:15.976 [AI Patrol 00011] Global patrol count: 0
+06:40:06.357 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2

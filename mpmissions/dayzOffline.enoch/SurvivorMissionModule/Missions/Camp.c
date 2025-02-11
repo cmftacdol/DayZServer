@@ -159,47 +159,13 @@ class CampMission extends SurvivorMissions
 		MissionObject.PlaceOnSurface();
 		
 		//Get random loadout 
-		int selectedLoadout = Math.RandomIntInclusive(0,9);	//!change randomization limit after adding new loadouts!	
+		int selectedLoadout = Math.RandomIntInclusive(0,6);	//!change randomization limit after adding new loadouts!	
 
 		//Spawn selected loadout items in mission object
 		EntityAI weapon;
 				
+		
 		if (selectedLoadout == 0)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("M4A1_Green");
-				weapon.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
-				weapon.GetInventory().CreateAttachment("M4_MPBttstck");
-				weapon.GetInventory().CreateAttachment("ACOGOptic");
-				weapon.GetInventory().CreateAttachment("M4_Suppressor");
-			MissionObject.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("M4_T3NRDSOptic");
-			MissionObject.GetInventory().CreateInInventory("Ammo_556x45");
-			MissionObject.GetInventory().CreateInInventory("Ammo_556x45");
-			MissionObject.GetInventory().CreateInInventory("CanOpener");
-			MissionObject.GetInventory().CreateInInventory("PeachesCan");
-			MissionObject.GetInventory().CreateInInventory("Canteen");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 1)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SVD");
-				weapon.GetInventory().CreateAttachment("PSO1Optic");
-			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("PSO1Optic");
-			MissionObject.GetInventory().CreateInInventory("KazuarOptic");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("CanOpener");
-			MissionObject.GetInventory().CreateInInventory("PeachesCan");
-			MissionObject.GetInventory().CreateInInventory("Canteen");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 2)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("AKM");
 				weapon.GetInventory().CreateAttachment("AK_RailHndgrd_Green");
@@ -216,26 +182,7 @@ class CampMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Canteen");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 		}
-		if (selectedLoadout == 3)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("FAL");
-				weapon.GetInventory().CreateAttachment("Fal_OeBttstck");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("AK_Suppressor");
-			MissionObject.GetInventory().CreateInInventory("ACOGOptic");
-			MissionObject.GetInventory().CreateInInventory("FNX45");
-			MissionObject.GetInventory().CreateInInventory("Mag_FNX45_15Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FNX45_15Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
-			MissionObject.GetInventory().CreateInInventory("FNP45_MRDSOptic");
-			MissionObject.GetInventory().CreateInInventory("PistolSuppressor");
-			MissionObject.GetInventory().CreateInInventory("PsilocybeMushroom");
-			MissionObject.GetInventory().CreateInInventory("AmmoBox");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}	
-		if (selectedLoadout == 4)
+		if (selectedLoadout == 1)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
 				weapon.GetInventory().CreateAttachment("PUScopeOptic");
@@ -249,7 +196,7 @@ class CampMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox");
 		}	
-		if (selectedLoadout == 5)
+		if (selectedLoadout == 2)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("Winchester70");
 				weapon.GetInventory().CreateAttachment("HuntingOptic");
@@ -263,7 +210,7 @@ class CampMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("TLRLight");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 		}
-		if (selectedLoadout == 6)
+		if (selectedLoadout == 3)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("MP5K");
 				weapon.GetInventory().CreateAttachment("MP5_RailHndgrd");
@@ -282,7 +229,7 @@ class CampMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		if (selectedLoadout == 7)
+		if (selectedLoadout == 4)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("AK74");
 				weapon.GetInventory().CreateAttachment("AK_RailHndgrd");
@@ -299,7 +246,7 @@ class CampMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		if (selectedLoadout == 8)
+		if (selectedLoadout == 5)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("AKS74U");
 				weapon.GetInventory().CreateAttachment("AKS74U_Bttstck");			
@@ -315,7 +262,7 @@ class CampMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");			
 		}
-		if (selectedLoadout == 9)
+		if (selectedLoadout == 6)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("Glock19");
 				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
@@ -383,7 +330,7 @@ class CampMission extends SurvivorMissions
 		m_MissionAIs.Insert( GetGame().CreateObject( "ZmbM_HikerSkinny_Blue" , InfectedPos , false , true ) );
 		DayZInfected InfectedSurvivor = DayZInfected.Cast( m_MissionAIs[0] );
 			InfectedSurvivor.GetInventory().CreateAttachment("FlatCap_Blue");
-			InfectedSurvivor.GetInventory().CreateAttachment("casebag_green");
+			InfectedSurvivor.GetInventory().CreateAttachment("Nomadbackpack_v3_Yellow");
 			InfectedSurvivor.GetInventory().CreateAttachment("UKAssVest_Black");
 
 			EntityAI weapon1 = GetGame().CreateObjectEx( "M4A1_Green", InfectedSurvivor.GetPosition() + "1 0 1", ECE_PLACE_ON_SURFACE );

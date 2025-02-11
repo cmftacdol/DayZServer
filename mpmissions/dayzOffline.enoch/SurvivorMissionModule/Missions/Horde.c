@@ -106,147 +106,63 @@ class HordeMission extends SurvivorMissions
 	void SpawnObjects()
 	{				
 		//Mission object is pilot bag
-		MissionObject = ItemBase.Cast( GetGame().CreateObject("casebag_green", m_MissionPosition ) );
+		MissionObject = ItemBase.Cast( GetGame().CreateObject("Nomadbackpack_v3_Yellow", m_MissionPosition ) );
 		MissionObject.SetPosition( m_MissionPosition + "0 0.2 0" );
 		//MissionObject.PlaceOnSurface(); 
 		
-		//Get random loadout 			
-		int selectedLoadout = Math.RandomIntInclusive(0,11);	//!Change randomization limit after adding new loadouts!
-		
+		//Get random loadout 
+		int selectedLoadout = Math.RandomIntInclusive(0,6);	//!change randomization limit after adding new loadouts!	
+
 		//Spawn selected loadout items in mission object
 		EntityAI weapon;
-								
+				
+		
 		if (selectedLoadout == 0)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("M4A1_Green");
-				weapon.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
-				weapon.GetInventory().CreateAttachment("M4_MPBttstck");
-				weapon.GetInventory().CreateAttachment("M4_Suppressor");
-				weapon.GetInventory().CreateAttachment("ACOGOptic");
-				//weapon.GetInventory().CreateAttachment("M4_T3NRDSOptic");
-			MissionObject.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_556x45");
-			MissionObject.GetInventory().CreateInInventory("Ammo_556x45");
-			MissionObject.GetInventory().CreateInInventory("HuntingKnife");
-			MissionObject.GetInventory().CreateInInventory("BakedBeansCan");
+			weapon = MissionObject.GetInventory().CreateInInventory("AKM");
+				weapon.GetInventory().CreateAttachment("AK_RailHndgrd_Green");
+				weapon.GetInventory().CreateAttachment("AK_PlasticBttstck_Green");
+				weapon.GetInventory().CreateAttachment("PSO1Optic");
+				weapon.GetInventory().CreateAttachment("AK_Suppressor");
+			MissionObject.GetInventory().CreateInInventory("Mag_AKM_30Rnd");
+			MissionObject.GetInventory().CreateInInventory("Mag_AKM_30Rnd");
+			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
+			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
+			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
+			MissionObject.GetInventory().CreateInInventory("CanOpener");
+			MissionObject.GetInventory().CreateInInventory("PeachesCan");
 			MissionObject.GetInventory().CreateInInventory("Canteen");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 		}
 		if (selectedLoadout == 1)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SVD");
-				weapon.GetInventory().CreateAttachment("PSO11Optic");
-				//weapon.GetInventory().CreateAttachment("PSO1Optic");
-				//weapon.GetInventory().CreateAttachment("KazuarOptic");
-			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("CanOpener");
-			MissionObject.GetInventory().CreateInInventory("PeachesCan");
-			MissionObject.GetInventory().CreateInInventory("WaterBottle"); 
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 2)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("AKM");
-				weapon.GetInventory().CreateAttachment("AK_RailHndgrd_Green");
-				weapon.GetInventory().CreateAttachment("AK_Suppressor");
-				weapon.GetInventory().CreateAttachment("AK_PlasticBttstck_Green");
-				weapon.GetInventory().CreateAttachment("PSO1Optic");
-				//weapon.GetInventory().CreateAttachment("KobraOptic");
-			MissionObject.GetInventory().CreateInInventory("Mag_AKM_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
-			MissionObject.GetInventory().CreateInInventory("KitchenKnife");
-			MissionObject.GetInventory().CreateInInventory("SardinesCan");
-			MissionObject.GetInventory().CreateInInventory("Canteen");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 3)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("FAL");
-				weapon.GetInventory().CreateAttachment("Fal_OeBttstck");
-				weapon.GetInventory().CreateAttachment("M4_Suppressor");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				//weapon.GetInventory().CreateAttachment("ReflexOptic");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("WaterBottle");
-			MissionObject.GetInventory().CreateInInventory("MilitaryBelt");	
-			MissionObject.GetInventory().CreateInInventory("M18SmokeGrenade_Yellow");	
-			MissionObject.GetInventory().CreateInInventory("TacticalBaconCan");
-			MissionObject.GetInventory().CreateInInventory("SteakKnife");
-		}	
-		if (selectedLoadout == 4)
-		{
 			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
 				weapon.GetInventory().CreateAttachment("PUScopeOptic");
-				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
 			MissionObject.GetInventory().CreateInInventory("Ammo_762x39");
 			weapon = MissionObject.GetInventory().CreateInInventory("FNX45");
 				weapon.GetInventory().CreateAttachment("PistolSuppressor");
-				weapon.GetInventory().CreateAttachment("FNP45_MRDSOptic");
-				weapon.GetInventory().CreateAttachment("TLRLight");
+				EntityAI weaponlight = weapon.GetInventory().CreateAttachment("TLRLight");
+					weaponlight.GetInventory().CreateAttachment("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Mag_FNX45_15Rnd");
 			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
-			MissionObject.GetInventory().CreateInInventory("WaterBottle");			
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 5)
-		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("Winchester70");
-				weapon.GetInventory().CreateAttachment("HuntingOptic");		
-			MissionObject.GetInventory().CreateInInventory("Ammo_308Win");
-			MissionObject.GetInventory().CreateInInventory("Ammo_308Win");
-		
-			weapon = MissionObject.GetInventory().CreateInInventory("CZ75");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");
-				weapon.GetInventory().CreateAttachment("FNP45_MRDSOptic");
-			MissionObject.GetInventory().CreateInInventory("Mag_CZ75_15Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
-					
-			weapon = MissionObject.GetInventory().CreateInInventory("NVGHeadstrap");
-				weapon.GetInventory().CreateInInventory("NVGoggles");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-			MissionObject.GetInventory().CreateInInventory("PsilocybeMushroom");
-			MissionObject.GetInventory().CreateInInventory("WaterBottle");	
-			MissionObject.GetInventory().CreateInInventory("SpaghettiCan");
-			MissionObject.GetInventory().CreateInInventory("StoneKnife");
-			MissionObject.GetInventory().CreateInInventory("M67Grenade");					
-		}
-		if (selectedLoadout == 6)
-		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("UMP45");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-			MissionObject.GetInventory().CreateInInventory("Cannabis");
-			MissionObject.GetInventory().CreateInInventory("CannabisSeedsPack");
-			MissionObject.GetInventory().CreateInInventory("WaterBottle");	
-			MissionObject.GetInventory().CreateInInventory("TunaCan");
-			MissionObject.GetInventory().CreateInInventory("RDG5Grenade");					
+			MissionObject.GetInventory().CreateInInventory("AmmoBox");
 		}	
-		if (selectedLoadout == 7)
-		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("VSS");
-				weapon.GetInventory().CreateAttachment("PSO11Optic");
-				//weapon.GetInventory().CreateAttachment("PistolSuppressor");			
-			MissionObject.GetInventory().CreateInInventory("Mag_VSS_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_VSS_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x39_20Rnd");
+		if (selectedLoadout == 2)
+		{
+			weapon = MissionObject.GetInventory().CreateInInventory("Winchester70");
+				weapon.GetInventory().CreateAttachment("HuntingOptic");
+			MissionObject.GetInventory().CreateInInventory("Ammo_308Win");
+			MissionObject.GetInventory().CreateInInventory("Ammo_308Win");
+			MissionObject.GetInventory().CreateInInventory("FNX45");
+			MissionObject.GetInventory().CreateInInventory("Mag_FNX45_15Rnd");
+			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
+			MissionObject.GetInventory().CreateInInventory("AmmoBox");
+			MissionObject.GetInventory().CreateInInventory("PistolSuppressor");
+			MissionObject.GetInventory().CreateInInventory("TLRLight");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
-			MissionObject.GetInventory().CreateInInventory("GardenLime");
-			MissionObject.GetInventory().CreateInInventory("CannabisSeedsPack");
-			MissionObject.GetInventory().CreateInInventory("WaterBottle");	
-			MissionObject.GetInventory().CreateInInventory("SardinesCan");
-			MissionObject.GetInventory().CreateInInventory("M18SmokeGrenade_Green");					
 		}
-		if (selectedLoadout == 8)
+		if (selectedLoadout == 3)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("MP5K");
 				weapon.GetInventory().CreateAttachment("MP5_RailHndgrd");
@@ -265,7 +181,7 @@ class HordeMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		if (selectedLoadout == 9)
+		if (selectedLoadout == 4)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("AK74");
 				weapon.GetInventory().CreateAttachment("AK_RailHndgrd");
@@ -282,7 +198,7 @@ class HordeMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		if (selectedLoadout == 10)
+		if (selectedLoadout == 5)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("AKS74U");
 				weapon.GetInventory().CreateAttachment("AKS74U_Bttstck");			
@@ -298,7 +214,7 @@ class HordeMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");			
 		}
-		if (selectedLoadout == 11)
+		if (selectedLoadout == 6)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("Glock19");
 				weapon.GetInventory().CreateAttachment("PistolSuppressor");			

@@ -1,0 +1,583 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-2-10_22-9-16
+====================================================================================
+22:9:16 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+22:9:16 | [PermissionManager] Perm (FreeCamera) has been registered!
+22:9:16 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuItemManager) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuServerManager) has been registered!
+22:9:16 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+22:9:16 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+22:9:16 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+22:9:16 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+22:9:16 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+22:9:16 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+22:9:16 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+22:9:16 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+22:9:16 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+22:9:16 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuBansManager) has been registered!
+22:9:16 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+22:9:16 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+22:9:16 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+22:9:16 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+22:9:16 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+22:9:16 | [PermissionManager] Adding Super Admin (76561198413928129)
+22:9:16 | [PermissionManager] Loaded UserGroups.json
+22:9:16 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+22:9:16 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+22:9:16 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+22:9:16 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+22:9:16 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+22:9:16 | Building Sets Loaded: 0
+22:9:16 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+22:9:16 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+22:20:40 | Player "Penguin" (steamId=76561198413928129) connected to server!
+22:21:21 | "Penguin" (steamid=76561198413928129) gave godmode to (steamid=76561198413928129)
+22:21:32 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1361.464355, 184.510712, 7453.052246>)
+22:21:34 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1372.184814, 180.762619, 7447.291016>)
+22:21:47 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1498.968506, 194.413208, 7403.546875>)
+22:21:50 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:21:52 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1500.468994, 195.271286, 7400.182129>)
+22:21:53 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:22:6 | "Penguin" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+22:22:9 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1613.816528, 181.220001, 7460.132324>)
+22:22:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1637.610596, 181.220001, 7467.383301>)
+22:22:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1647.351074, 181.220016, 7469.678223>)
+22:22:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1647.479736, 181.220001, 7469.711914>)
+22:22:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1647.600708, 181.219986, 7469.744141>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1647.720703, 181.220016, 7469.775879>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1647.836426, 181.220016, 7469.806641>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1647.994507, 181.220001, 7469.849121>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1655.713013, 181.220001, 7471.627441>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1656.465332, 181.220001, 7471.805664>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1656.630005, 181.220001, 7471.848145>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1656.733398, 181.220001, 7471.875977>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1656.843262, 181.220016, 7471.905273>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1656.953491, 181.220001, 7471.934570>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1657.120483, 181.220001, 7471.979492>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1657.015869, 181.220001, 7471.951660>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1658.271118, 181.219986, 7472.238281>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1659.509155, 181.220001, 7472.520996>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1660.686646, 181.219986, 7472.790527>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1661.755859, 181.220001, 7473.036133>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1663.439575, 181.223007, 7473.426270>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1664.747070, 181.219284, 7473.742188>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1665.495361, 181.214218, 7473.924805>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1669.069336, 181.192093, 7474.738281>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1670.717896, 181.190018, 7475.111816>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1671.468262, 181.190002, 7475.282227>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1676.044800, 181.190002, 7476.335938>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1677.354980, 181.189987, 7476.651367>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1677.695801, 181.189987, 7476.735840>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1679.951172, 181.189972, 7477.250977>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1680.194946, 181.189987, 7477.306641>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1685.272461, 181.242538, 7478.463379>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1685.569580, 181.238052, 7478.532227>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1685.634155, 181.237015, 7478.548828>)
+22:22:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1685.752808, 181.235123, 7478.580566>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1696.338745, 181.216080, 7482.452148>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1698.928223, 181.219986, 7483.454590>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1700.173828, 181.220001, 7483.935059>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1701.384888, 181.219986, 7484.403809>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1702.533691, 181.220016, 7484.849121>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1703.506958, 181.219986, 7485.227539>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1704.297119, 181.219986, 7485.535645>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1705.471558, 181.219986, 7485.966309>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1706.297607, 181.220001, 7486.268555>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1707.808228, 181.220001, 7486.842285>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1708.769531, 181.220001, 7487.207031>)
+22:22:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1709.360229, 181.220001, 7487.431641>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1709.752197, 181.220001, 7487.582520>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1713.497681, 181.243942, 7488.986328>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1714.986328, 181.279678, 7489.561523>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1715.542358, 181.293015, 7489.779297>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1717.376221, 181.326660, 7490.490234>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1717.574341, 181.329651, 7490.570313>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1720.956055, 181.344116, 7491.815918>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1721.132568, 181.345245, 7491.880371>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1721.704468, 181.348892, 7492.107422>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1722.133423, 181.351639, 7492.272949>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1723.119751, 181.357956, 7492.644531>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1724.103882, 181.364258, 7493.014648>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1725.098877, 181.370010, 7493.388184>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1726.036865, 181.363419, 7493.742188>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1727.572876, 181.339676, 7494.326660>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1728.803345, 181.320587, 7494.794434>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1729.775146, 181.305511, 7495.163086>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1730.499390, 181.300415, 7495.431641>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1731.681274, 181.299561, 7495.870117>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1732.434082, 181.306808, 7496.141602>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1734.430176, 181.325302, 7496.883789>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1735.646240, 181.327774, 7497.266602>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1737.489258, 181.330795, 7497.878418>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1738.521729, 181.333801, 7497.826172>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1739.028320, 181.334045, 7497.848633>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1739.298462, 181.333023, 7497.911133>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1741.279785, 181.345825, 7498.636230>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1741.992554, 181.353027, 7498.786133>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1744.354736, 181.371567, 7499.520996>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1745.050659, 181.379196, 7499.682617>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1746.444824, 181.397079, 7499.678223>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1746.788086, 181.401703, 7499.647949>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1750.963257, 181.447891, 7500.940430>)
+22:22:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1753.705444, 181.489532, 7501.218262>)
+22:22:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1766.159790, 181.633408, 7501.974609>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1770.587646, 181.720566, 7501.823730>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1771.394653, 181.751556, 7501.785156>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1772.130249, 181.779816, 7501.750977>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1772.781128, 181.804810, 7501.721680>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1773.334839, 181.826096, 7501.698242>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1773.781494, 181.843948, 7501.680176>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1775.415161, 181.899216, 7501.599609>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1776.621094, 181.918411, 7501.543457>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1778.067505, 181.941437, 7501.479492>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1778.938965, 181.955322, 7501.439941>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1779.468506, 181.963760, 7501.417480>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1779.818604, 181.969345, 7501.405273>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1781.117798, 182.066925, 7501.333984>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1781.662109, 182.132538, 7501.299805>)
+22:22:19 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1789.342773, 183.020966, 7498.680176>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1795.966309, 183.623169, 7495.476563>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1796.091919, 183.636627, 7495.414551>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1796.208618, 183.649094, 7495.357910>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1796.317383, 183.660690, 7495.306152>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1796.427612, 183.672485, 7495.254395>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1796.531250, 183.683487, 7495.206543>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1796.631104, 183.694107, 7495.160156>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1799.889160, 184.048187, 7493.467773>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1801.296143, 184.102493, 7492.752930>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1801.945923, 184.127945, 7492.429199>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1802.129761, 184.135162, 7492.337402>)
+22:22:20 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1802.480957, 184.148865, 7492.172852>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1810.987061, 184.349365, 7483.721680>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1812.263672, 184.362808, 7482.255859>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1812.908936, 184.387039, 7481.347656>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1813.406250, 184.467300, 7480.623535>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1813.889526, 184.553421, 7479.920410>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1814.358154, 184.628067, 7479.246094>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1814.793213, 184.694077, 7478.624512>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1815.285156, 184.767700, 7477.949707>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1815.667358, 184.824982, 7477.424805>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1816.414795, 184.938354, 7476.357910>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1816.943970, 185.018616, 7475.603027>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1817.607178, 185.156372, 7474.654297>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1817.961914, 185.266083, 7474.137207>)
+22:22:21 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1818.179199, 185.333313, 7473.819824>)
+22:22:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1818.331909, 185.379730, 7473.602051>)
+22:22:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1818.443359, 185.413055, 7473.447754>)
+22:22:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1818.528198, 185.438065, 7473.332520>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1825.856934, 186.892838, 7466.665527>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1830.827881, 187.730530, 7462.236328>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1830.948608, 187.746750, 7462.136719>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1831.058350, 187.761383, 7462.046875>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1831.161865, 187.775223, 7461.963379>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1831.263550, 187.789215, 7461.881348>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1833.430420, 188.198349, 7459.878418>)
+22:22:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1834.307373, 188.363983, 7459.067871>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1881.208496, 201.385544, 7374.528809>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1888.451904, 201.587082, 7375.030273>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1888.574585, 201.591721, 7375.026367>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1888.692017, 201.596161, 7375.023438>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1888.809814, 201.600677, 7375.021484>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1888.927124, 201.605209, 7375.020996>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1889.039673, 201.609497, 7375.021484>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1892.924316, 201.768585, 7375.585449>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1894.043091, 201.813644, 7375.748535>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1894.349243, 201.828888, 7375.791016>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1894.517456, 201.837128, 7375.803711>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1894.649170, 201.843521, 7375.809570>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1894.767578, 201.849243, 7375.813965>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1898.224487, 202.021622, 7376.316406>)
+22:24:5 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1898.593506, 202.040039, 7376.370117>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1899.948975, 202.114929, 7376.571289>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1900.019531, 202.119049, 7376.582031>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1900.607544, 202.156952, 7376.650391>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1901.030884, 202.184479, 7376.713867>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1901.490845, 202.214386, 7376.782227>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1901.959717, 202.244843, 7376.850586>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1902.726685, 202.294678, 7376.961914>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1903.401733, 202.338516, 7377.060059>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1903.985962, 202.376465, 7377.144531>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1904.485352, 202.408813, 7377.214355>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1905.310913, 202.462448, 7377.333008>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1905.913208, 202.501572, 7377.419922>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1906.790894, 202.564651, 7377.548828>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1907.354370, 202.607590, 7377.631836>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1908.464111, 202.692123, 7377.794434>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1909.121216, 202.742203, 7377.890625>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1910.200195, 202.820801, 7378.047852>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1910.766113, 202.860779, 7378.130371>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1911.865356, 202.938461, 7378.291504>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1912.373413, 202.974380, 7378.365723>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1913.750244, 203.051620, 7378.564453>)
+22:24:6 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1914.307861, 203.082108, 7378.645020>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1921.596436, 203.513580, 7380.749023>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1927.543335, 203.818954, 7381.613770>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1927.628784, 203.823547, 7381.622559>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1927.706055, 203.827682, 7381.630371>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1927.778809, 203.831558, 7381.637207>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1927.849121, 203.835327, 7381.644043>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1930.895874, 204.003220, 7382.106934>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1932.117188, 204.073883, 7382.293457>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1932.679932, 204.106567, 7382.373535>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1932.870728, 204.117615, 7382.400391>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1936.063477, 204.304321, 7382.884277>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1936.958618, 204.359818, 7383.020508>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1937.769409, 204.410782, 7383.138672>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1937.948853, 204.422440, 7383.164551>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1938.009888, 204.426361, 7383.172363>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1938.078613, 204.430725, 7383.179199>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1938.703735, 204.471268, 7383.266602>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1939.186401, 204.502762, 7383.341309>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1939.797241, 204.542587, 7383.434570>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1940.389160, 204.581192, 7383.524902>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1940.964478, 204.618683, 7383.612305>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1941.494873, 204.653503, 7383.692383>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1942.380005, 204.712799, 7383.826172>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1943.587769, 204.793762, 7384.009766>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1944.386230, 204.880020, 7384.136230>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1944.932007, 204.944641, 7384.222168>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1945.790405, 205.046478, 7384.365234>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1946.311768, 205.108337, 7384.451660>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1947.608765, 205.222824, 7384.668457>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1948.347168, 205.277390, 7384.790039>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1948.737549, 205.306213, 7384.855957>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1948.958984, 205.322479, 7384.903809>)
+22:24:7 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1950.013306, 205.400085, 7385.115723>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1950.464111, 205.433258, 7385.206055>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1952.334595, 205.567551, 7385.545898>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1953.035400, 205.611313, 7385.671875>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1953.275757, 205.626251, 7385.718750>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1953.378662, 205.632248, 7385.761719>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1954.656616, 205.711517, 7386.020020>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1954.967896, 205.730820, 7386.083008>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1955.041382, 205.735291, 7386.103516>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1955.087402, 205.737625, 7386.142090>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1957.803589, 205.884079, 7386.615723>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1959.713257, 205.987854, 7387.011719>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1959.833618, 205.994400, 7387.037109>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1959.945313, 205.999893, 7387.129883>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1959.987305, 206.002197, 7387.133789>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1960.034668, 206.004822, 7387.141113>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1960.089478, 206.007736, 7387.157227>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1961.145386, 206.065338, 7387.350586>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1962.078491, 206.116257, 7387.521484>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1962.885498, 206.158020, 7387.672363>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1963.549316, 206.190094, 7387.807617>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1964.108765, 206.217102, 7387.924805>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1964.516968, 206.236786, 7388.010742>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1964.807495, 206.250778, 7388.076660>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1965.014526, 206.260635, 7388.138672>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1966.041626, 206.310410, 7388.320313>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1966.648926, 206.339844, 7388.427734>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1967.998779, 206.406540, 7388.687500>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1968.709595, 206.443619, 7388.824707>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1969.467285, 206.478546, 7388.974609>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1969.820435, 206.494720, 7389.044922>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1969.989136, 206.502411, 7389.084473>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1970.086548, 206.506821, 7389.121582>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1972.756470, 206.629257, 7389.571777>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1973.668213, 206.673950, 7389.726074>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1974.713135, 206.725784, 7389.854004>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1975.006836, 206.740311, 7389.889648>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1975.102417, 206.744431, 7389.903320>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1975.169678, 206.747330, 7389.918457>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1977.705444, 206.856888, 7390.345703>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1978.130981, 206.875244, 7390.416992>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1980.209839, 206.975403, 7390.692383>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1980.435913, 206.986374, 7390.722168>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1980.476074, 206.988342, 7390.727051>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1980.540161, 206.991455, 7390.734863>)
+22:24:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1981.189575, 207.023071, 7390.827637>)
+22:24:10 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1992.018677, 207.467438, 7395.806152>)
+22:24:11 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<1999.192261, 207.717804, 7397.857910>)
+22:24:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.064087, 207.902496, 7399.370117>)
+22:24:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.109741, 207.902924, 7399.418457>)
+22:24:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.153198, 207.903275, 7399.467285>)
+22:24:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.193848, 207.903580, 7399.514648>)
+22:24:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.234497, 207.903854, 7399.562500>)
+22:24:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.274902, 207.904129, 7399.610352>)
+22:24:13 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2012.028687, 208.223450, 7404.236816>)
+22:24:13 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.550171, 208.176453, 7405.780273>)
+22:24:13 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.601563, 208.177597, 7405.819824>)
+22:24:13 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.654053, 208.178894, 7405.852539>)
+22:24:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.709351, 208.180313, 7405.882813>)
+22:24:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.767700, 208.181915, 7405.907227>)
+22:24:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.824951, 208.183548, 7405.927734>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2027.141846, 208.474686, 7408.465332>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2033.874634, 208.527802, 7409.875488>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2033.955811, 208.529999, 7409.901367>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2034.031372, 208.532028, 7409.924805>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2034.101807, 208.533905, 7409.943848>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2034.169678, 208.535706, 7409.960449>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2034.233643, 208.537354, 7409.974609>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2037.929810, 208.631943, 7410.515137>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2039.197632, 208.666183, 7410.701172>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2039.643677, 208.670425, 7410.764160>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2039.821533, 208.671326, 7410.788574>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2039.939575, 208.671906, 7410.803711>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2040.019409, 208.672348, 7410.812012>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2043.393433, 208.689331, 7411.293945>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2043.920532, 208.695755, 7411.369629>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2045.603882, 208.720261, 7411.612793>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2045.772583, 208.720566, 7411.636719>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2049.213623, 208.727112, 7412.121094>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2049.394775, 208.727478, 7412.146484>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2049.443359, 208.727585, 7412.150879>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2049.510254, 208.727829, 7412.157227>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2049.890137, 208.728760, 7412.204590>)
+22:24:15 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2050.154053, 208.732666, 7412.243164>)
+22:24:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2059.148193, 208.822586, 7413.371582>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2065.033203, 209.139374, 7414.211914>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2065.093018, 209.145248, 7414.217773>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2065.148193, 209.150650, 7414.223145>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2065.203125, 209.156036, 7414.228027>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2065.257324, 209.161331, 7414.233398>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2068.492920, 209.371674, 7414.730957>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2069.592041, 209.448013, 7414.900391>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2069.968262, 209.477982, 7414.957031>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2070.123535, 209.490540, 7414.977539>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2070.308594, 209.505859, 7414.996582>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2070.361084, 209.510208, 7415.002441>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2070.905273, 209.553848, 7415.079590>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2071.348877, 209.589035, 7415.149902>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2071.844971, 209.628403, 7415.227539>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2072.374268, 209.661484, 7415.308105>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2073.094482, 209.678436, 7415.411133>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2073.742188, 209.693649, 7415.503906>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2074.482422, 209.711288, 7415.608398>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2075.072998, 209.728241, 7415.691895>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2075.959473, 209.783661, 7415.825684>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2076.614990, 209.824707, 7415.924805>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2077.090576, 209.854614, 7415.995605>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2077.431396, 209.876160, 7416.045410>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2077.854980, 210.103806, 7416.142578>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2078.029541, 210.263962, 7416.193359>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2080.335938, 209.967422, 7416.465332>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2080.967529, 209.985535, 7416.555664>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2081.309082, 209.997681, 7416.603516>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2081.492920, 210.010178, 7416.628418>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2082.384277, 210.068939, 7416.764648>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2082.754395, 210.093216, 7416.821289>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2083.271729, 210.114761, 7416.939453>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2083.467285, 210.117996, 7416.981934>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2085.900146, 210.199387, 7417.291504>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2086.615723, 210.223343, 7417.382324>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2086.849609, 210.231262, 7417.410645>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2086.955078, 210.235153, 7417.421875>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2090.180176, 210.507523, 7417.939941>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2090.719482, 210.560638, 7418.027832>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2090.833740, 210.572128, 7418.043945>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2090.898926, 210.579254, 7418.051270>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2091.077637, 210.598358, 7418.071289>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2091.155518, 210.606262, 7418.082520>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2091.841064, 210.674408, 7418.191406>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2092.519043, 210.741470, 7418.299316>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2093.235107, 210.813065, 7418.410645>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2093.857422, 210.874985, 7418.506836>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2094.416260, 210.924561, 7418.592285>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2094.885010, 210.965042, 7418.662109>)
+22:24:17 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2095.918213, 211.053360, 7418.822754>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2096.670410, 211.117767, 7418.939941>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2097.655518, 211.202423, 7419.091797>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2098.303955, 211.258163, 7419.191895>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2099.376221, 211.350418, 7419.356934>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2099.993652, 211.410034, 7419.452637>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2100.399658, 211.436539, 7419.512207>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2100.648926, 211.452988, 7419.546875>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2103.110352, 211.610092, 7419.920898>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2104.259521, 211.683517, 7420.095215>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2104.791260, 211.717667, 7420.174805>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2105.033691, 211.737946, 7420.208984>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2107.114014, 211.882217, 7420.526855>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2107.868652, 211.919510, 7420.639160>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2108.145264, 211.933456, 7420.678223>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2108.269775, 211.939896, 7420.693848>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2112.170654, 212.108368, 7421.272949>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2113.085938, 212.133575, 7421.406738>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2113.635010, 212.146820, 7421.481934>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2113.726318, 212.149124, 7421.494141>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2113.791992, 212.150955, 7421.501465>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2113.858887, 212.153061, 7421.507324>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2114.553223, 212.169800, 7421.601563>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2115.169678, 212.183731, 7421.692383>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2115.889893, 212.193939, 7421.795898>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2116.671875, 212.182449, 7421.904297>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2117.419189, 212.171783, 7422.007813>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2118.095947, 212.162170, 7422.100586>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2118.692627, 212.153763, 7422.181641>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2119.168457, 212.153397, 7422.246094>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2120.848877, 212.152420, 7422.483398>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2122.038818, 212.161835, 7422.653809>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2122.871582, 212.171768, 7422.771973>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2123.439209, 212.178848, 7422.852051>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2124.918457, 212.196396, 7423.062988>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2125.779541, 212.210159, 7423.186523>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2126.287598, 212.218857, 7423.258301>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2126.583496, 212.224213, 7423.298340>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2126.765137, 212.227615, 7423.321289>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2126.884766, 212.229584, 7423.335938>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2128.451660, 212.249664, 7423.561035>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2129.085693, 212.257950, 7423.652344>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2131.246582, 212.286118, 7423.959961>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2131.950928, 212.306244, 7424.062012>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2134.290283, 212.286423, 7424.388184>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2134.966797, 212.278366, 7424.481934>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2135.179932, 212.276031, 7424.509766>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2135.279053, 212.275406, 7424.520996>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2135.355225, 212.275116, 7424.528320>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2135.424805, 212.275146, 7424.534668>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2139.938965, 212.309479, 7425.179688>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2140.394531, 212.323410, 7425.246582>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2140.472656, 212.326080, 7425.256348>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2140.526855, 212.328201, 7425.260742>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2140.724609, 212.335114, 7425.283691>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2140.815430, 212.337891, 7425.296875>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2140.918213, 212.341080, 7425.312012>)
+22:24:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2141.028564, 212.344574, 7425.326660>)
+22:24:36 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<2059.489990, 285.736389, 11114.099609>)
+22:24:36 | "Penguin": (steamid=76561198413928129) teleported to (pos=2059.49,0,11114.1)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2055.601074, 289.528351, 11189.545898>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2057.894775, 290.424347, 11196.093750>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2057.942383, 290.440796, 11196.210938>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2057.986816, 290.456177, 11196.320313>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2058.980469, 290.914185, 11199.287109>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2059.380127, 291.103302, 11200.478516>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2059.538818, 291.171814, 11200.948242>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2059.622070, 291.206146, 11201.181641>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2060.398926, 291.570770, 11203.480469>)
+22:26:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2060.612061, 291.681030, 11204.114258>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2061.131836, 291.950958, 11205.666016>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2061.248779, 292.011536, 11206.014648>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.096924, 292.437012, 11208.532227>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.232666, 292.509796, 11208.936523>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.257568, 292.522644, 11209.008789>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.296387, 292.540405, 11209.105469>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.548828, 292.665894, 11209.801758>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.698486, 292.745514, 11210.257813>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2062.892578, 292.848145, 11210.844727>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2063.083496, 292.948883, 11211.420898>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2063.260986, 293.045929, 11211.955078>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2063.464600, 293.147491, 11212.462891>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2063.797607, 293.306488, 11213.379883>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2064.233154, 293.439819, 11214.096680>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2064.621826, 293.544281, 11214.641602>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2064.995850, 293.619232, 11214.996094>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2065.787354, 293.887512, 11216.480469>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2066.430420, 294.057190, 11217.376953>)
+22:26:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2066.922607, 294.162415, 11217.898438>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2095.474365, 301.367859, 11289.299805>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2101.489990, 302.163605, 11288.731445>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2101.607422, 302.185211, 11288.725586>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2101.720459, 302.206146, 11288.720703>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2101.826904, 302.225739, 11288.715820>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2104.269531, 302.659424, 11288.414063>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2105.242920, 302.832336, 11288.294922>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2105.771240, 302.920197, 11288.241211>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2105.957520, 302.949005, 11288.222656>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2106.070557, 302.966675, 11288.213867>)
+22:27:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2106.020752, 303.032043, 11288.214844>)
+22:27:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2115.516357, 305.076324, 11283.173828>)
+22:27:25 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2131.472412, 308.470367, 11281.552734>)
+22:28:2 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3916.770020, 238.160004, 10286.000000>)
+22:28:2 | "Penguin": (steamid=76561198413928129) teleported to (pos=3916.77,0,10286)
+22:28:10 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:28:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<4185.272461, 240.193756, 10366.030273>)
+22:28:30 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<4035.328125, 238.093445, 10179.887695>)
+22:28:54 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<4282.121582, 242.154602, 10432.787109>)
+22:29:3 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<4348.714355, 238.552948, 10472.405273>)
+22:29:5 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:29:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+22:30:8 | "Penguin" (steamid=76561198413928129) deleted object "ScientificBriefcase" (pos=<4341.958984, 238.652725, 10480.039063>)
+22:30:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:30:41 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<4322.410645, 238.245865, 10457.756836>)
+22:30:41 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:31:39 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<868.971985, 531.270020, 1203.369995>)
+22:31:39 | "Penguin": (steamid=76561198413928129) teleported to (pos=868.972,0,1203.37)
+22:32:32 | "Penguin" (steamid=76561198413928129) Spawned Item: (NVGHeadstrap)
+22:32:33 | "Penguin" (steamid=76561198413928129) Spawned Item: (NVGoggles)
+22:32:39 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+22:32:39 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+22:34:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GPNVG_Tan)
+22:35:35 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:35:54 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<647.310120, 531.409302, 1157.504517>)
+22:35:56 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:37:33 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:37:42 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:38:2 | "Penguin" (steamid=76561198413928129) Spawned Item: (ClaymoreMine)
+22:39:6 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:39:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<625.253113, 501.259430, 1140.240234>)
+22:39:18 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:39:53 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+22:39:54 | Player "Penguin" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+22:39:56 | Player "Penguin" (steamId=76561198413928129) disconnected from server.

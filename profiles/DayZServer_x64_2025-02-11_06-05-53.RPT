@@ -1,0 +1,394 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe -config=serverDZ.cfg "-mod=@Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Early Winter or Late Fall Livonia;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@SuppressionMod;" -profiles=profiles "-servermod=@DayZ-Dynamic-AI-Addon;@Survivor Missions"
+=====================================================================
+Exe timestamp: 2025/01/28 02:52:30
+Current time:  2025/02/11 06:06:09
+Version 1.26.159040
+=====================================================================
+
+ 6:06:09.351 [Inputs] Loading inputs default "bin/constants.xml"
+ 6:06:09.353 [Inputs] Loading inputs default "bin/specific.xml"
+ 6:06:09.353 [Inputs] Loading inputs default "EarPlugs\data\inputs.xml"
+ 6:06:09.354 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+ 6:06:09.354 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+ 6:06:09.354 [Inputs] Loading inputs default "SearchInventory/Scripts/Data/inputs.xml"
+ 6:06:09.354 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 6:06:09.354 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+ 6:06:09.354 [Inputs] Loading inputs default "rag/rag_immersive_vehicles/scripts/4_world/rag_immersive_vehicles/actions/inputs/inputs.xml"
+ 6:06:09.355 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+ 6:06:09.355 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+ 6:06:09.355 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 6:06:09.355 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 6:06:09.355 [Inputs] Loading inputs cfg "bin/core.xml"
+ 6:06:09.355 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 6:06:09.356 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 6:06:23.193 Hostname of server: "Project: Genesis"
+ 6:06:38.967 [CE][Hive] :: Initializing OFFLINE
+ 6:06:38.967 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\
+ 6:06:38.967 [CE][Hive] :: Loading core data ... 
+ 6:06:38.972 [CE][CoreData] :: 8 root classes, 19 defaults, 0 updaters...
+ 6:06:53.761 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+ 6:06:53.763 [CE][TypeSetup] :: 683 classes setuped...
+ 6:06:55.314 [CE][RegisterBind] :: 0 classes binded...
+ 6:06:55.315 [CE][RegisterConfig] :: 14342 config classes registered, 0 sub-counters...
+ 6:06:55.315 [CE][Hive] :: Loading map data ... 
+ 6:06:55.331 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 17 types
+ 6:06:55.393 [CE][LoadPrototype] :: loaded 445 prototypes
+ 6:06:55.393   842 containers, 11094 points
+ 6:06:55.393   83 dispatches, 324 proxies
+ 6:06:55.393 !!! [CE][LoadPrototype] 4 groups have no points...
+ 6:06:55.393 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 6:06:55.393 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+ 6:06:55.409 [CE][LoadPrototype] :: loaded 0 prototypes
+ 6:06:55.409   50 containers, 276 points
+ 6:06:55.410   0 dispatches, 0 proxies
+ 6:06:55.410 [CE][LoadPrototype] :: last group name: PathD_7100...
+ 6:06:56.258 [CE][LoadMap] "Group" :: loaded 5753 groups, groups failed: 0, largest group range: 26.6
+ 6:06:56.260 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 26.6
+ 6:06:56.345 [CE][Links] found 556 total links between groups, of 5753
+ 6:06:56.345 [CE][LoadClusters] "Cluster" :: Loading files...
+ 6:06:56.504 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
+ 6:06:56.699 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
+ 6:06:56.880 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
+ 6:06:57.46 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
+ 6:06:57.139 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 25015 instances
+ 6:06:57.165 [CE][Storage] ver:21 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\types.bin"
+ 6:06:57.174 [CE][Storage] ver:21 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\types.001"
+ 6:06:57.192 [CE][Storage] ver:21 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\types.002"
+ 6:06:57.192 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\types.bin".
+ 6:06:57.393 !!! [CE][offlineDB] :: No Shutdown message present.
+ 6:06:57.400 [CE][offlineDB] :: Loaded 45 dynamic events 242 total types.
+ 6:06:57.446 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.446 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.447 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.447 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.447 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 6:06:57.448 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.448 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.448 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.449 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.449 !!! [CE] :: Unknown usage: 'Historical'.
+ 6:06:57.471 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.471 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.471 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.471 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.471 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.471 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.472 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.473 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.473 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.473 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.473 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.473 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.473 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.474 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.475 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.475 !!! [CE] :: Unknown usage: 'Tier3'.
+ 6:06:57.539 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_black_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_black' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_green_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_green' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_purple_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_purple' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_red_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_red' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_yellow_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseittems_triple_locker_yellow' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_paint' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_white' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.540 !!! [CE][offlineDB] :: Type 'rag_cabin_kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.541 !!! [CE][offlineDB] :: Type 'rag_cabin' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.541 !!! [CE][offlineDB] :: Type 'rag_cabin_water_pump' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.541 !!! [CE][offlineDB] :: Type 'RaG_BB_Admin_Hammer' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.541 !!! [CE][offlineDB] :: Type 'RaG_BB_Admin_Hatchet' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.541 !!! [CE][offlineDB] :: Type 'RaG_BB_PillarKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.541 !!! [CE][offlineDB] :: Type 'RaG_BB_Pillar' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_RoofKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Roof' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_FloorKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Floor' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_CeilingKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Ceiling' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_StaircaseKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Staircase' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Staircase_2Kit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Staircase_2' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_StairsKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Stairs' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_WallKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Wall' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_DoorKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Door' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_WindowKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Window' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Window_SmallKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Window_Small' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Low_WallKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Low_Wall' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_FoundationKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Foundation' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_GateKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_Gate' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_GateLeftKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_GateLeft' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.542 !!! [CE][offlineDB] :: Type 'RaG_BB_GateRightKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.543 !!! [CE][offlineDB] :: Type 'RaG_BB_GateRight' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.543 !!! [CE][offlineDB] :: Type 'RaG_BB_WoodStorageKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.543 !!! [CE][offlineDB] :: Type 'RaG_BB_WoodStorage' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.543 !!! [CE][offlineDB] :: Type 'RaG_BB_RampKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.543 !!! [CE][offlineDB] :: Type 'RaG_BB_Ramp' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_StepLadderKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_StepLadder' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_Ladder' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_Floor_HatchKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_Floor_Hatch' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_Single_DoorKit' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.544 !!! [CE][offlineDB] :: Type 'RaG_BB_Single_Door' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'TRMetalDetector' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'TRMetalDetectorMil' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'HiddenStash' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'HauntedStash' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'RadioBeaconStash' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto01' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto02' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto03' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto04' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto05' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto06' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto07' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto08' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto09' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto10' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto11' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto12' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto13' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.570 !!! [CE][offlineDB] :: Type 'ItemPhoto14' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.571 !!! [CE][offlineDB] :: Type 'ItemPhoto15' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.571 !!! [CE][offlineDB] :: Type 'ItemPhoto16' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.571 !!! [CE][offlineDB] :: Type 'ItemPhoto17' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.571 !!! [CE][offlineDB] :: Type 'ItemPhoto18' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.571 !!! [CE][offlineDB] :: Type 'ItemPhoto19' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.572 !!! [CE][offlineDB] :: Type 'ItemPhoto20' will be ignored. (Type does not exist. (Typo?))
+ 6:06:57.764 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 6:06:57.765 [CE][DE][SPAWNS] :: Total positions: 492
+ 6:06:57.765 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 61
+ 6:06:57.779 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\events.bin"
+ 6:06:57.792 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\events.001"
+ 6:06:57.801 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\events.002"
+ 6:06:57.801 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\events.bin".
+ 6:06:57.801 [CE][DynamicEvent] Load  Events:[45] Primary spawners: 45 Secondary spawners: 4
+ 6:06:57.810 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_000.bin"
+ 6:06:57.824 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_000.001"
+ 6:06:57.843 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_000.002"
+ 6:06:57.843 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_000.bin" 726 items.
+ 6:06:58.437   726 items loaded. (0 failed)
+ 6:06:58.445 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_001.bin"
+ 6:06:58.463 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_001.001"
+ 6:06:58.464 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_001.002"
+ 6:06:58.464 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_001.bin" 3072 items.
+ 6:06:59.881   3072 items loaded. (0 failed)
+ 6:06:59.889 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_002.bin"
+ 6:06:59.903 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_002.001"
+ 6:06:59.915 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_002.002"
+ 6:06:59.915 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_002.bin" 838 items.
+ 6:07:00.236   838 items loaded. (0 failed)
+ 6:07:00.252 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_003.bin"
+ 6:07:00.253 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_003.001"
+ 6:07:00.256 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_003.002"
+ 6:07:00.256 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_003.bin" 1872 items.
+ 6:07:01.59   1872 items loaded. (0 failed)
+ 6:07:01.284 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_004.bin"
+ 6:07:01.292 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_004.001"
+ 6:07:01.297 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_004.002"
+ 6:07:01.297 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_004.bin" 1697 items.
+ 6:07:02.41   1697 items loaded. (0 failed)
+ 6:07:02.52 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_005.bin"
+ 6:07:02.64 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_005.001"
+ 6:07:02.79 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_005.002"
+ 6:07:02.79 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_005.bin" 2152 items.
+ 6:07:02.978   2152 items loaded. (0 failed)
+ 6:07:02.992 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_006.bin"
+ 6:07:03.03 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_006.001"
+ 6:07:03.21 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_006.002"
+ 6:07:03.21 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_006.bin" 1280 items.
+ 6:07:03.571   1280 items loaded. (0 failed)
+ 6:07:03.581 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_007.bin"
+ 6:07:03.598 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_007.001"
+ 6:07:03.618 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_007.002"
+ 6:07:03.618 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_007.bin" 1414 items.
+ 6:07:04.181   1414 items loaded. (0 failed)
+ 6:07:04.188 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_008.bin"
+ 6:07:04.189 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_008.001"
+ 6:07:04.198 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_008.002"
+ 6:07:04.198 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_008.bin" 1376 items.
+ 6:07:04.838   1376 items loaded. (0 failed)
+ 6:07:04.856 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_009.bin"
+ 6:07:04.906 !!! [CE][Storage] Failed to read [Storage] data file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_009.001".
+ 6:07:04.906   File not closed...
+ 6:07:04.906 [CE][Storage] ver:25 stamp:321, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_009.001"
+ 6:07:04.973 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_009.002"
+ 6:07:04.973 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_009.bin" 1171 items.
+ 6:07:05.521   1171 items loaded. (0 failed)
+ 6:07:05.523 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_010.bin"
+ 6:07:05.523 [CE][Storage] ver:25 stamp:321, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_010.001"
+ 6:07:05.532 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_010.002"
+ 6:07:05.532 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_010.bin" 3430 items.
+ 6:07:07.104   3430 items loaded. (0 failed)
+ 6:07:07.122 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_011.bin"
+ 6:07:07.138 [CE][Storage] ver:25 stamp:321, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_011.001"
+ 6:07:07.139 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_011.002"
+ 6:07:07.139 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\dynamic_011.bin" 545 items.
+ 6:07:07.360   545 items loaded. (0 failed)
+ 6:07:07.360 [CE][Storage] ver:26 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\building.bin"
+ 6:07:07.360 [CE][Storage] ver:26 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\building.001"
+ 6:07:07.360 [CE][Storage] ver:26 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\building.002"
+ 6:07:07.361 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\building.bin" 0 items.
+ 6:07:07.361   0 items loaded. (0 failed)
+ 6:07:07.369 [CE][Storage] ver:25 stamp:322, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\vehicles.bin"
+ 6:07:07.377 [CE][Storage] ver:25 stamp:318, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\vehicles.001"
+ 6:07:07.394 [CE][Storage] ver:25 stamp:319, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\vehicles.002"
+ 6:07:07.394 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_2\data\vehicles.bin" 229 items.
+ 6:07:08.288   229 items loaded. (0 failed)
+ 6:07:08.317 [CE][Hive] :: Storage load took:10.52 seconds, recovery stamp:322
+ 6:07:08.317   entity: 21403, building: 0
+ 6:07:08.317   no lifetime: 48
+ 6:07:08.317   pathgraph's: 503
+ 6:07:08.317 [CE][Hive] :: Initializing ... 
+ 6:07:08.368 [CE][InitializeMap] :: initialized: 0
+ 6:07:08.368 [CE][Hive] :: Initializing spawners ... 
+ 6:07:10.804 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:23995, Total in Map: 19711 at 0 (sec)
+ 6:07:10.804   tests:0, repeats:0 fails:0, overtime:0
+ 6:07:10.805 [CE][DynEvent] :: 45 types
+ 6:07:10.805 [00] AmbientFox
+ 6:07:10.805   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 6:07:10.805 [01] AmbientHare
+ 6:07:10.805   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 6:07:10.805 [02] AmbientHen
+ 6:07:10.805   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 6:07:10.805 [03] AnimalBear
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [04] AnimalCow
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [05] AnimalDeer
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [06] AnimalGoat
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [07] AnimalPig
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [08] AnimalRoeDeer
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [09] AnimalSheep
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [10] AnimalWildBoar
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [11] AnimalWolf
+ 6:07:10.805   Primary Spawner: "Animal", active: yes, repeat: 1
+ 6:07:10.805 [12] InfectedArmy
+ 6:07:10.805   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [13] InfectedArmyConvoy
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [14] InfectedArmyHard
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [15] InfectedCity
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [16] InfectedFirefighter
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [17] InfectedIndustrial
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [18] InfectedMedic
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [19] InfectedNBC
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [20] InfectedPolice
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [21] InfectedPoliceHard
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [22] InfectedPrisoner
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [23] InfectedReligious
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [24] InfectedSanta
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [25] InfectedSolitude
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [26] InfectedVillage
+ 6:07:10.806   Primary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [27] ItemPlanks
+ 6:07:10.806   Primary Spawner: "Item", active: yes, repeat: 1
+ 6:07:10.806 [28] Loot
+ 6:07:10.806   Primary Spawner: "Loot", active: yes, repeat: 2
+ 6:07:10.806 [29] StaticContaminatedArea
+ 6:07:10.806   Primary Spawner: "Static", active: yes, repeat: 1
+ 6:07:10.806 [30] StaticHeliCrash
+ 6:07:10.806   Primary Spawner: "Static", active: yes, repeat: 1
+ 6:07:10.806   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [31] StaticMilitaryConvoy
+ 6:07:10.806   Primary Spawner: "Static", active: yes, repeat: 1
+ 6:07:10.806   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [32] StaticPoliceSituation
+ 6:07:10.806   Primary Spawner: "Static", active: yes, repeat: 1
+ 6:07:10.806   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [33] StaticTrain
+ 6:07:10.806   Primary Spawner: "Static", active: yes, repeat: 1
+ 6:07:10.806   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 6:07:10.806 [34] TrajectoryConiferous
+ 6:07:10.806   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 6:07:10.806 [35] TrajectoryDeciduous
+ 6:07:10.806   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 6:07:10.806 [36] TrajectoryHumus
+ 6:07:10.806   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 6:07:10.806 [37] TrajectoryStones
+ 6:07:10.806   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 6:07:10.806 [38] VehicleBoat
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [39] VehicleCivilianSedan
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [40] VehicleHatchback02
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [41] VehicleOffroad02
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [42] VehicleOffroadHatchback
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [43] VehicleSedan02
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [44] VehicleTruck01
+ 6:07:10.806   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 6:07:10.806 [CE][Hive] :: Initializing of spawners done.
+ 6:07:10.811 [CE][Hive] :: Init sequence finished.
+ 6:07:10.811 Player connect enabled
+ 6:07:15.79  --- Termination successfully completed --- 

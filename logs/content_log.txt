@@ -803,3 +803,129 @@
 [2025-02-10 20:23:45] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
 [2025-02-10 20:23:45] Steam library folders configuration will be reset.
 [2025-02-10 20:23:45] No install folder configuration files found.
+
+
+[2025-02-11 04:56:02] Client version: no bootstrapper found
+[2025-02-11 04:56:02] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 04:56:02] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 04:56:02] Steam library folders configuration will be reset.
+[2025-02-11 04:56:02] No install folder configuration files found.
+
+
+[2025-02-11 05:06:17] Client version: no bootstrapper found
+[2025-02-11 05:06:17] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:06:17] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:06:17] Steam library folders configuration will be reset.
+[2025-02-11 05:06:17] No install folder configuration files found.
+
+
+[2025-02-11 05:08:22] Client version: no bootstrapper found
+[2025-02-11 05:08:22] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:08:22] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:08:22] Steam library folders configuration will be reset.
+[2025-02-11 05:08:22] No install folder configuration files found.
+
+
+[2025-02-11 05:11:00] Client version: no bootstrapper found
+[2025-02-11 05:11:00] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:11:00] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:11:00] Steam library folders configuration will be reset.
+[2025-02-11 05:11:00] No install folder configuration files found.
+
+
+[2025-02-11 05:13:50] Client version: no bootstrapper found
+[2025-02-11 05:13:50] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:13:50] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:13:50] Steam library folders configuration will be reset.
+[2025-02-11 05:13:50] No install folder configuration files found.
+
+
+[2025-02-11 05:15:10] Client version: no bootstrapper found
+[2025-02-11 05:15:10] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:15:10] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:15:10] Steam library folders configuration will be reset.
+[2025-02-11 05:15:10] No install folder configuration files found.
+
+
+[2025-02-11 05:16:38] Client version: no bootstrapper found
+[2025-02-11 05:16:38] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:16:38] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:16:38] Steam library folders configuration will be reset.
+[2025-02-11 05:16:38] No install folder configuration files found.
+
+
+[2025-02-11 05:18:23] Client version: no bootstrapper found
+[2025-02-11 05:18:23] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:18:23] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:18:23] Steam library folders configuration will be reset.
+[2025-02-11 05:18:23] No install folder configuration files found.
+
+
+[2025-02-11 05:26:29] Client version: no bootstrapper found
+[2025-02-11 05:26:29] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:26:29] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:26:29] Steam library folders configuration will be reset.
+[2025-02-11 05:26:29] No install folder configuration files found.
+
+
+[2025-02-11 05:30:31] Client version: no bootstrapper found
+[2025-02-11 05:30:31] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:30:31] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:30:31] Steam library folders configuration will be reset.
+[2025-02-11 05:30:31] No install folder configuration files found.
+
+
+[2025-02-11 05:34:01] Client version: no bootstrapper found
+[2025-02-11 05:34:01] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:34:01] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:34:01] Steam library folders configuration will be reset.
+[2025-02-11 05:34:01] No install folder configuration files found.
+
+
+[2025-02-11 05:35:48] Client version: no bootstrapper found
+[2025-02-11 05:35:48] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 05:35:48] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 05:35:48] Steam library folders configuration will be reset.
+[2025-02-11 05:35:48] No install folder configuration files found.
+
+
+[2025-02-11 06:04:24] Client version: no bootstrapper found
+[2025-02-11 06:04:24] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 06:04:24] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 06:04:24] Steam library folders configuration will be reset.
+[2025-02-11 06:04:24] No install folder configuration files found.
+
+
+[2025-02-11 06:06:23] Client version: no bootstrapper found
+[2025-02-11 06:06:23] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 06:06:23] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 06:06:23] Steam library folders configuration will be reset.
+[2025-02-11 06:06:23] No install folder configuration files found.
+
+
+[2025-02-11 06:09:02] Client version: no bootstrapper found
+[2025-02-11 06:09:02] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 06:09:02] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 06:09:02] Steam library folders configuration will be reset.
+[2025-02-11 06:09:02] No install folder configuration files found.
+
+
+[2025-02-11 06:40:53] Client version: no bootstrapper found
+[2025-02-11 06:40:53] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 06:40:53] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 06:40:53] Steam library folders configuration will be reset.
+[2025-02-11 06:40:53] No install folder configuration files found.
+
+
+[2025-02-11 07:46:44] Client version: no bootstrapper found
+[2025-02-11 07:46:44] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 07:46:44] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 07:46:44] Steam library folders configuration will be reset.
+[2025-02-11 07:46:44] No install folder configuration files found.
+
+
+[2025-02-11 08:04:02] Client version: no bootstrapper found
+[2025-02-11 08:04:02] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\steamapps\libraryfolders.vdf.
+[2025-02-11 08:04:02] Load failed: G:\SteamLibrary\steamapps\common\DayZServer\config\libraryfolders.vdf.
+[2025-02-11 08:04:02] Steam library folders configuration will be reset.
+[2025-02-11 08:04:02] No install folder configuration files found.

@@ -128,14 +128,14 @@ class BearHuntMission extends SurvivorMissions
 	
 	void SpawnContainer()
 	{
-		MissionObject =  ItemBase.Cast( GetGame().CreateObject( "casebag_green", m_MissionPosition ));
+		MissionObject =  ItemBase.Cast( GetGame().CreateObject( "Nomadbackpack_v3_Yellow", m_MissionPosition ));
 		m_MissionObjects.InsertAt( MissionObject, 0); 		
 	}
 	
 	void SpawnRewards()
 	{
 		//new MissionObject after deleting protector case
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag_green", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "Nomadbackpack_v3_Yellow", m_MissionPosition ));
 		
 		//Get random loadout 
 		int selectedLoadout = Math.RandomIntInclusive( 0, 9);	//!change randomization limit after adding new loadouts!	
@@ -443,7 +443,7 @@ class BearHuntMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "casebag_green" )
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "Nomadbackpack_v3_Yellow" )
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -455,7 +455,7 @@ class BearHuntMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of mushrooms collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "casebag_green" && !m_MissionExtended )
+		if ( MissionObject && MissionObject.ClassName() == "Nomadbackpack_v3_Yellow" && !m_MissionExtended )
 		{
 			int CargoCount = MissionObject.GetInventory().CountInventory();
 			int LastCount = 0;

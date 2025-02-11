@@ -909,6 +909,9 @@
     <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_SS">
         <btn name="kSpace" />
     </input>
+    <input name="UIOPENMENU">
+        <btn name="kO" />
+    </input>
     <input name="UATogglePlayerControls">
         <btn name="kSpace" />
     </input>

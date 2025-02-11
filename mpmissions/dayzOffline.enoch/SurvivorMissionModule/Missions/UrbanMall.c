@@ -314,7 +314,7 @@ class UrbanMallMission extends SurvivorMissions
 		{
 			//Spawn orange MountainBag 
 			//vector pos = MissionBuilding.ModelToWorld( RewardsPosition );
-			MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag" , m_MissionPosition ));
+			MissionObject = ItemBase.Cast( GetGame().CreateObject( "Nomadbackpack_v3_Yellow" , m_MissionPosition ));
 			m_MissionObjects.InsertAt( MissionObject, 0 );
 		} 		
 	}
@@ -325,7 +325,7 @@ class UrbanMallMission extends SurvivorMissions
 		GetGame().CreateObject( "Lockpick", m_MissionPosition );
 		
 		//new MissionObject after deleting orange bag	
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "casebag", RewardsPos2 ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "Nomadbackpack_v3_Yellow", RewardsPos2 ));
 		
 		//Open office door 1st floor 
 		Building PoliceDepartment = Building.Cast( MissionBuilding );
@@ -333,47 +333,13 @@ class UrbanMallMission extends SurvivorMissions
 		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( GetGame().UpdatePathgraphRegionByObject, 1000, false, PoliceDepartment );
 		
 		//Get random loadout 
-		int selectedLoadout = Math.RandomIntInclusive( 0, 9);	//!change randomization limit after adding new loadouts!	
+		int selectedLoadout = Math.RandomIntInclusive(0,6);	//!change randomization limit after adding new loadouts!	
 
 		//Spawn selected loadout items in mission object
 		EntityAI weapon;
 				
-		if ( selectedLoadout == 0 )
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("M4A1_Green");
-				weapon.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
-				weapon.GetInventory().CreateAttachment("M4_MPBttstck");
-				weapon.GetInventory().CreateAttachment("ACOGOptic");
-				weapon.GetInventory().CreateAttachment("M4_Suppressor");
-			MissionObject.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("M4_T3NRDSOptic");
-			MissionObject.GetInventory().CreateInInventory("Ammo_556x45");
-			MissionObject.GetInventory().CreateInInventory("Ammo_556x45");
-			MissionObject.GetInventory().CreateInInventory("CanOpener");
-			MissionObject.GetInventory().CreateInInventory("PeachesCan");
-			MissionObject.GetInventory().CreateInInventory("Canteen");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 1)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SVD");
-				weapon.GetInventory().CreateAttachment("PSO1Optic");
-			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
-			MissionObject.GetInventory().CreateInInventory("PSO1Optic");
-			MissionObject.GetInventory().CreateInInventory("KazuarOptic");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("Ammo_762x54");
-			MissionObject.GetInventory().CreateInInventory("CanOpener");
-			MissionObject.GetInventory().CreateInInventory("PeachesCan");
-			MissionObject.GetInventory().CreateInInventory("Canteen");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}
-		if (selectedLoadout == 2)
+		
+		if (selectedLoadout == 0)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("AKM");
 				weapon.GetInventory().CreateAttachment("AK_RailHndgrd_Green");
@@ -390,26 +356,7 @@ class UrbanMallMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Canteen");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 		}
-		if (selectedLoadout == 3)
-		{
-			weapon = MissionObject.GetInventory().CreateInInventory("FAL");
-				weapon.GetInventory().CreateAttachment("Fal_OeBttstck");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FAL_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("M4_Suppressor");
-			MissionObject.GetInventory().CreateInInventory("ACOGOptic");
-			MissionObject.GetInventory().CreateInInventory("FNX45");
-			MissionObject.GetInventory().CreateInInventory("Mag_FNX45_15Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_FNX45_15Rnd");
-			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
-			MissionObject.GetInventory().CreateInInventory("FNP45_MRDSOptic");
-			MissionObject.GetInventory().CreateInInventory("PistolSuppressor");
-			MissionObject.GetInventory().CreateInInventory("PsilocybeMushroom");
-			MissionObject.GetInventory().CreateInInventory("AmmoBox");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-		}	
-		if (selectedLoadout == 4)
+		if (selectedLoadout == 1)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
 				weapon.GetInventory().CreateAttachment("PUScopeOptic");
@@ -423,7 +370,7 @@ class UrbanMallMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Ammo_45ACP");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox");
 		}	
-		if (selectedLoadout == 5)
+		if (selectedLoadout == 2)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("Winchester70");
 				weapon.GetInventory().CreateAttachment("HuntingOptic");
@@ -437,7 +384,7 @@ class UrbanMallMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("TLRLight");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 		}
-		if (selectedLoadout == 6)
+		if (selectedLoadout == 3)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("MP5K");
 				weapon.GetInventory().CreateAttachment("MP5_RailHndgrd");
@@ -456,7 +403,7 @@ class UrbanMallMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		if (selectedLoadout == 7)
+		if (selectedLoadout == 4)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("AK74");
 				weapon.GetInventory().CreateAttachment("AK_RailHndgrd");
@@ -473,7 +420,7 @@ class UrbanMallMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
-		if (selectedLoadout == 8)
+		if (selectedLoadout == 5)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("AKS74U");
 				weapon.GetInventory().CreateAttachment("AKS74U_Bttstck");			
@@ -489,7 +436,7 @@ class UrbanMallMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("Battery9V");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");			
 		}
-		if (selectedLoadout == 9)
+		if (selectedLoadout == 6)
 		{			
 			weapon = MissionObject.GetInventory().CreateInInventory("Glock19");
 				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
@@ -760,7 +707,7 @@ class UrbanMallMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "casebag" )
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "Nomadbackpack_v3_Yellow" )
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -772,7 +719,7 @@ class UrbanMallMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of mushrooms collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "casebag" && !m_MissionExtended )
+		if ( MissionObject && MissionObject.ClassName() == "Nomadbackpack_v3_Yellow" && !m_MissionExtended )
 		{
 			int LastCount = 0;
 			int CargoCount = MissionObject.GetInventory().CountInventory();			

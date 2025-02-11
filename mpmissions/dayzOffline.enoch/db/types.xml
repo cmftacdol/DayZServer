@@ -521,9 +521,11 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="1" />
+            crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+        <usage name="Underground" />
+        
     </type>
     <type name="AliceBag_Camo">
         <nominal>3</nominal>
@@ -534,9 +536,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="1" />
+            crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+        <usage name="Underground" />
     </type>
     <type name="AliceBag_Green">
         <nominal>3</nominal>
@@ -547,9 +550,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="1" />
+            crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+        <usage name="Underground" />
     </type>
     <type name="AmmoBox">
         <nominal>10</nominal>
@@ -560,9 +564,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="1" />
+            crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
+          <usage name="Underground" />
     </type>
     <type name="AmmoBox_00buck_10rnd">
         <nominal>20</nominal>
@@ -7479,7 +7484,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
+        <value name="Tier3" />
     </type>
     <type name="FAMAS">
         <nominal>2</nominal>
@@ -12944,10 +12950,9 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="0" />
+            crafted="0" deloot="1" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
-        <usage name="Underground" />
     </type>
     <type name="M4A1_Black">
         <nominal>1</nominal>
@@ -12958,10 +12963,9 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="0" />
+            crafted="0" deloot="1" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
-        <usage name="Underground" />
     </type>
     <type name="M4A1_Green">
         <nominal>1</nominal>
@@ -12972,10 +12976,9 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-            crafted="0" deloot="0" />
+            crafted="0" deloot="1" />
         <category name="weapons" />
         <usage name="ContaminatedArea" />
-        <usage name="Underground" />
     </type>
     <type name="M4_CQBBttstck">
         <nominal>5</nominal>
@@ -14439,18 +14442,15 @@
         <usage name="Farm" />
     </type>
     <type name="Mich2001Helmet">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Military" />
-        <value name="Tier3" />
     </type>
     <type name="MilitaryBelt">
         <nominal>15</nominal>
@@ -17885,7 +17885,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="ContaminatedArea" />
+        <usage name="Underground" />
+        <value name="Tier3" />
     </type>
     <type name="Saiga">
         <nominal>12</nominal>
