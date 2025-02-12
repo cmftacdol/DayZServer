@@ -1,0 +1,413 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe -config=serverDZ.cfg "-mod=@Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Early Winter or Late Fall Livonia;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;" -profiles=profiles "-servermod=@DayZ-Dynamic-AI-Addon;@Survivor Missions"
+=====================================================================
+Exe timestamp: 2025/01/28 02:52:30
+Current time:  2025/02/13 04:42:41
+Version 1.26.159040
+=====================================================================
+
+ 4:42:41.116 [Inputs] Loading inputs default "bin/constants.xml"
+ 4:42:41.132 [Inputs] Loading inputs default "bin/specific.xml"
+ 4:42:41.133 [Inputs] Loading inputs default "EarPlugs\data\inputs.xml"
+ 4:42:41.133 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+ 4:42:41.133 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+ 4:42:41.133 [Inputs] Loading inputs default "SearchInventory/Scripts/Data/inputs.xml"
+ 4:42:41.133 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 4:42:41.134 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+ 4:42:41.134 [Inputs] Loading inputs default "rag/rag_immersive_vehicles/scripts/4_world/rag_immersive_vehicles/actions/inputs/inputs.xml"
+ 4:42:41.134 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+ 4:42:41.134 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+ 4:42:41.134 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 4:42:41.134 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+ 4:42:41.134 [Inputs] Loading inputs cfg "bin/core.xml"
+ 4:42:41.134 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+ 4:42:41.135 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+ 4:42:54.565 Hostname of server: "Project: Genesis"
+ 4:43:10.515 [CE][Hive] :: Initializing OFFLINE
+ 4:43:10.515 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\
+ 4:43:10.515 [CE][Hive] :: Loading core data ... 
+ 4:43:10.537 [CE][CoreData] :: 8 root classes, 19 defaults, 0 updaters...
+ 4:43:22.293 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+ 4:43:22.296 [CE][TypeSetup] :: 684 classes setuped...
+ 4:43:23.683 [CE][RegisterBind] :: 0 classes binded...
+ 4:43:23.683 [CE][RegisterConfig] :: 14342 config classes registered, 0 sub-counters...
+ 4:43:23.683 [CE][Hive] :: Loading map data ... 
+ 4:43:23.708 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 17 types
+ 4:43:23.812 [CE][LoadPrototype] :: loaded 445 prototypes
+ 4:43:23.812   842 containers, 11094 points
+ 4:43:23.812   83 dispatches, 329 proxies
+ 4:43:23.812 !!! [CE][LoadPrototype] 4 groups have no points...
+ 4:43:23.812 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 4:43:23.812 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+ 4:43:23.842 [CE][LoadPrototype] :: loaded 0 prototypes
+ 4:43:23.842   50 containers, 276 points
+ 4:43:23.842   0 dispatches, 0 proxies
+ 4:43:23.842 [CE][LoadPrototype] :: last group name: PathD_7100...
+ 4:43:24.629 [CE][LoadMap] "Group" :: loaded 5753 groups, groups failed: 0, largest group range: 322.6
+ 4:43:24.636 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 322.6
+ 4:43:24.714 [CE][Links] found 556 total links between groups, of 5753
+ 4:43:24.714 [CE][LoadClusters] "Cluster" :: Loading files...
+ 4:43:24.933 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
+ 4:43:25.177 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
+ 4:43:25.412 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
+ 4:43:25.632 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
+ 4:43:25.770 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 25015 instances
+ 4:43:25.790 [CE][Storage] ver:21 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.bin"
+ 4:43:25.802 [CE][Storage] ver:21 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.001"
+ 4:43:25.822 [CE][Storage] ver:21 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.002"
+ 4:43:25.822 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\types.bin".
+ 4:43:26.20 !!! [CE][offlineDB] :: No Shutdown message present.
+ 4:43:26.41 [CE][offlineDB] :: Loaded 45 dynamic events 242 total types.
+ 4:43:26.78 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.78 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.78 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.78 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.78 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 4:43:26.79 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.79 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.79 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.79 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 4:43:26.80 !!! [CE] :: Unknown usage: 'Historical'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.111 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.112 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.112 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.112 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.113 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.114 !!! [CE] :: Unknown usage: 'Tier3'.
+ 4:43:26.240 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_paint' will be ignored. (Type does not exist. (Typo?))
+ 4:43:26.240 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_white' will be ignored. (Type does not exist. (Typo?))
+ 4:43:26.240 !!! [CE][offlineDB] :: Type 'rag_cabin_kit' will be ignored. (Type does not exist. (Typo?))
+ 4:43:26.240 !!! [CE][offlineDB] :: Type 'rag_cabin' will be ignored. (Type does not exist. (Typo?))
+ 4:43:26.240 !!! [CE][offlineDB] :: Type 'rag_cabin_water_pump' will be ignored. (Type does not exist. (Typo?))
+ 4:43:26.449 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 4:43:26.449 [CE][DE][SPAWNS] :: Total positions: 492
+ 4:43:26.450 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 61
+ 4:43:26.461 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.bin"
+ 4:43:26.486 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.001"
+ 4:43:26.505 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.002"
+ 4:43:26.505 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\events.bin".
+ 4:43:26.505 [CE][DynamicEvent] Load  Events:[45] Primary spawners: 45 Secondary spawners: 4
+ 4:43:26.516 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin"
+ 4:43:26.533 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.001"
+ 4:43:26.548 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.002"
+ 4:43:26.548 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin" 720 items.
+ 4:43:28.631   720 items loaded. (0 failed)
+ 4:43:28.654 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin"
+ 4:43:28.669 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.001"
+ 4:43:28.685 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.002"
+ 4:43:28.685 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin" 2883 items.
+ 4:43:31.167   2883 items loaded. (0 failed)
+ 4:43:31.203 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin"
+ 4:43:31.240 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.001"
+ 4:43:31.279 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.002"
+ 4:43:31.279 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin" 789 items.
+ 4:43:31.814   789 items loaded. (0 failed)
+ 4:43:31.836 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin"
+ 4:43:31.855 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.001"
+ 4:43:31.871 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.002"
+ 4:43:31.871 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin" 1766 items.
+ 4:43:32.879   1766 items loaded. (0 failed)
+ 4:43:32.887 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin"
+ 4:43:32.911 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.001"
+ 4:43:32.936 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.002"
+ 4:43:32.936 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin" 1607 items.
+ 4:43:33.639   1607 items loaded. (0 failed)
+ 4:43:33.659 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin"
+ 4:43:33.676 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.001"
+ 4:43:33.682 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.002"
+ 4:43:33.682 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin" 2062 items.
+ 4:43:34.525   2062 items loaded. (0 failed)
+ 4:43:34.551 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin"
+ 4:43:34.564 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.001"
+ 4:43:34.570 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.002"
+ 4:43:34.570 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin" 1278 items.
+ 4:43:35.202   1278 items loaded. (0 failed)
+ 4:43:35.225 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin"
+ 4:43:35.237 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.001"
+ 4:43:35.253 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.002"
+ 4:43:35.253 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin" 1322 items.
+ 4:43:35.790   1322 items loaded. (0 failed)
+ 4:43:35.808 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin"
+ 4:43:35.813 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.001"
+ 4:43:35.834 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.002"
+ 4:43:35.834 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin" 1247 items.
+ 4:43:36.341   1247 items loaded. (0 failed)
+ 4:43:36.361 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin"
+ 4:43:36.372 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.001"
+ 4:43:36.385 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.002"
+ 4:43:36.385 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin" 1141 items.
+ 4:43:36.854   1141 items loaded. (0 failed)
+ 4:43:36.874 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin"
+ 4:43:36.879 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.001"
+ 4:43:36.902 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.002"
+ 4:43:36.902 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin" 3107 items.
+ 4:43:38.91   3107 items loaded. (0 failed)
+ 4:43:38.111 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin"
+ 4:43:38.118 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.001"
+ 4:43:38.126 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.002"
+ 4:43:38.126 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin" 495 items.
+ 4:43:38.319   495 items loaded. (0 failed)
+ 4:43:38.324 [CE][Storage] ver:26 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.bin"
+ 4:43:38.327 [CE][Storage] ver:26 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.001"
+ 4:43:38.331 [CE][Storage] ver:26 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.002"
+ 4:43:38.331 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\building.bin" 3 items.
+ 4:43:38.331   3 items loaded. (0 failed)
+ 4:43:38.346 [CE][Storage] ver:25 stamp:9663, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin"
+ 4:43:38.360 [CE][Storage] ver:25 stamp:9661, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.001"
+ 4:43:38.376 [CE][Storage] ver:25 stamp:9662, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.002"
+ 4:43:38.376 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin" 212 items.
+ 4:43:39.186   212 items loaded. (0 failed)
+ 4:43:39.207 [CE][Hive] :: Storage load took:12.70 seconds, recovery stamp:9663
+ 4:43:39.207   entity: 22069, building: 3
+ 4:43:39.207   no lifetime: 48
+ 4:43:39.207   pathgraph's: 569
+ 4:43:39.207 [CE][Hive] :: Initializing ... 
+ 4:43:39.251 [CE][InitializeMap] :: initialized: 2
+ 4:43:39.251 [CE][Hive] :: Initializing spawners ... 
+ 4:43:41.174 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:24007, Total in Map: 18578 at 0 (sec)
+ 4:43:41.174   tests:0, repeats:0 fails:0, overtime:0
+ 4:43:41.175 [CE][DynEvent] :: 45 types
+ 4:43:41.175 [00] AmbientFox
+ 4:43:41.175   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:43:41.175 [01] AmbientHare
+ 4:43:41.175   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:43:41.175 [02] AmbientHen
+ 4:43:41.175   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:43:41.175 [03] AnimalBear
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [04] AnimalCow
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [05] AnimalDeer
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [06] AnimalGoat
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [07] AnimalPig
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [08] AnimalRoeDeer
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [09] AnimalSheep
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [10] AnimalWildBoar
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [11] AnimalWolf
+ 4:43:41.175   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:43:41.175 [12] InfectedArmy
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [13] InfectedArmyConvoy
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [14] InfectedArmyHard
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [15] InfectedCity
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [16] InfectedFirefighter
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [17] InfectedIndustrial
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [18] InfectedMedic
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [19] InfectedNBC
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [20] InfectedPolice
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [21] InfectedPoliceHard
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [22] InfectedPrisoner
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [23] InfectedReligious
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [24] InfectedSanta
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [25] InfectedSolitude
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [26] InfectedVillage
+ 4:43:41.175   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [27] ItemPlanks
+ 4:43:41.175   Primary Spawner: "Item", active: yes, repeat: 1
+ 4:43:41.175 [28] Loot
+ 4:43:41.175   Primary Spawner: "Loot", active: yes, repeat: 2
+ 4:43:41.175 [29] StaticContaminatedArea
+ 4:43:41.175   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:43:41.175 [30] StaticHeliCrash
+ 4:43:41.175   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:43:41.175   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [31] StaticMilitaryConvoy
+ 4:43:41.175   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:43:41.175   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [32] StaticPoliceSituation
+ 4:43:41.175   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:43:41.175   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [33] StaticTrain
+ 4:43:41.175   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:43:41.175   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:43:41.175 [34] TrajectoryConiferous
+ 4:43:41.175   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:43:41.175 [35] TrajectoryDeciduous
+ 4:43:41.175   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:43:41.175 [36] TrajectoryHumus
+ 4:43:41.175   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:43:41.175 [37] TrajectoryStones
+ 4:43:41.175   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:43:41.175 [38] VehicleBoat
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [39] VehicleCivilianSedan
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [40] VehicleHatchback02
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [41] VehicleOffroad02
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [42] VehicleOffroadHatchback
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [43] VehicleSedan02
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [44] VehicleTruck01
+ 4:43:41.175   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:43:41.175 [CE][Hive] :: Initializing of spawners done.
+ 4:43:41.181 [CE][Hive] :: Init sequence finished.
+ 4:43:41.181 Player connect enabled
+ 4:44:01.02 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "KitchenKnife"
+ 4:44:01.102 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "PetrolLighter"
+ 4:44:01.202 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Jeans_Grey"
+ 4:44:01.302 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Jeans_Blue"
+ 4:44:01.402 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Jeans_Black"
+ 4:44:01.503 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Jeans_Green"
+ 4:44:01.602 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Jeans_BlueDark"
+ 4:44:01.702 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Jeans_Brown"
+ 4:44:01.802 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "BaseballCap_CMMG_Pink"
+ 4:44:01.901 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "BaseballCap_Black"
+ 4:44:02.02 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "BaseballCap_Beige"
+ 4:44:02.102 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "BaseballCap_Olive"
+ 4:44:02.202 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "BaseballCap_Blue"
+ 4:44:02.301 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "BaseballCap_Pink"
+ 4:44:02.402 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "BaseballCap_Red"
+ 4:44:02.502 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "BaseballCap_CMMG_Black"
+ 4:44:02.602 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "FlatCap_Grey"
+ 4:44:02.701 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "FlatCap_Blue"
+ 4:44:02.802 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "FlatCap_GreyCheck"
+ 4:44:02.901 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "FlatCap_BlackCheck"
+ 4:44:28.131 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "FlatCap_BrownCheck"
+ 4:44:28.230 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "FlatCap_Black"
+ 4:44:28.330 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "FlatCap_Brown"
+ 4:44:28.430 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "KukriKnife"
+ 4:44:28.530 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "WoolGloves_White"
+ 4:44:28.630 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "FlatCap_Red"
+ 4:44:28.730 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "SlacksPants_LightGrey"
+ 4:44:28.830 [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "DressShoes_Brown"
+ 4:44:28.930 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "SlacksPants_Black"
+ 4:44:29.30 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "DressShoes_Sunburst"
+ 4:44:29.130 [CE][LootRespawner] (PRIDummy) :: Item [30] causing search overtime: "BoonieHat_Blue"
+ 4:44:29.230 [CE][LootRespawner] (PRIDummy) :: Item [31] causing search overtime: "ZmijovkaCap_Blue"
+ 4:44:29.330 [CE][LootRespawner] (PRIDummy) :: Item [32] causing search overtime: "FlatCap_BlackCheck"
+ 4:44:29.430 [CE][LootRespawner] (PRIDummy) :: Item [33] causing search overtime: "BoonieHat_Olive"
+ 4:44:29.530 [CE][LootRespawner] (PRIDummy) :: Item [34] causing search overtime: "WomanSuit_Brown"
+ 4:44:29.630 [CE][LootRespawner] (PRIDummy) :: Item [35] causing search overtime: "BoonieHat_Orange"
+ 4:44:29.730 [CE][LootRespawner] (PRIDummy) :: Item [36] causing search overtime: "BoonieHat_Black"
+ 4:44:29.830 [CE][LootRespawner] (PRIDummy) :: Item [37] causing search overtime: "ManSuit_LightGrey"
+ 4:44:29.931 [CE][LootRespawner] (PRIDummy) :: Item [38] causing search overtime: "BoonieHat_Red"
+ 4:44:30.31 [CE][LootRespawner] (PRIDummy) :: Item [39] causing search overtime: "WomanSuit_White"
+ 4:44:31.129 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+ 4:44:55.125 [CE][LootRespawner] (PRIDummy) :: Item [40] causing search overtime: "WomanSuit_White"
+ 4:44:55.225 [CE][LootRespawner] (PRIDummy) :: Item [41] causing search overtime: "ManSuit_White"
+ 4:44:55.325 [CE][LootRespawner] (PRIDummy) :: Item [42] causing search overtime: "SlacksPants_DarkGrey"
+ 4:44:55.425 [CE][LootRespawner] (PRIDummy) :: Item [43] causing search overtime: "WomanSuit_Beige"
+ 4:44:55.527 [CE][LootRespawner] (PRIDummy) :: Item [44] causing search overtime: "SlacksPants_Khaki"
+ 4:44:55.626 [CE][LootRespawner] (PRIDummy) :: Item [45] causing search overtime: "DressShoes_Black"
+ 4:44:55.726 [CE][LootRespawner] (PRIDummy) :: Item [46] causing search overtime: "SlacksPants_Blue"
+ 4:44:55.826 [CE][LootRespawner] (PRIDummy) :: Item [47] causing search overtime: "WomanSuit_Khaki"
+ 4:44:55.926 [CE][LootRespawner] (PRIDummy) :: Item [48] causing search overtime: "WomanSuit_LightGrey"
+ 4:44:56.26 [CE][LootRespawner] (PRIDummy) :: Item [49] causing search overtime: "ManSuit_Beige"
+ 4:44:56.126 [CE][LootRespawner] (PRIDummy) :: Item [50] causing search overtime: "WomanSuit_DarkGrey"
+ 4:44:56.226 [CE][LootRespawner] (PRIDummy) :: Item [51] causing search overtime: "BoonieHat_Tan"
+ 4:44:56.326 [CE][LootRespawner] (PRIDummy) :: Item [52] causing search overtime: "ManSuit_Khaki"
+ 4:44:56.426 [CE][LootRespawner] (PRIDummy) :: Item [53] causing search overtime: "DressShoes_White"
+ 4:44:56.525 [CE][LootRespawner] (PRIDummy) :: Item [54] causing search overtime: "DressShoes_Beige"
+ 4:44:56.626 [CE][LootRespawner] (PRIDummy) :: Item [55] causing search overtime: "SlacksPants_Brown"
+ 4:44:56.726 [CE][LootRespawner] (PRIDummy) :: Item [56] causing search overtime: "ManSuit_Brown"
+ 4:44:56.826 [CE][LootRespawner] (PRIDummy) :: Item [57] causing search overtime: "WomanSuit_Black"
+ 4:44:56.926 [CE][LootRespawner] (PRIDummy) :: Item [58] causing search overtime: "DesignerGlasses"
+ 4:44:57.26 [CE][LootRespawner] (PRIDummy) :: Item [59] causing search overtime: "WomanSuit_Blue"
+ 4:45:22.470 [CE][LootRespawner] (PRIDummy) :: Item [60] causing search overtime: "WomanSuit_Blue"
+ 4:45:22.594 [CE][LootRespawner] (PRIDummy) :: Item [61] causing search overtime: "ManSuit_Blue"
+ 4:45:22.690 [CE][LootRespawner] (PRIDummy) :: Item [62] causing search overtime: "SlacksPants_White"
+ 4:45:22.790 [CE][LootRespawner] (PRIDummy) :: Item [63] causing search overtime: "ManSuit_Black"
+ 4:45:22.890 [CE][LootRespawner] (PRIDummy) :: Item [64] causing search overtime: "ManSuit_DarkGrey"
+ 4:45:23.92 [CE][LootRespawner] (PRIDummy) :: Item [65] causing search overtime: "SSG82"
+ 4:45:23.190 [CE][LootRespawner] (PRIDummy) :: Item [66] causing search overtime: "HipPack_Black"
+ 4:45:23.290 [CE][LootRespawner] (PRIDummy) :: Item [67] causing search overtime: "ShortJeans_Brown"
+ 4:45:23.390 [CE][LootRespawner] (PRIDummy) :: Item [68] causing search overtime: "Blouse_Green"
+ 4:45:23.490 [CE][LootRespawner] (PRIDummy) :: Item [69] causing search overtime: "Blouse_Violet"
+ 4:45:23.590 [CE][LootRespawner] (PRIDummy) :: Item [70] causing search overtime: "Mag_SSG82_5rnd"
+ 4:45:23.718 [CE][LootRespawner] (PRIDummy) :: Item [71] causing search overtime: "Blouse_White"
+ 4:45:23.817 [CE][LootRespawner] (PRIDummy) :: Item [72] causing search overtime: "InediaPain_Metoclopramide"
+ 4:45:23.916 [CE][LootRespawner] (PRIDummy) :: Item [73] causing search overtime: "Blouse_Blue"
+ 4:45:24.16 [CE][LootRespawner] (PRIDummy) :: Item [74] causing search overtime: "ShortJeans_Blue"
+ 4:45:24.116 [CE][LootRespawner] (PRIDummy) :: Item [75] causing search overtime: "ShortJeans_Darkblue"
+ 4:45:24.383 [CE][LootRespawner] (PRIDummy) :: Item [76] causing search overtime: "SlacksPants_Beige"
+ 4:45:24.476 [CE][LootRespawner] (PRIDummy) :: Item [77] causing search overtime: "Derringer_Grey"
+ 4:45:51.482 [CE][LootRespawner] (PRIDummy) :: Item [78] causing search overtime: "SurgicalMask"
+ 4:45:51.583 [CE][LootRespawner] (PRIDummy) :: Item [79] causing search overtime: "Derringer_Grey"
+ 4:45:51.684 [CE][LootRespawner] (PRIDummy) :: Item [80] causing search overtime: "Mp133Shotgun"
+ 4:45:51.783 [CE][LootRespawner] (PRIDummy) :: Item [81] causing search overtime: "ShortJeans_Black"
+ 4:45:51.984 [CE][LootRespawner] (PRIDummy) :: Item [82] causing search overtime: "BrisketSpread"
+ 4:45:52.83 [CE][LootRespawner] (PRIDummy) :: Item [83] causing search overtime: "SurgicalGloves_LightBlue"
+ 4:45:52.183 [CE][LootRespawner] (PRIDummy) :: Item [84] causing search overtime: "RidersJacket_Black"
+ 4:45:52.483 [CE][LootRespawner] (PRIDummy) :: Item [85] causing search overtime: "PrisonUniformPants"
+ 4:45:52.683 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "AmmoBox_380_35rnd"
+ 4:45:52.683 [CE][LootRespawner] (PRIDummy) :: Item [86] causing search overtime: "AmmoBox_380_35rnd"
+ 4:45:52.783 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "HikingJacket_Blue"
+ 4:45:53.284 [CE][LootRespawner] (PRIDummy) :: Item [87] causing search overtime: "Ki_Mag_CMAGCoupled_30Rnd"
+ 4:45:54.182 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 4:46:18.684 [CE][LootRespawner] (PRIDummy) :: Item [88] causing search overtime: "MilitaryBoots_Bluerock"
+ 4:46:18.782 [CE][LootRespawner] (PRIDummy) :: Item [89] causing search overtime: "PrisonerCap"
+ 4:46:18.883 [CE][LootRespawner] (PRIDummy) :: Item [90] causing search overtime: "PrisonUniformJacket"
+ 4:46:19.83 [CE][LootRespawner] (PRIDummy) :: Item [91] causing search overtime: "PetushokHat_Black"
+ 4:46:20.183 [CE][LootRespawner] (PRIDummy) :: Item [92] causing search overtime: "Jeans_Green"
+ 4:46:20.282 [CE][LootRespawner] (PRIDummy) :: Item [93] causing search overtime: "Jeans_Blue"
+ 4:46:45.283 [CE][LootRespawner] (PRIDummy) :: Item [94] causing search overtime: "Jeans_Blue"
+ 4:46:45.383 [CE][LootRespawner] (PRIDummy) :: Item [95] causing search overtime: "KitchenKnife"
+ 4:46:45.482 [CE][LootRespawner] (PRIDummy) :: Item [96] causing search overtime: "Jeans_Grey"
+ 4:46:45.583 [CE][LootRespawner] (PRIDummy) :: Item [97] causing search overtime: "Jeans_Black"
+ 4:46:45.682 [CE][LootRespawner] (PRIDummy) :: Item [98] causing search overtime: "Jeans_BlueDark"
+ 4:46:45.783 [CE][LootRespawner] (PRIDummy) :: Item [99] causing search overtime: "PetrolLighter"

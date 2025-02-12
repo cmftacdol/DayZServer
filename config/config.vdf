@@ -10,47 +10,61 @@
 				"ipv6check_udp_state"		"good"
 				"CMWebSocket"
 				{
-					"cmp1-hkg1.steamserver.net:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp3-hkg1.steamserver.net:27021"
-					{
-						"LastPingTimestamp"		"1739288630"
-						"LastPingValue"		"307"
-						"LastLoadValue"		"1635"
-					}
-					"cmp2-dfw1.steamserver.net:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp1-hkg1.steamserver.net:27018"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp2-tyo3.steamserver.net:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp1-iad1.steamserver.net:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp2-hkg1.steamserver.net:27023"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cmp2-hkg1.steamserver.net:27020"
 					{
-						"LastPingTimestamp"		"1739288630"
+						"LastPingTimestamp"		"0"
 						"LastPingValue"		"306"
 						"LastLoadValue"		"43"
 					}
-					"cmp1-sgp1.steamserver.net:27019"
+					"cmp2-hkg1.steamserver.net:27021"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-tyo3.steamserver.net:27018"
+					"cmp1-dfw1.steamserver.net:27018"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp3-hkg1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-tyo3.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"0"
+						"LastPingValue"		"56"
+						"LastLoadValue"		"27"
+					}
+					"cmp2-sea1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp3-hkg1.steamserver.net:27018"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp3-hkg1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"1739392877"
+						"LastPingValue"		"177"
+						"LastLoadValue"		"36"
+					}
+					"cmp2-sgp1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"0"
+						"LastPingValue"		"63"
+						"LastLoadValue"		"45"
+					}
+					"cmp1-sgp1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"1739392975"
+						"LastPingValue"		"55"
+						"LastLoadValue"		"44"
+					}
+					"cmp2-tyo3.steamserver.net:27019"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-sea1.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -58,7 +72,11 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-ord1.steamserver.net:443"
+					"cmp1-iad1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp3-hkg1.steamserver.net:27021"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -70,65 +88,61 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-hkg1.steamserver.net:27023"
+					"cmp2-sgp1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"1739392976"
+						"LastPingValue"		"52"
+						"LastLoadValue"		"45"
+					}
+					"cmp2-hkg1.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp2-hkg1.steamserver.net:27021"
+					"cmp1-sgp1.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp2-hkg1.steamserver.net:27022"
+					"cmp1-tyo3.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-sgp1.steamserver.net:27018"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp1-hkg1.steamserver.net:443"
-					{
-						"LastPingTimestamp"		"1739288373"
-						"LastPingValue"		"178"
-						"LastLoadValue"		"46"
-					}
-					"cmp2-tyo3.steamserver.net:27018"
-					{
-						"LastPingTimestamp"		"0"
-						"LastPingValue"		"111"
-						"LastLoadValue"		"27"
-					}
-					"cmp1-tyo3.steamserver.net:27019"
+					"cmp1-tyo3.steamserver.net:27018"
 					{
 						"LastPingTimestamp"		"0"
 					}
 					"cmp2-lax1.steamserver.net:27018"
 					{
-						"LastPingTimestamp"		"1739288632"
-						"LastPingValue"		"169"
-						"LastLoadValue"		"7"
+						"LastPingTimestamp"		"0"
 					}
-					"cmp1-sea1.steamserver.net:27018"
+					"cmp2-dfw1.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-dfw1.steamserver.net:27018"
+					"cmp2-ord1.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-ord1.steamserver.net:27018"
+					"cmp2-iad1.steamserver.net:27018"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-iad1.steamserver.net:27018"
+					"cmp2-iad1.steamserver.net:27020"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp3-hkg1.steamserver.net:27018"
+					"cmp1-hkg1.steamserver.net:27023"
 					{
-						"LastPingTimestamp"		"0"
+						"LastPingTimestamp"		"1739392976"
+						"LastPingValue"		"173"
+						"LastLoadValue"		"36"
 					}
-					"cmp1-hkg1.steamserver.net:27020"
+					"cmp2-hkg1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"1739392976"
+						"LastPingValue"		"231"
+						"LastLoadValue"		"36"
+					}
+					"cmp2-hkg1.steamserver.net:27019"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -136,71 +150,57 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
+					"cmp2-hkg1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-hkg1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-hkg1.steamserver.net:27018"
+					{
+						"LastPingTimestamp"		"0"
+					}
 					"cmp1-hkg1.steamserver.net:27019"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp3-hkg1.steamserver.net:27020"
+					"cmp1-hkg1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"1739392976"
+						"LastPingValue"		"179"
+						"LastLoadValue"		"37"
+					}
+					"cmp1-sgp1.steamserver.net:27019"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp3-hkg1.steamserver.net:27023"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp2-hkg1.steamserver.net:27019"
+					"cmp1-sgp1.steamserver.net:27018"
 					{
 						"LastPingTimestamp"		"0"
 					}
 					"cmp2-sgp1.steamserver.net:27018"
 					{
-						"LastPingTimestamp"		"1739288629"
-						"LastPingValue"		"116"
-						"LastLoadValue"		"44"
-					}
-					"cmp1-sgp1.steamserver.net:27020"
-					{
-						"LastPingTimestamp"		"1739288629"
-						"LastPingValue"		"116"
-						"LastLoadValue"		"45"
+						"LastPingTimestamp"		"0"
 					}
 					"cmp2-sgp1.steamserver.net:27019"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp2-sgp1.steamserver.net:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp2-hkg1.steamserver.net:443"
-					{
-						"LastPingTimestamp"		"1739288630"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-					"cmp2-sgp1.steamserver.net:443"
-					{
-						"LastPingTimestamp"		"1739288630"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-					"cmp1-tyo3.steamserver.net:27020"
-					{
-						"LastPingTimestamp"		"1739288631"
-						"LastPingValue"		"56"
-						"LastLoadValue"		"27"
-					}
-					"cmp2-tyo3.steamserver.net:27019"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cmp2-tyo3.steamserver.net:443"
 					{
-						"LastPingTimestamp"		"1739288631"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
+						"LastPingTimestamp"		"0"
 					}
-					"cmp2-lax1.steamserver.net:443"
+					"cmp2-tyo3.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp2-tyo3.steamserver.net:27018"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-tyo3.steamserver.net:27019"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -212,15 +212,15 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
+					"cmp2-lax1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
 					"cmp2-sea1.steamserver.net:27018"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp1-sea1.steamserver.net:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cmp2-sea1.steamserver.net:443"
+					"cmp1-sea1.steamserver.net:27018"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -228,24 +228,28 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp2-ord1.steamserver.net:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cmp2-ord1.steamserver.net:27018"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp2-iad1.steamserver.net:27019"
+					"cmp1-ord1.steamserver.net:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cmp2-iad1.steamserver.net:27018"
+					"cmp1-ord1.steamserver.net:27018"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-iad1.steamserver.net:27019"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cmp1-iad1.steamserver.net:27020"
 					{
 						"LastPingTimestamp"		"0"
 					}
 				}
-				"RecentWebSocket443Failures"		"1739288632"
+				"RecentWebSocket443Failures"		""
 				"RecentWebSocketNon443Failures"		""
 				"RecentUDPFailures"		""
 				"RecentTCPFailures"		""

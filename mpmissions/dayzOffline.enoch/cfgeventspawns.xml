@@ -296,7 +296,7 @@
 		<pos x="9455.645508" z="10793.627930" />
 	</event>
     <event name="StaticContaminatedArea">
-		<zone smin="0" smax="0" dmin="5" dmax="8" r="80" />
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="40" />
 		<pos x="8557" z="9714" />
 		<pos x="4439" z="6715" />
 		<pos x="7898" z="9809" />
