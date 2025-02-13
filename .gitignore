@@ -51,3 +51,10 @@
 /@DayZ-Expansion-Licensed
 /@DayZ-Expansion-BaseBuilding
 /@SuppressionMod
+/profiles/CodeLock/Logs
+/logs
+/profiles/EventManagerLog
+/profiles/VPPAdminTools/Logging
+/profiles/WebApiLog/
+/config/config.vdf
+/profiles/ExpansionMod/Logs
