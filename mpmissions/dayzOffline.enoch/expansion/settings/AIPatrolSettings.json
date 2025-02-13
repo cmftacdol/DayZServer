@@ -5,7 +5,7 @@
     "RespawnTime": -1.0,
     "MinDistRadius": 50.0,
     "MaxDistRadius": 500.0,
-    "DespawnRadius": 1500.0,
+    "DespawnRadius": 600.0,
     "AccuracyMin": 0.5499999940395355,
     "AccuracyMax": 0.909999988079071,
     "ThreatDistanceLimit": 10.0,
