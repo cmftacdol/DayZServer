@@ -1,7 +1,10 @@
 {
+    "version": 1.0,
     "RequireCarJackWheelChange": 1,
     "PlayerInCarCanBeTargetedByAI": 1,
     "EnableSlidingForNonOffroadCars": 1,
+    "EnableAnimalDamageOnContact": 1,
+    "EnableInfectedDamageOnContact": 1,
     "WheelDamageRoad": 0.0020000000949949028,
     "WheelDamageOffroad": 0.004000000189989805,
     "VehiclesOffroad": {

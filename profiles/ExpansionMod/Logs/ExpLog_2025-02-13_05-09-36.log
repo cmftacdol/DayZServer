@@ -1,0 +1,27 @@
+05:09:36.875 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2
+05:09:37.611 [Spatial AI] Spatial AI Enabled
+05:09:37.611 [Spatial AI] points Disabled
+05:09:37.611 [Spatial AI] Locations Disabled
+05:09:37.611 [Spatial AI] Audio Sensitive Locations Disabled
+05:16:51.437 [AI Patrol 00014] Spawning 2 Civilian bots at <10877.200195, 176.821930, 11010.299805>
+05:16:51.673 [AI Patrol 00014] Global patrol count: 1
+05:20:55.218 [AI Patrol 00001] Spawning 1 West bots at <8449.000000, 174.137314, 11820.000000>
+05:20:55.248 [AI Patrol 00001] Global patrol count: 2
+05:22:07.589 [AI Patrol 00014] Despawning 2 Civilian bots (spawn position <10877.200195, 176.821930, 11010.299805>, 0/2 deceased)
+05:22:07.591 [AI Patrol 00014] Global patrol count: 1
+05:24:09.851 [AI Patrol 00000] Spawning 2 West bots at <6409.600098, 174.520004, 11040.799805>
+05:24:09.880 [AI Patrol 00000] Global patrol count: 2
+05:25:42.187 [AI Patrol 00001] Despawning 1 West bots (spawn position <8449.000000, 174.137314, 11820.000000>, 0/1 deceased)
+05:25:42.187 [AI Patrol 00001] Global patrol count: 1
+05:33:42.396 [AI Patrol 00000] Despawning 2 West bots (spawn position <6409.600098, 174.520004, 11040.799805>, 0/2 deceased)
+05:33:42.398 [AI Patrol 00000] Global patrol count: 0
+05:41:43.175 [AI Patrol 00004] Spawning 1 East bots at <1820.000000, 178.610001, 7695.600098>
+05:41:43.214 [AI Patrol 00004] Global patrol count: 1
+05:42:21.164 [AI Patrol 00003] Spawning 1 West bots at <1199.380005, 187.139099, 7768.120117>
+05:42:21.203 [AI Patrol 00003] Global patrol count: 2
+05:51:27.308 [AI Patrol 00003] West bots were wiped out (spawn position <1199.380005, 187.139099, 7768.120117>, 1/1 deceased)
+05:51:27.308 [AI Patrol 00003] Global patrol count: 1
+05:56:42.333 [AI Patrol 00004] Despawning 1 East bots (spawn position <1820.000000, 178.610001, 7695.600098>, 0/1 deceased)
+05:56:42.333 [AI Patrol 00004] Global patrol count: 0
+06:27:45.640 [Spatial AI] Next valid check in: 4844569ms
+07:08:00.908 [Spatial AI] Spatial AI Date: 15/10/2023 WS RC30.2

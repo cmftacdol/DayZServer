@@ -2316,3 +2316,15 @@ SCRIPT       : [SMM] OnStartCleanUp :: Object  Breeches_Beetcheck<3ddb9740> from
 SCRIPT       : Object FoundObject = Snack_ColorBase<c12dc160>
 SCRIPT       : [SMM] OnStartCleanUp :: Object  Snack_ColorBase<c12dc160> from abborted mission at last server session was deleted.
 SCRIPT       : [SMM] OnStartCleanUp :: No mission vehicle save file was found.
+SCRIPT       : [SMM] New selected mission is FreePigs mission 109 @ <1964.300049, 251.699997, 6695.899902> : south of Topolin
+SCRIPT       : [SMM] Mission zone is active. Waiting for trigger...
+SCRIPT       : [SMM] New selected mission is Camp mission 43 @ <3315.899902, 470.700012, 1922.500000> : south of Polana
+SCRIPT       : [SMM] Mission zone is active. Waiting for trigger...
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<c2facd20>> at Pos <<8323.768555, 304.929504, 6358.681152>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<c2facd20>> at Pos <<8323.768555, 304.929504, 6358.681152>>
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Spawned : 0
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Killed  : 0
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()

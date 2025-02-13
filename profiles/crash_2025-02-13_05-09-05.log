@@ -1,0 +1,22 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2025-02-13_05-09-05.log started at 13.02. 05:30:55
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 13.02 2025 05:30:55
+NULL pointer to instance
+Class:      'Hel_MagazineLoading_BlueCase'
+Entity id:2963407
+
+Function: 'CanLoadingMagazine'
+Stack trace:
+HelziMagazineLoading_CLIENT/Scripts/4_World/classes\ammobox.c:75
+HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c:298
+scripts/3_Game/dayzgame.c:2895
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:266
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Early Winter or Late Fall Livonia;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@PvZmoD_Spawn_System;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory; profiles profiles servermod @DayZ-Dynamic-AI-Addon;@Survivor Missions 

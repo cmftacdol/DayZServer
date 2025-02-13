@@ -1,0 +1,23 @@
+---------------------------------------------
+Log info_2025-02-13_05-09-09.log started at 2025-02-13 05:16:51
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-02-13 05:16:51
+
+[wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:28203 (owner eAI_SurvivorM_Peter<e316e020>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<e33a4e70> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:580
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:371
+scripts/4_World/systems\inventory\dayzplayerinventory.c:403
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6578
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:4838
