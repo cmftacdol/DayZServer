@@ -1,7 +1,7 @@
 {
     "Version": 20,
-    "Spatial_MinTimer": 60.0,
-    "Spatial_MaxTimer": 90.0,
+    "Spatial_MinTimer": 20.0,
+    "Spatial_MaxTimer": 40.0,
     "MinDistance": 200,
     "MaxDistance": 210,
     "HuntMode": 5,

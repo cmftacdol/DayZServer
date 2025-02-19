@@ -1,0 +1,186 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\script_2025-02-19_14-59-52.log started at 19.02. 14:59:57
+
+SCRIPT       : Registered 359 temporary action enum(s), UAN==359
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetPhysicsTimeStamp'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetPhysicsTimeStamp'
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT       : 14:59:58 [EXPANSION LOG]: DayZGame<e9d3c260> Start time (local time) 2025-02-19 14:59:40
+SCRIPT       : 14:59:58 [EXPANSION LOG]: DayZGame<e9d3c260> Start time (UTC) 2025-02-19 06:59:40
+SCRIPT       : 14:59:58 [EXPANSION LOG]: DayZGame<e9d3c260> Runtime since start (seconds) 18.996
+SCRIPT    (W): @"FirstAidKit/scripts/4_World/entities\itembase\gear\containers\containers.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionfillatcar.c,139": Missing ';' at the end of line
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionfillatcar.c,144": Missing ';' at the end of line
+SCRIPT    (W): @"SalineBagPlus/4_World/classes\playermodifiers\modifiers\saline.c,30": Missing ';' at the end of line
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_CreateNewConfig_JD'
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_EnableDebugLogs_JD'
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_EnableDebugModsLogs_JD'
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_EnableFuelPumps_JD'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,744": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,752": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,231": FIX-ME: Overriding function 'IsItemBase' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,246": FIX-ME: Overriding function 'IsHologram' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,280": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,320": FIX-ME: Overriding function 'IsItemBase' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,335": FIX-ME: Overriding function 'IsHologram' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,368": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,528": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,683": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,691": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,480": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,508": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,460": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionfillatwreck.c,57": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,416": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,494": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,501": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,487": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionsalvagewreck.c,32": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,439": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,396": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,377": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\utils.c,103": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\utils.c,162": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\utils.c,221": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c,286": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c,317": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c,348": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionsalvagewreck.c,180": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionsalvagewreck.c,299": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\chatcommandmanager\classes\chatmodules\argumentcommands\spawning\spawnongroundmodule.c,32": FIX-ME: Undefined function 'ItemBase.SetupSpawnedItem'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c,225": FIX-ME: Undefined function 'ItemBase.SetupSpawnedItem'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"BuildingFortifications/scripts/4_World/buildingfortifications\actions\instant\actionopenbuildingcore.c,104": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"BuildingFortifications/scripts/4_World/buildingfortifications\actions\instant\actionopenbuildingcore.c,107": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"BuildingFortifications/scripts/4_World/buildingfortifications\actions\instant\actionmanagelockondoor.c,197": Possible variable name conflict '_Health'
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"SearchInventory/Scripts/5_Mission/uihelper\ui\uisearchinventorywindow.c,338": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuitemmanager\menuitemmanager.c,201": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\mouseevents\vppmouseeventbase.c,53": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\infoboxinstance.c,61": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\mouseevents\vppholdleftclickevent.c,13": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\tooltiphandler.c,38": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppuimanager.c,183": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,862": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuxmleditor\menuxmleditor.c,264": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT       : 15:00:18.070 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 15:00:18.070 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 15:00:18.093 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 15:00:18.109 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 15:00:18.109 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 15:00:18.109 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 15:00:18.109 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 15:00:18.128 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 15:00:18.144 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 15:00:18.160 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : [HelziMagazineLoading | CLIENT MOD] - Version client mod: 1.26 (Stable)...
+SCRIPT       : [HelziMagazineLoading | CLIENT MOD] - The client started looking for the server part of the mod!
+SCRIPT       : [HelziMagazineLoading | SERVER MOD] - Version server mod: 1.26 (Stable)...
+SCRIPT       : [HelziMagazineLoading | SERVER MOD] - The client part has been found, the mod is in stable operation!
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : Expansion version: 1.9.17
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : BF_Define
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : AimSounds
+SCRIPT       : ExtraFarmingItems
+SCRIPT       : BedRespawning
+SCRIPT       : CodeLock
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : sakhal
+SCRIPT       : EarPlugs
+SCRIPT       : FireplaceIndoor
+SCRIPT       : FirstAidKit
+SCRIPT       : HelziMagazineLoading_CLIENT
+SCRIPT       : HelziMagazineLoading_SERVER
+SCRIPT       : InediaInfectedAI
+SCRIPT       : InventoryInCar
+SCRIPT       : DZ_InventoryMoveSounds
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JunkYardDogV4
+SCRIPT       : metabolism_1
+SCRIPT       : MountsAndSights
+SCRIPT       : SalineBagPlus
+SCRIPT       : SIN_SearchInventory
+SCRIPT       : ServerConfig_JD
+SCRIPT       : skd_CombinableItems
+SCRIPT       : StaminaRevised
+SCRIPT       : Z_CfgMods_VanillaDoubleMag_O
+SCRIPT       : AVPPAdminTools
+SCRIPT       : BigWheels
+SCRIPT       : MC_SYSTEM
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : FOG_MOD
+SCRIPT       : rag_immersive_vehicles
+SCRIPT       : rag_baseitems
+SCRIPT       : CtoTytPisatYaNeZnayu
+SCRIPT       : BarrelFIX
+SCRIPT       : BuildingFortifications
+SCRIPT       : Hashima
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : Nomadbackpack_v3
+SCRIPT       : casebag
+SCRIPT       : HashimaAssets
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : DayZ_Expansion_AI_Dynamic
+SCRIPT       : [Server_Config_JunkYardDog]- 	Checking For Config Files
+SCRIPT       : [Server_Config_JunkYardDog]- 	Found Config Files!
+SCRIPT       : [Bed-Respawn 2.0] Created BedFrameWork Instance!
+SCRIPT       : [Bed-Respawn 2.0] loading prexisting config file.
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : 15:00:19.054 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : [BuildingFortificationsConfig] Create Building Fortifications configuration instance..
+SCRIPT       : [BuildingFortificationsConfig] Loading existing Building Fortifications configuration file..
+SCRIPT       : [BuildingFortificationsConfig] Load existing Building Fortifications configuration file..
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'Project:Genesis'

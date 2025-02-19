@@ -1,0 +1,792 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe -config=serverDZ.cfg "-mod=@Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Hashima Islands;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@BigWheelZ;@Hashima Islands Assets;" -profiles=profiles "-servermod=@DayZ-Dynamic-AI-Addon;"
+=====================================================================
+Exe timestamp: 2025/01/28 02:52:30
+Current time:  2025/02/19 15:12:49
+Version 1.26.159040
+=====================================================================
+
+15:12:49.987 [Inputs] Loading inputs default "bin/constants.xml"
+15:12:50.18 [Inputs] Loading inputs default "bin/specific.xml"
+15:12:50.18 [Inputs] Loading inputs default "EarPlugs\data\inputs.xml"
+15:12:50.18 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+15:12:50.18 [Inputs] Loading inputs default "SearchInventory/Scripts/Data/inputs.xml"
+15:12:50.19 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+15:12:50.19 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+15:12:50.19 [Inputs] Loading inputs default "rag/rag_immersive_vehicles/scripts/4_world/rag_immersive_vehicles/actions/inputs/inputs.xml"
+15:12:50.19 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+15:12:50.19 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+15:12:50.20 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+15:12:50.20 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+15:12:50.20 [Inputs] Loading inputs cfg "bin/core.xml"
+15:12:50.20 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+15:12:50.21 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+15:13:04.338 Hostname of server: "Project: Genesis"
+15:13:11.415 [CE][Hive] :: Initializing OFFLINE
+15:13:11.415 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\
+15:13:11.415 [CE][Hive] :: Loading core data ... 
+15:13:11.429 [CE][CoreData] :: 6 root classes, 18 defaults, 0 updaters...
+15:13:22.104 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.104 [CE][TypeSetup] :: 0 classes setuped...
+15:13:22.114 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.115 [CE][TypeSetup] :: 1 classes setuped...
+15:13:22.118 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.118 [CE][TypeSetup] :: 19 classes setuped...
+15:13:22.135 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.135 [CE][TypeSetup] :: 47 classes setuped...
+15:13:22.147 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.148 [CE][TypeSetup] :: 2 classes setuped...
+15:13:22.149 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.149 [CE][TypeSetup] :: 9 classes setuped...
+15:13:22.151 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.151 [CE][TypeSetup] :: 2 classes setuped...
+15:13:22.167 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.168 [CE][TypeSetup] :: 148 classes setuped...
+15:13:22.188 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.188 [CE][TypeSetup] :: 21 classes setuped...
+15:13:22.203 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.204 [CE][TypeSetup] :: 174 classes setuped...
+15:13:22.215 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.216 [CE][TypeSetup] :: 19 classes setuped...
+15:13:22.232 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.232 [CE][TypeSetup] :: 47 classes setuped...
+15:13:22.255 [CE] :: WARNING :: Preset map "needle1" is EMPTY.
+15:13:22.256 [CE][TypeSetup] :: 124 classes setuped...
+15:13:23.928 [CE][RegisterBind] :: 0 classes binded...
+15:13:23.928 [CE][RegisterConfig] :: 15258 config classes registered, 0 sub-counters...
+15:13:23.928 [CE][Hive] :: Loading map data ... 
+15:13:23.929 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 0 types
+15:13:24.35 [CE][LoadPrototype] :: loaded 424 prototypes
+15:13:24.35   765 containers, 10780 points
+15:13:24.35   84 dispatches, 327 proxies
+15:13:24.35 !!! [CE][LoadPrototype] 2 groups have no points...
+15:13:24.35 !!! [CE][LoadPrototype] 1 groups have wrong points...
+15:13:24.35 [CE][LoadPrototype] :: last group name: Wreck_SantasSleigh...
+15:13:24.56 [CE][LoadPrototype] :: loaded 0 prototypes
+15:13:24.56   55 containers, 232 points
+15:13:24.56   0 dispatches, 0 proxies
+15:13:24.56 [CE][LoadPrototype] :: last group name: Stones...
+15:13:25.265 [CE][LoadMap] "Group" :: loaded 2171 groups, groups failed: 0, largest group range: 34.0
+15:13:25.266 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.0
+15:13:25.274 [CE][Links] found 1134 total links between groups, of 2171
+15:13:25.274 [CE][LoadClusters] "Cluster" :: Loading files...
+15:13:25.307 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 9025 instances
+15:13:25.318 [CE][Storage] ver:21 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\types.bin"
+15:13:25.322 [CE][Storage] ver:21 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\types.001"
+15:13:25.331 [CE][Storage] ver:21 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\types.002"
+15:13:25.331 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\types.bin".
+15:13:25.594 !!! [CE][offlineDB] :: No Shutdown message present.
+15:13:25.602 [CE][offlineDB] :: Loaded 0 dynamic events 0 total types.
+15:13:25.602 [CE][offlineDB] :: Loaded 0 dynamic events 0 total types.
+15:13:25.614 [CE][offlineDB] :: Loaded 19 dynamic events 284 total types.
+15:13:25.632 [CE][offlineDB] :: Loaded 25 dynamic events 295 total types.
+15:13:25.632 [CE][offlineDB] :: Loaded 36 dynamic events 309 total types.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.832 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.833 !!! [CE] :: Unknown usage: 'Tier4'.
+15:13:25.917 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_paint' will be ignored. (Type does not exist. (Typo?))
+15:13:25.917 !!! [CE][offlineDB] :: Type 'rag_baseitems_spaycan_white' will be ignored. (Type does not exist. (Typo?))
+15:13:25.917 !!! [CE][offlineDB] :: Type 'rag_cabin_kit' will be ignored. (Type does not exist. (Typo?))
+15:13:25.917 !!! [CE][offlineDB] :: Type 'rag_cabin' will be ignored. (Type does not exist. (Typo?))
+15:13:25.917 !!! [CE][offlineDB] :: Type 'rag_cabin_water_pump' will be ignored. (Type does not exist. (Typo?))
+15:13:25.952 [CE][DE][SPAWNS] :: Total positions: 28
+15:13:25.952 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+15:13:25.966 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\events.bin"
+15:13:25.974 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\events.001"
+15:13:25.984 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\events.002"
+15:13:25.984 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\events.bin".
+15:13:25.984 [CE][DynamicEvent] Load  Events:[36] Primary spawners: 36 Secondary spawners: 1
+15:13:26.01 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_000.bin"
+15:13:26.14 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_000.001"
+15:13:26.15 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_000.002"
+15:13:26.15 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_000.bin" 558 items.
+15:13:28.905   558 items loaded. (0 failed)
+15:13:28.925 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_001.bin"
+15:13:28.933 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_001.001"
+15:13:28.946 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_001.002"
+15:13:28.946 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_001.bin" 1934 items.
+15:13:30.646   1934 items loaded. (0 failed)
+15:13:30.660 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_002.bin"
+15:13:30.675 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_002.001"
+15:13:30.701 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_002.002"
+15:13:30.701 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_002.bin" 1191 items.
+15:13:31.292   1191 items loaded. (0 failed)
+15:13:31.300 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_003.bin"
+15:13:31.309 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_003.001"
+15:13:31.313 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_003.002"
+15:13:31.313 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_003.bin" 1022 items.
+15:13:31.833   1022 items loaded. (0 failed)
+15:13:31.848 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_004.bin"
+15:13:31.859 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_004.001"
+15:13:31.869 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_004.002"
+15:13:31.869 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_004.bin" 854 items.
+15:13:32.243   854 items loaded. (0 failed)
+15:13:32.255 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_005.bin"
+15:13:32.264 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_005.001"
+15:13:32.265 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_005.002"
+15:13:32.265 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_005.bin" 924 items.
+15:13:32.732   924 items loaded. (0 failed)
+15:13:32.745 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_006.bin"
+15:13:32.760 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_006.001"
+15:13:32.781 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_006.002"
+15:13:32.781 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_006.bin" 541 items.
+15:13:33.07   541 items loaded. (0 failed)
+15:13:33.16 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_007.bin"
+15:13:33.34 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_007.001"
+15:13:33.50 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_007.002"
+15:13:33.50 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_007.bin" 663 items.
+15:13:33.341   663 items loaded. (0 failed)
+15:13:33.357 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_008.bin"
+15:13:33.358 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_008.001"
+15:13:33.366 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_008.002"
+15:13:33.366 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_008.bin" 1504 items.
+15:13:34.36   1504 items loaded. (0 failed)
+15:13:34.51 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_009.bin"
+15:13:34.55 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_009.001"
+15:13:34.75 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_009.002"
+15:13:34.75 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_009.bin" 650 items.
+15:13:34.365   650 items loaded. (0 failed)
+15:13:34.379 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_010.bin"
+15:13:34.395 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_010.001"
+15:13:34.409 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_010.002"
+15:13:34.409 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_010.bin" 102 items.
+15:13:34.446   102 items loaded. (0 failed)
+15:13:34.446 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_011.bin"
+15:13:34.447 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_011.001"
+15:13:34.447 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_011.002"
+15:13:34.447 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\dynamic_011.bin" 0 items.
+15:13:34.447   0 items loaded. (0 failed)
+15:13:34.447 [CE][Storage] ver:26 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\building.bin"
+15:13:34.447 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\building.001"
+15:13:34.447 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\building.002"
+15:13:34.447 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\building.bin" 0 items.
+15:13:34.447   0 items loaded. (0 failed)
+15:13:34.449 [CE][Storage] ver:25 stamp:9, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\vehicles.bin"
+15:13:34.463 [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\vehicles.001"
+15:13:34.471 [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\vehicles.002"
+15:13:34.471 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\main.hashima\storage_1\data\vehicles.bin" 33 items.
+15:13:34.789   33 items loaded. (0 failed)
+15:13:34.892 [CE][Hive] :: Storage load took:8.91 seconds, recovery stamp:9
+15:13:34.892   entity: 11394, building: 0
+15:13:34.892   no lifetime: 29
+15:13:34.892   pathgraph's: 92
+15:13:34.893 [CE][Hive] :: Initializing ... 
+15:13:34.915 [CE][InitializeMap] :: initialized: 0
+15:13:34.915 [CE][Hive] :: Initializing spawners ... 
+=======================================================
+-------------------------------------------------------
+Time: 15:13:36
+Exception code: C0000005 ACCESS_VIOLATION at C0D12490
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  FOG_Vest_Osprey_stuff in FOG_MOD\Vests\fog_osprey\
+  DayZExpansion_Sounds_Vehicles_Air_Uh1h in DayZExpansion\Sounds\Vehicles\Air\Uh1h\
+  rag_baseitems_sleepingbag in rag_baseitems\rag_baseitems_sleepingbag\
+  FOG_Bag_F4Terminator_shit in FOG_MOD\Gear\bags\f4terminator\
+  FOG_MOD_SoftCap in FOG_MOD\Gear\headgear\softcap\, FOG_MOD_Data in FOG_MOD\Data\
+  DayZExpansion_Objects_Gear_Spraycans in DayZExpansion\Objects\Gear\Spraycans\
+  FOG_MOD_Glasses_PitViper in FOG_MOD\Gear\misc\pitvipers\
+  FOG_Helmet_Accessories_Comtac4 in FOG_MOD\Gear\helmet\accessories\comtacpeltors4\
+  CCS_Tamagotchi_OXO in CCS\hashima\assets\kit_keychains\tamagotchi_oxo\
+  DZ_Surfaces_Sakhal in DZ\surfaces_sakhal\
+  rag_baseitems_particles in rag_baseitems\rag_baseitems_particles\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  DayZExpansion_Sounds_Vehicles_Air_Gyro in DayZExpansion\Sounds\Vehicles\Air\Gyro\
+  rag_baseitems_xmas in rag_baseitems\rag_baseitems_xmas\
+  FOG_MOD_Panel_Spiritus in FOG_MOD\Vests\accessories\panels\spirituspanelass\
+  FOG_M32_Headset_Stuff in FOG_MOD\Gear\headgear\headsets\m32\
+  FOG_MOD_GhillieSuit in FOG_MOD\Gear\misc\ghillie\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  DayZExpansion_Objects_BaseBuilding_Flags in DayZExpansion\Objects\Basebuilding\Flags\
+  DZ_Gear_Medical in DZ\gear\medical\, DZ_Vehicles_Parts in UsefullVanilaTents\
+  DayZExpansion_Sounds_Vehicles_Air_An2 in DayZExpansion\Sounds\Vehicles\Air\An2\
+  FOG_MOD_Clothes in FOG_MOD\Clothes\
+  FOG_MTF_Pants_Shit in FOG_MOD\Clothes\pants\mtf_uniform_pants\
+  FOG_Bag_Trizip in FOG_MOD\Gear\bags\trizip\
+  FOG_Hooded_Cloak_Stuff in FOG_MOD\Gear\misc\hooded_cloak\
+  CCS_Coin_Vending_Machine in CCS\hashima\assets\kit_misc\coin\
+  DZ_Sounds_Effects in DZ\sounds\hpp\, FOG_Gear_Vest_PACA in FOG_MOD\Vests\paca\
+  BedRespawning in BedRespawning\, DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  rag_baseitems_woodenshelves in rag_baseitems\rag_baseitems_woodenshelves\
+  FOG_Shirt_Tactical_Coat_Shit in FOG_MOD\Clothes\shirts\fog_open_coat\
+  DZ_Characters_Tops in UsefullVanilaTents\, Akol_Okp77 in MountsAndSights\okp77\
+  FOG_MOD_Weapons in FOG_MOD\Weapons\
+  FOG_Pants_Crye_G3_Shit in FOG_MOD\Clothes\pants\fog_crye_g3pants\
+  HashimaCE in CCS\hashima\ce\
+  CCS_Keychain_Kokeshi in CCS\hashima\assets\kit_keychains\keychain_kokeshi\
+  Dr_Evil_Ammo in AmmoStacks\scripts\4_world\
+  CCS_Mask_Demon in CCS\hashima\assets\kit_masks\mask_demon\
+  FOG_MOD_Vests in FOG_MOD\Vests\, DZ_Characters_Shoes in UsefullVanilaTents\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  FOG_Gorka_Pants_Shit in FOG_MOD\Clothes\pants\gorka_pants\
+  DayZExpansion_Objects_BaseBuilding_Pillars in DayZExpansion\Objects\Basebuilding\Pillars\
+  FOG_PVS31_stuff in FOG_MOD\Gear\nvg\pvs-31\
+  FOG_Helmet_Accessories_MantaStrobe in FOG_MOD\Gear\helmet\accessories\manta strobe\
+  Akol_UniversalRail in MountsAndSights\universalrail\
+  CCS_Tamagotchi_Sailor_Moon in CCS\hashima\assets\kit_keychains\tamagotchi_sailor_moon\
+  CCS_Lamps in CCS\hashima\assets\kit_lamps\
+  HelziMagazineLoading_CLIENT in HelziMagazineLoading_CLIENT\
+  DZ_Sounds_Vehicles in DZ\sounds\vehicles\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  rag_baseitems_table_saw in rag_baseitems\rag_baseitems_others\table_saw\
+  CCS_Keychain_Nintendo_64_Cart in CCS\hashima\assets\kit_keychains\keychain_nintendo_64_cart\
+  GDZ_Codelock in CodeLock\codelock\, casebag in RengieZ\casebag\
+  DayZExpansion_LanguageCore_Licensed in DayZExpansion\languagecore\Licensed\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  CCS_Grenade_Type_91 in CCS\hashima\assets\kit_weapons\grenade_type_91\
+  SIN_SearchInventory in SearchInventory\scripts\
+  CCS_Misc_Sakura_Tree in CCS\hashima\assets\kit_misc\sakura_tree\
+  DayZExpansion_Vehicles_Air_An2 in DayZExpansion\Vehicles\Air\An2\, DZ_UI in DZ\ui\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\
+  DayZExpansion_Sounds_Ground_TT650 in DayZExpansion\Sounds\Vehicles\Ground\TT650\
+  Akol_Specter6x in MountsAndSights\specter6x\
+  FOG_COMTAC3_Headset_Stuff in FOG_MOD\Gear\headgear\headsets\comtac3\
+  AimSounds_Sounds in AimSounds\Sounds\, DZ_Gear_Drinks in UsefullVanilaTents\
+  rag_baseitems_sounds in rag_baseitems\rag_baseitems_sounds\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\, DZ_Scripts in scripts\
+  JM_CF_GUI in JM\CF\GUI\, DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  FOG_MOD_BoltCutters in FOG_MOD\Gear\misc\boltcutters\
+  CCS_Mask_Doll in CCS\hashima\assets\kit_masks\mask_doll\
+  DayZExpansion_Core_Objects_Bases in DayZExpansion\Core\Objects\Bases\
+  FOG_Helmet_Accessories_HMTL in FOG_MOD\Gear\helmet\accessories\hmtl_sf\
+  DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Pistols in DZ\weapons\pistols\, FOG_Vest_MMAC_stuff in FOG_MOD\Vests\mmac\
+  rag_baseitems_weapon_cleaner in rag_baseitems\rag_baseitems_weapon_cleaner\
+  FOG_Helmet_FAST_Bump_shit in FOG_MOD\Gear\helmet\fast_bump\
+  DZ_Worlds_Sakhal in DZ\worlds\sakhal\world\
+  CCS_Kit_Houses in CCS\hashima\assets\kit_houses\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DayZExpansion_Objects_BaseBuilding_Ramps in DayZExpansion\Objects\Basebuilding\Ramps\
+  DayZExpansion_Objects_BaseBuilding_Items in DayZExpansion\Objects\Basebuilding\Items\
+  FOG_Gear_Vest_LV119 in FOG_MOD\Vests\lv119\
+  FOG_Vest_AVS_stuff in FOG_MOD\Vests\fog_avs\
+  FOG_MOD_Knife_Strongarm in FOG_MOD\Weapons\melee\strongarm\
+  rag_baseitems_others in rag_baseitems\rag_baseitems_others\, CodeLock in CodeLock\
+  DZ_Plants_Bliss in DZ\plants_bliss\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  rag_baseitems_fridges in rag_baseitems\rag_baseitems_fridges\
+  FOG_Helmet_Accessories_MTCover in FOG_MOD\Gear\helmet\accessories\fastmt_cover\
+  FOG_Helmet_Accessories_RAC in FOG_MOD\Gear\helmet\accessories\rac_headset\
+  DayZExpansion_Vehicles_Air_C130J in DayZExpansion\Vehicles\Air\C130J\
+  FOG_Hoodie_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_hoodie\
+  CCS_Keychain_Kit_Kokeshi in CCS\hashima\assets\kit_keychains\keychain_kit_kokeshi\
+  DayZExpansion_Vehicles_Data in DayZExpansion\Vehicles\Data\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  DayZExpansion_BaseBuilding_GUI in DayZExpansion\BaseBuilding\GUI\
+  DayZExpansion_Sounds_Explosions in DayZExpansion\Sounds\Explosions\
+  CCS_PID_73 in CCS\hashima\assets\kit_misc\pid_73\
+  FOG_511_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_511_flanel\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DayZExpansion_Sounds_UI in DayZExpansion\Sounds\UI\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  CfgPatches_Ki_Model_VanillaDoubleMag in VanillaDoubleMag\model\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DayZExpansion_Core_Scripts in DayZExpansion\Core\Scripts\
+  DZ_Characters_Vests in DZ\characters\vests\
+  rag_baseitems_clocks in rag_baseitems\rag_baseitems_others\clocks\
+  FOG_UFP_Pants_Shit in FOG_MOD\Clothes\pants\urban_fighter_pants\
+  DZ_Characters_Pants in UsefullVanilaTents\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  FOG_MOD_PVS31A in FOG_MOD\Gear\nvg\pvs31a\, JM_CF_Defines in JM\CF\Defines\
+  DF_Scripts in DabsFramework\Scripts\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  CCS_Improvised_Grenade_Launcher in CCS\hashima\assets\kit_weapons\improvised_grenade_launcher\
+  FOG_Ronin_Hat_Stuff in FOG_MOD\Gear\headgear\ronin_hat\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  FOG_Vest_FCPC_stuff in FOG_MOD\Vests\fog_fcpc\
+  DayZExpansion_Core_Preload in 0_DayZExpansion_Core_Preload\
+  rag_baseitems_shelters in rag_baseitems\rag_baseitems_shelters\
+  CCS_Poke_Ball in CCS\hashima\assets\kit_weapons\poke_ball\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  FOG_Helmet_FASTMT_shit in FOG_MOD\Gear\helmet\fast_mt\
+  FOG_Shirt_Polo_Shit in FOG_MOD\Clothes\shirts\fog_polo\
+  DZ_Structures_Roads in DZ\structures\roads\, AmmoStack in AmmoStacks\
+  HashimaData in CCS\hashima\data\, JM_CF_Scripts in JM\CF\Scripts\
+  CCS_USB in CCS\hashima\assets\kit_misc\usb\
+  Akol_MAS_Base in MountsAndSights\base\, DF_GUI in DabsFramework\GUI\
+  FOG_Shirt_ISOF_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_isofjacket\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DayZExpansion_DefineTest in DayZExpansion\DefineTest\
+  FOG_Helmet_Airframe_shit in FOG_MOD\Gear\helmet\crye_af\
+  FOG_MOD_Mask_ArcteryxBalaclava in FOG_MOD\Gear\masks\arcteryx_balaclava\
+  DayZExpansion_Objects_Gear_Breifcase in DayZExpansion\Core\Objects\Briefcase\
+  DZ_Gear_Containers in UsefullVanilaTents\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  FOG_Bag_6SHTBag in FOG_MOD\Gear\bags\6sh118t\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  rag_baseitems_coffee in rag_baseitems\rag_baseitems_coffee\
+  DZ_Gear_Books in DZ\gear\books\
+  FOG_Helmet_Exfil_shit in FOG_MOD\Gear\helmet\wendy_exfil\
+  DayZExpansion_AI_Preload in 0_DayZExpansion_AI_Preload\
+  StaminaRevised in StaminaRevised\scripts\
+  CCS_Keychain_Banana_Bomb in CCS\hashima\assets\kit_keychains\keychain_banana_bomb\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DayZExpansion_Objects_BaseBuilding_Data in DayZExpansion\Objects\Basebuilding\Data\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DayZExpansion_Core_GUI in DayZExpansion\Core\GUI\
+  FOG_HeavyRiders_Jacket_Shit in FOG_MOD\Clothes\shirts\fog_heavyriders\
+  FOG_MOD_ZynCan in FOG_MOD\Gear\misc\zyncan\
+  DZ_Worlds_Sakhal_Navmesh in DZ\worlds\sakhal\navmesh\
+  FOG_MOD_SniperHood in FOG_MOD\Gear\misc\sniper_hood\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  MountsAndSights in MountsAndSights\
+  FOG_Clothing_Pants_G99 in FOG_MOD\Clothes\pants\g99\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  CCS_Kit_Billboards in CCS\hashima\assets\kit_billboards\
+  DayZExpansion_AI_Scripts in DayZExpansion\AI\Scripts\
+  DayZExpansion_Objects_Explosives_Licensed in DayZExpansion\Objects\Weapons\Explosives\
+  DZ_Server_Data in DZ\server\
+  rag_immersive_vehicles in rag\rag_immersive_vehicles\
+  FOG_MOD_Panel_MapPackMed in FOG_MOD\Vests\accessories\panels\mappack_medium\
+  DayZExpansion_BaseBuilding_Objects_Explosives in DayZExpansion\BaseBuilding\Objects\Explosives\
+  FOG_Helmet_Accessories_MOHOC in FOG_MOD\Gear\helmet\accessories\mohoc\
+  FOG_MOD_Masks_AVONM53 in FOG_MOD\Gear\masks\avon_m53a1\
+  DayZExpansion_Sounds_Vehicles_Water_LHD in DayZExpansion\Sounds\Vehicles\Water\LHD\
+  FOG_MOD_Shirts_G3Hoodie in FOG_MOD\Clothes\shirts\g3_hoodie_combo\
+  rag_baseitems_drawers in rag_baseitems\rag_baseitems_drawers\
+  DZ_Structures_Ruins in DZ\structures\ruins\, HashimaAssets in CCS\hashima-assets\
+  FOG_MOD_Boots_Zypher in FOG_MOD\Gear\shoes\zephyr_boots\
+  CCS_Kit_KeyCards in CCS\hashima\assets\kit_keycards\
+  FOG_MOD_Scripts in FOG_MOD\Scripts\
+  DayZExpansion_Objects_Structures_HangedBody in DayZExpansion\Objects\Structures\hanged_body\
+  Akol_MAS_Vanilla in MountsAndSights\vanilla\
+  Z_CfgPatches_VanillaDoubleMag_O in VanillaDoubleMag_O\
+  DayZExpansion_Sounds_PropaneTorch in DayZExpansion\Sounds\Items\PropaneTorch\
+  rag_baseitems_plants in rag_baseitems\rag_baseitems_plants\
+  DayZExpansion_Sounds_Items_Spraycan in DayZExpansion\Sounds\Items\SprayCan\
+  FOG_MOD_Glasses_ESS in FOG_MOD\Gear\misc\ess_glasses\
+  rag_baseitems_buildings in rag_baseitems\rag_baseitems_buildings\
+  0_rag_baseitems_languagecore in 0_rag_baseitems_languagecore\
+  DZ_Characters_Belts in DZ\characters\belts\
+  rag_baseitems_waterbarrel in rag_baseitems\rag_baseitems_others\waterbarrel\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DayZExpansion_Sounds_Vehicles_Air_Mh6 in DayZExpansion\Sounds\Vehicles\Air\Mh6\
+  DayZExpansion_ModStorage_CF_Scripts in JM\CF\Scripts\4_World\CommunityFramework\ModStorage\
+  rag_baseitems_wallpictures in rag_baseitems\rag_baseitems_wallpictures\
+  DayZExpansion_Dta_Core in DayZExpansion\Dta\Core\
+  Akol_AKMount in MountsAndSights\akmount\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  CCS_Keychain_Audiola in CCS\hashima\assets\kit_keychains\keychain_audiola\
+  DZ_Gear_Tools in UsefullVanilaTents\
+  CCS_Vending_Machine_Drinks in CCS\hashima\assets\kit_misc\vending_machine_drinks\
+  DayZExpansion_Objects_BaseBuilding_Stairs in DayZExpansion\Objects\Basebuilding\Stairs\
+  DayZExpansion_Vehicles_Air_Uh1h in DayZExpansion\Vehicles\Air\Uh1h\
+  Land_CCS_Capsule_Vending_Machine in CCS\hashima\assets\kit_misc\capsule_vending_machine\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  BuildingFortifications_GUI in BuildingFortifications\gui\
+  rag_static_castle_floor in rag_baseitems\rag_baseitems_buildings\wooden_floor\
+  DZ_Data_Bliss in DZ\data_bliss\
+  CCS_House_Building1 in CCS\hashima\assets\kit_houses\building1\
+  DZ_AI_Bliss in DZ\AI_bliss\
+  CCS_Misc_Loot_Spawn in CCS\hashima\assets\kit_misc\loot_spawn\
+  FOG_Slammer_Stuff in FOG_MOD\Weapons\melee\sf_slammer\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  FOG_Bag_SSOBag in FOG_MOD\Gear\bags\ssobag\
+  rag_baseitems_repair_station in rag_baseitems\rag_baseitems_repair_station\
+  FOG_Masks_OpscoreSOTR in FOG_MOD\Gear\masks\opscoresotr\
+  CCS_House_Building2 in CCS\hashima\assets\kit_houses\building2\
+  DayZExpansion_VanillaFixes_Animals in DayZExpansion\VanillaFixes\Animals\
+  DZ_Gear_Food in UsefullVanilaTents\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  FOG_Vest_JPC_stuff in FOG_MOD\Vests\fog_jpc\
+  BuildingFortifications_Data in BuildingFortifications\data\
+  DayZ_Expansion_AI_Dynamic_scripts in dolphin\DayZ-Expansion-AI-Dynamic\
+  CCS_House_Building3 in CCS\hashima\assets\kit_houses\building3\
+  BuildingFortifications_LanguageCore in BuildingFortifications\languagecore\
+  FOG_Gear_Vest_SSMK4 in FOG_MOD\Vests\unarmored\ssmk4\
+  rag_baseitems_workbench in rag_baseitems\rag_baseitems_workbench\
+  DayZExpansion_Sounds_Vehicles_Water_Vodnik in DayZExpansion\Sounds\Vehicles\Ground\Vodnik\
+  CCS_Kit_Weapons in CCS\hashima\assets\kit_weapons\, BarrelFIX in BarrelFIX\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  DZ_Gear_Camping in DZ\gear\camping\, DZ_Rocks in DZ\rocks\
+  FOG_Gorka_Jacket_Shit in FOG_MOD\Clothes\shirts\gorka_shirt\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  FOG_GPNVG_Tarzier_stuff in FOG_MOD\Gear\nvg\gpnvg\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  FOG_Ronin_Belt_Shit in FOG_MOD\Gear\belts\fog_ronin_belt\
+  DayZExpansion_VanillaFixes_GUI in DayZExpansion\VanillaFixes\GUI\
+  DayZExpansion_VirtualContainerStorage_Scripts in DayZExpansion\VirtualContainerStorage\Scripts\
+  DZ_Rocks_Sakhal in DZ\rocks_sakhal\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Sounds_Characters in DZ\sounds\Characters\
+  DayZExpansion_Vehicles_Air_Mh6 in DayZExpansion\Vehicles\Air\Mh6\
+  CCS_Kit_Misc in CCS\hashima\assets\kit_misc\
+  DayZExpansion_LanguageCore_AI in DayZExpansion\languagecore\AI\
+  FOG_TV110T_Stuff in FOG_MOD\Vests\tv110_t\
+  DayZExpansion_Core_Objects_Currencies in DayZExpansion\Core\Objects\Currencies\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DayZExpansion_Structures_Industrial_Misc in DayZExpansion\Structures\Industrial\Misc\
+  DayZExpansion_Dta_Game in DayZExpansion\Dta\Game\
+  DZ_Data_Sakhal in DZ\data_sakhal\, DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Structures in DZ\structures\data\
+  CCS_Capsule_KeyChain in CCS\hashima\assets\kit_misc\capsule_keychain\
+  Akol_MosinMount in MountsAndSights\mosinmount\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  FOG_GPNVG_Elite_stuff in FOG_MOD\Gear\nvg\gpnvg_elite\
+  HashimaSurfaces in CCS\hashima\data\surfaces\
+  DayZExpansion_Vehicles_Ground_Vodnik in DayZExpansion\Vehicles\Ground\Vodnik\
+  HelziMagazineLoading_SERVER in HelziMagazineLoading_SERVER\
+  rag_baseitems_catears in rag_baseitems\rag_baseitems_others\catears\
+  FOG_MOD_NVG in FOG_MOD\Gear\nvg\
+  CCS_Kit_Neon_Signs in CCS\hashima\assets\kit_neon_signs\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  FOG_Helmet_Accessories_SFCover in FOG_MOD\Gear\helmet\accessories\sf_cover\
+  CCS_Mask_Ghost_In_The_Shell in CCS\hashima\assets\kit_masks\mask_ghost_in_the_shell\
+  DayZExpansion_Vehicles_Water_Carrier in DayZExpansion\Vehicles\Water\Carrier\
+  rag_baseitems_barrel_furnace in rag_baseitems\rag_baseitems_others\barrel_furnace\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  rag_baseitems_scripts in rag_baseitems\rag_baseitems_scripts\
+  CCS_Misc_Torii_Brown in CCS\hashima\assets\kit_misc\torii_brown\
+  DayZExpansion_Objects_BaseBuilding_Walls in DayZExpansion\Objects\Basebuilding\Walls\
+  FOG_Knight_Mask_Stuff in FOG_MOD\Gear\masks\knight_mask\
+  FOG_MOD_Slots in FOG_MOD\Data\slots\
+  CCS_Kit_Signs_Roads in CCS\hashima\assets\kit_signs_roads\
+  Akol_MRDSMount in MountsAndSights\mrdsmount\, FireplaceIndoor in FireplaceIndoor\
+  DZ_Characters_Masks in UsefullVanilaTents\
+  DayZExpansion_LanguageCore_BaseBuilding in DayZExpansion\languagecore\BaseBuilding\
+  rag_baseitems_safes in rag_baseitems\rag_baseitems_safes\
+  Nomadbackpack in Nomad_Backpack\nomadbackpack_v3\
+  DayZExpansion_AI_Animations in DayZExpansion\AI\Animations\
+  Akol_Magnifier in MountsAndSights\magnifier\, DZ_Gear_Cooking in DZ\gear\cooking\
+  FOG_Helmet_Accessories_AFCover in FOG_MOD\Gear\helmet\accessories\crye_af_cover\
+  FOG_Combat_HikingBoots_shit in FOG_MOD\Gear\shoes\fog_alex_boots\
+  CCS_Toilet_Paper in CCS\hashima\assets\kit_misc\toilet_paper\
+  CCS_Kit_Masks in CCS\hashima\assets\kit_masks\
+  FOG_Gear_Vest_LVMBAV in FOG_MOD\Vests\mbav\
+  FOG_Hooded_Parka_Shit in FOG_MOD\Clothes\shirts\hooded_parka\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\, DZ_Data in DZ\data\
+  DayZExpansion_Sounds_Vehicles_Water_Zodiac in DayZExpansion\Sounds\Vehicles\Water\Zodiac\
+  DayZExpansion_Sounds_Airdrop in DayZExpansion\Sounds\Airdrop\
+  DayZExpansion_Objects_BaseBuilding_Safes in DayZExpansion\Objects\Basebuilding\Safes\
+  DayZExpansion_Objects_Airdrop in DayZExpansion\Objects\Airdrop\
+  CCS_RokuohShaType89 in CCS\hashima\assets\kit_weapons\rokuoh_sha_type_89\
+  DZ_Expansion_AI_Weapons_Debug in DayZExpansion\AI\DebugWeapons\
+  DayZExpansion_Objects_BaseBuilding_Tents in DayZExpansion\Objects\Basebuilding\Tents\
+  DZ_Characters in DZ\characters\data\, DZ_Weapons_Firearms in DZ\weapons\firearms\
+  Metabolism in metabolism\, DZ_Characters_Glasses in DZ\characters\glasses\
+  DayZExpansion_AI_Gear in DayZExpansion\AI\Gear\
+  DZ_Worlds_Sakhal_CE in DZ\worlds\sakhal\ce\
+  DayZExpansion_VanillaFixes_Scripts in DayZExpansion\VanillaFixes\Scripts\
+  IMS_Sounds in InventoryMoveSounds\Sounds\movesounds\
+  casebag_GUI in RengieZ\casebag\gui\, DZ_Weapons_Melee in UsefullVanilaTents\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  EarPlugs in EarPlugs\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  CCS_Kit_Arcades in CCS\hashima\assets\kit_arcades\
+  rag_baseitems_cabinets in rag_baseitems\rag_baseitems_cabinets\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  rag_baseitems_gunwall in rag_baseitems\rag_baseitems_gunwall\
+  DZ_Characters_Headgear in UsefullVanilaTents\
+  DayZExpansion_BaseBuilding_Electricity in DayZExpansion\Objects\Basebuilding\Electricity\
+  DZ_Animals_lepus_europaeus in DZ\animals\lepus_europaeus\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Weapons_Firearms_M14 in DZ\weapons\firearms\m14\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, DZM_VPPStaticItems in VPPStaticItems\
+  FOG_Tshirt_Black_Shit in FOG_MOD\Clothes\shirts\fog_tshirt\
+  DZ_Gear_Crafting in DZ\gear\crafting\
+  CCS_Keychain_Poke_Ball in CCS\hashima\assets\kit_keychains\keychain_poke_ball\
+  skd_CombinableItems in SKD\skd_CombinableItems\
+  DZ_Spawn_Proxies in DZ\data\proxies\
+  FOG_MOD_Headgear_AMP in FOG_MOD\Gear\helmet\accessories\opscore_amp\
+  FOG_MRB_Belt in FOG_MOD\Gear\belts\mrb\, DZ_Radio in DZ\gear\radio\
+  DayZExpansion_Core_NavmeshCarvers in DayZExpansion\Core\Objects\NavmeshCarvers\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  Akol_PistolMount in MountsAndSights\pistolmount\, DZ_AI in DZ\AI\
+  InventoryMoveSounds_Scripts in InventoryMoveSounds\Scripts\
+  DayZExpansion_Objects_Structures_Flags in DayZExpansion\Objects\Structures\Flags\
+  FOG_Helmet_Accessories_MTMand in FOG_MOD\Gear\helmet\accessories\fastmt_mand\
+  DZ_Animals_vulpes_vulpes in DZ\animals\vulpes_vulpes\
+  CCS_Misc_Gate in CCS\hashima\assets\kit_misc\gate\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  CarVanillaPlus_Truck in CarVanillaPlus\mc_system\
+  DZ_Gear_Consumables in UsefullVanilaTents\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  rag_baseitems_chests in rag_baseitems\rag_baseitems_chests\
+  FOG_MOD_Pants_FieldPants in FOG_MOD\Clothes\pants\fieldpants\
+  Akol_RailHuntingOptic in MountsAndSights\railhuntingoptic\
+  DayZExpansion_Sounds_BaseBuilding in DayZExpansion\Sounds\BaseBuilding\
+  Akol_CZRail in MountsAndSights\czrail\, DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Animals_rangifer_tarandus in DZ\animals\rangifer_tarandus\
+  FOG_Bag_SATL in FOG_MOD\Gear\bags\mr_satl\
+  Z_CfgPatches_VanillaDoubleMag in VanillaDoubleMag\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\, DZ_Anims_Cfg in DZ\anims\cfg\
+  DayZExpansion_BaseBuilding_Scripts in DayZExpansion\BaseBuilding\Scripts\
+  CarVanillaPlus in CarVanillaPlus\
+  DayZExpansion_Objects_BaseBuilding_Floors in DayZExpansion\Objects\Basebuilding\Floors\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\
+  DayZExpansion_Sounds_Vehicles_Air_Merlin in DayZExpansion\Sounds\Vehicles\Air\Merlin\
+  Hashima in CCS\hashima\scripts\, DZ_Water_Bliss in DZ\water_bliss\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DayZExpansion_Objects_TemporaryOwnedContainer in DayZExpansion\Core\Objects\TemporaryOwnedContainer\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  ServerConfig_JD in ServerConfig_JD\
+  DZ_Structures_Military in DZ\structures\military\
+  FOG_Enhanced_PCU_Shit in FOG_MOD\Clothes\shirts\fog_enhanced_pcu\
+  FOG_Mustache_Stuff in FOG_MOD\Gear\masks\mustache\
+  FOG_MOD_Shirt_ButtonUp in FOG_MOD\Clothes\shirts\buttonup_short\
+  FOG_BISON_Belt in FOG_MOD\Gear\belts\fc_bison\
+  DZM_VPPAdminTools in VPPAdminTools\assets\, FOG_Vest_Thor in FOG_MOD\Vests\thor\
+  DayZExpansion_Vehicles_Ground_250N in DayZExpansion\Vehicles\Ground\250N\
+  DayZExpansion_BaseBuilding_Preload in 0_DayZExpansion_BaseBuilding_Preload\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  rag_baseitems_solarpanel in rag_baseitems\rag_baseitems_solarpanel\
+  FOG_UFJ_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_urban_fighter\
+  DZ_Characters_Heads in DZ\characters\heads\
+  FOG_MOD_NVG_UAPNVG in FOG_MOD\Gear\nvg\uapnvg\
+  DayZExpansion_Vehicles_Water_Boat_Utility in DayZExpansion\Vehicles\Water\Utility\
+  DZ_Plants_Sakhal in DZ\plants_sakhal\, DZ_Plants in DZ\plants\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  FOG_Bag_MRASAP in FOG_MOD\Gear\bags\mr_asap\
+  HelziMagazineLoading_CLIENT_BASE in HelziMagazineLoading_CLIENT\data\
+  FOG_MOD_Shoes_Lerch in FOG_MOD\Gear\shoes\lerch_boots\
+  rag_baseitems in rag_baseitems\rag_baseitems_baseclasses\
+  Akol_B95Rail in MountsAndSights\b95rail\
+  rag_well in rag_baseitems\rag_baseitems_buildings\rag_well\
+  DayZExpansion_LanguageCore_Core in DayZExpansion\languagecore\Core\
+  rag_baseitems_proxies in rag_baseitems\rag_baseitems_proxies\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  rag_static_gazebo in rag_baseitems\rag_baseitems_buildings\rag_static_gazebo\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  rag_baseitems_lockers in rag_baseitems\rag_baseitems_lockers\
+  DayZExpansion_Sounds_AI in DayZExpansion\AI\Sounds\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Structures_Sakhal in DZ\structures_sakhal\
+  ExpansionProp_AntiAir in DayZExpansion\Vehicles\Objects\AntiAir\
+  DZ_Surfaces in DZ\surfaces\, DZ_Vehicles_Water in DZ\vehicles\water\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\, FirstAidKit in firstaidkit\
+  FOG_MOD_Gear in FOG_MOD\Gear\
+  DayZExpansion_Sounds_Ground_N250 in DayZExpansion\Sounds\Vehicles\Ground\N250\
+  FOG_Crye_G3_Shirt_Shit in FOG_MOD\Clothes\shirts\fog_crye_g3shirt\
+  DZM_VPPAdminToolsScripts in VPPAdminTools\
+  DayZExpansion_AI_GUI in DayZExpansion\AI\GUI\
+  FOG_Helmet_Accessories_MK1Pack in FOG_MOD\Gear\helmet\accessories\mk1batterypack\
+  Akol_M700Rail in MountsAndSights\m700rail\
+  FOG_Jacket_SoftShell_Shit in FOG_MOD\Clothes\shirts\fog_softshell\
+  Akol_Mark3HD in MountsAndSights\mark3hd\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\, DZ_Sounds_AI in DZ\sounds\ai\
+  FOG_MOD_Pants_FieldShorts in FOG_MOD\Clothes\pants\fieldshorts\
+  CarUpdate in InventoryInCar\, DZ_Characters_Zombies in DZ\characters\zombies\
+  DayZExpansion_Structures_Industrial_Power in DayZExpansion\Structures\Industrial\Power\
+  DZ_Gear_Traps in DZ\gear\traps\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DayZExpansion_Objects_Structures_Debug in DayZExpansion\Objects\Structures\Debug\
+  FOG_Shirts_Rugby in FOG_MOD\Clothes\shirts\vsrugby\
+  DayZExpansion_Vehicles_Ground_TT650 in DayZExpansion\Vehicles\Ground\TT650\
+  DayZExpansion_Particles in DayZExpansion\Particles\
+  DZ_Structures_Signs in DZ\structures\signs\
+  rag_baseitems_summer in rag_baseitems\rag_baseitems_summer\
+  FOG_Operator_Boots_shit in FOG_MOD\Gear\shoes\fog_operator_boots\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  FOG_MOD_Vests_CPC in FOG_MOD\Vests\fog_cpc\
+  rag_baseitems_crates in rag_baseitems\rag_baseitems_crates\
+  JunkYardDogV4 in JunkYardDogV4\, DZ_Sounds_Bliss in DZ\sounds_bliss\
+  FOG_MOD_WatchCap in FOG_MOD\Gear\headgear\watchcap\
+  DZ_Animals_rangifer_tarandus_feminam in DZ\animals\rangifer_tarandus_fem\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Weapons_Firearms_SV98 in DZ\weapons\firearms\sv98\
+  CCS_Kit_Notes in CCS\hashima\assets\kit_notes\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  CCS_Keychain_Twin_Peaks in CCS\hashima\assets\kit_keychains\keychain_twin_peaks\
+  CCS_Keychain_Question_Mark_Block in CCS\hashima\assets\kit_keychains\keychain_question_mark_block\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DayZExpansion_NotificationScheduler_Scripts in DayZExpansion\NotificationScheduler\Scripts\
+  DayZExpansion_Objects_Gear_ExampleOpenableLockableContainers in DayZExpansion\Objects\Gear\ExampleOpenableLockableContainers\
+  FOG_Bag_DrawBridge in FOG_MOD\Gear\bags\drawbridge\
+  Akol_Exps in MountsAndSights\exps2\
+  FOG_Ghost_Mask_New_Stuff in FOG_MOD\Gear\masks\ghost_mask_new\
+  FOG_Vest_TacTec_stuff in FOG_MOD\Vests\fog_tactec\
+  BuildingFortifications in BuildingFortifications\scripts\
+  FOG_Gear_Hands_GunGloves in FOG_MOD\Gear\hands\gungloves\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  FOG_Beards_Handlebar in FOG_MOD\Gear\misc\beards\handlebar\
+  DZ_Characters_Gloves in UsefullVanilaTents\
+  FOG_Bag_BlackJack in FOG_MOD\Gear\bags\mr_bj\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  DayZExpansion_Objects_BaseBuilding_Gates in DayZExpansion\Objects\Basebuilding\Gates\
+  rag_baseitems_garden in rag_baseitems\rag_baseitems_garden\
+  DayZExpansion_ModStorage_CF_Scripts_Entities in JM\CF\Scripts\4_World\CommunityFramework\Entities\
+  FOG_MOD_Vest_LBT6094 in FOG_MOD\Vests\lbt6094\
+  CCS_Hattori_Hanzo in CCS\hashima\assets\kit_weapons\hattori_hanzo\
+  DZ_Structures_Rail in DZ\structures\rail\
+  FOG_Data_Patches in FOG_MOD\Data\patches\, DZ_Water_Sakhal in DZ\water_sakhal\
+  SalineBagPlus in SalineBagPlus\, HashimaNavmesh in CCS\hashima\navmesh\
+  rag_baseitems_medical in rag_baseitems\rag_baseitems_medical\
+  FOG_MOD_DEFCON_Shoes in FOG_MOD\Gear\shoes\defcon_vans\, DZ_Water in DZ\water\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  FOG_Cronen_Shirt_Shit in FOG_MOD\Clothes\shirts\cronen_athletic\
+  DayZExpansion_ModStorage_Scripts in DayZExpansion\ModStorage\Scripts\
+  FOG_Weapons_Tomahawk in FOG_MOD\Weapons\melee\dr_tomahawk\
+  FOG_MOD_Acc_FC_Torus in FOG_MOD\Gear\helmet\accessories\fc_torus_battpack\
+  FOG_Helmet_Accessories_IR_Marker in FOG_MOD\Gear\helmet\accessories\ir_marker\
+  DayZExpansion_Objects_Structures_Grass_Sample in DayZExpansion\Objects\Structures\Grass_Sample\
+  FOG_Masks_M50Gasmask in FOG_MOD\Gear\masks\m50_gasmask\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DayZExpansion_Objects_Kits in DayZExpansion\Objects\Kits\
+  DayZExpansion_ModStorage_Preload in 0_DayZExpansion_ModStorage_Preload\
+  rag_baseitems_imageset in rag_baseitems\rag_baseitems_imageset\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\
+  CCS_Minebea_PM9_Base in CCS\hashima\assets\kit_weapons\minebea_pm9\
+  HashimaWorld in CCS\hashima\world\
+  CCS_Kit_Keychains in CCS\hashima\assets\kit_keychains\
+  FOG_Helmet_FAST_SF_shit in FOG_MOD\Gear\helmet\fast_sf\
+  DayZExpansion_Vehicles_Ground_Ikarus in DayZExpansion\Vehicles\Ground\Bus\
+  DayZExpansion_Vehicles_Air_Merlin in DayZExpansion\Vehicles\Air\Merlin\
+  FOG_Tactical_Fingerless_Gloves_stuff in FOG_MOD\Gear\hands\fingerless_tactical\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  AimSounds_Scripts in AimSounds\Scripts\
+  DayZExpansion_Objects_Gear_Electricity in DayZExpansion\Objects\Gear\Electricity\
+  rag_baseitems_smoker in rag_baseitems\rag_baseitems_others\smoker\
+  BetterSuppressors in BetterSuppressors\
+  DayZExpansion_Core_Objects_CircuitBoard in DayZExpansion\Core\Objects\CircuitBoard\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  DayZExpansion_Core in DayZExpansion\Core\Stub\
+  DayZExpansion_Vehicles_Ground_Tractor in DayZExpansion\Vehicles\Ground\Tractor\
+  BigWheels in BigWheels\, FOG_MOD_Vests_Accessories in FOG_MOD\Vests\accessories\
+  DayZExpansion_Sounds_Vehicles_Water_Utility in DayZExpansion\Sounds\Vehicles\Water\Utility\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DayZExpansion_Objects_BaseBuilding_Vanilla_Tents in DayZExpansion\Objects\Basebuilding\Vanilla\Tents\
+  Akol_Pilad in MountsAndSights\pilad\
+  CCS_HowaType20 in CCS\hashima\assets\kit_weapons\howa_type_20\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  FOG_Tactical_Hoodie_Shit in FOG_MOD\Clothes\shirts\fog_tachoodie\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  FOG_MOD_Shirt_L9Patagonia in FOG_MOD\Clothes\shirts\l9_patagonia\
+  DayZExpansion_Objects_BaseBuilding_Tents_Kits in DayZExpansion\Objects\Basebuilding\Tents_Kits\
+  FOG_Tactical_Fleece_Shit in FOG_MOD\Clothes\shirts\tactical_fleece\
+  DayZExpansion_Objects_BaseBuilding_Misc in DayZExpansion\Objects\Basebuilding\Misc\
+  FOG_MOD_Headgear_Boonie in FOG_MOD\Gear\headgear\boonie\
+  InediaInfectedAI in InediaInfectedAI\
+  FOG_Gear_Vest_D3CRX in FOG_MOD\Vests\unarmored\d3crx\
+  FOG_MOD_Hands_FerroGloves in FOG_MOD\Gear\hands\ferrogloves\
+  CCS_Kit_Signs in CCS\hashima\assets\kit_signs\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  FOG_Vest_Gen4_stuff in FOG_MOD\Vests\iotvgen4\
+  FOG_MTF_Shirt_Shit in FOG_MOD\Clothes\shirts\mtf_uniform_shirt\
+  DayZExpansion_Objects_Misc in DayZExpansion\Objects\Misc\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\
+  DayZExpansion_Structures_Residential_Misc in DayZExpansion\Structures\Residential\Misc\
+  FOG_Characters_Backpacks_Bergen in FOG_MOD\Gear\bags\bergen_fixed\
+  DZ_Animals in DZ\animals\
+  DayZExpansion_VanillaFixes_Sounds in DayZExpansion\VanillaFixes\Sounds\
+  FOG_MOD_FleeceCap in FOG_MOD\Gear\headgear\fleececap\
+  FOG_MOD_Helmet_MICH2000 in FOG_MOD\Gear\helmet\mich2000\
+  RPC_Scripts in JM\CF\Defines\, DZ_Worlds_Sakhal_Data in DZ\worlds\sakhal\data\
+  FOG_Helmet_Accessories_Comtac3 in FOG_MOD\Gear\helmet\accessories\comtacpeltors3\
+  BF_Define in 0_BF_Define\, DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+Mods: @DayZ-Dynamic-AI-Addon;@Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Hashima Islands;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@BigWheelZ;@Hashima Islands Assets
+Version 1.26.159040
+Fault address:  C0D12490 00:C0D12490 Unknown module
+file:     main
+world:    hashima
+Prev. code bytes: 89 5C 24 50 48 89 6C 24 48 48 8B E9 4C 8B 50 20
+Fault code bytes: 49 8B 1A 48 85 DB 74 04 F0 FF 43 08 41 8B 08 BF
+Script:
+-------------------------------------------------------
+
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\main.hashima\init.c:6
+-------------------------------------------------------
+=======================================================
+note: Minidump has been generated into the file profiles\DayZServer_x64_2025-02-19_15-13-36.mdmp

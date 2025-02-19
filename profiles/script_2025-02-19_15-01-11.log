@@ -1,0 +1,760 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\script_2025-02-19_15-01-11.log started at 19.02. 15:01:15
+
+SCRIPT       : Registered 359 temporary action enum(s), UAN==359
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetPhysicsTimeStamp'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetPhysicsTimeStamp'
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT       : 15:01:17 [EXPANSION LOG]: DayZGame<6eaf4c0> Start time (local time) 2025-02-19 15:00:58
+SCRIPT       : 15:01:17 [EXPANSION LOG]: DayZGame<6eaf4c0> Start time (UTC) 2025-02-19 07:00:58
+SCRIPT       : 15:01:17 [EXPANSION LOG]: DayZGame<6eaf4c0> Runtime since start (seconds) 19.135
+SCRIPT    (W): @"FirstAidKit/scripts/4_World/entities\itembase\gear\containers\containers.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionfillatcar.c,139": Missing ';' at the end of line
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionfillatcar.c,144": Missing ';' at the end of line
+SCRIPT    (W): @"SalineBagPlus/4_World/classes\playermodifiers\modifiers\saline.c,30": Missing ';' at the end of line
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_CreateNewConfig_JD'
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_EnableDebugLogs_JD'
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_EnableDebugModsLogs_JD'
+SCRIPT    (W): @"ServerConfig_JD/scripts/4_World/actionbase.c,132": Possible variable name conflict 'z_EnableFuelPumps_JD'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,744": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,752": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,231": FIX-ME: Overriding function 'IsItemBase' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,246": FIX-ME: Overriding function 'IsHologram' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,280": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,320": FIX-ME: Overriding function 'IsItemBase' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,335": FIX-ME: Overriding function 'IsHologram' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,368": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,528": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,683": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,691": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,480": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,508": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,460": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionfillatwreck.c,57": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,416": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,494": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,501": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,487": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionsalvagewreck.c,32": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,439": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,396": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/junkyardscriptclass.c,377": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\utils.c,103": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\utils.c,162": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\utils.c,221": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c,286": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c,317": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"HelziMagazineLoading_SERVER/Scripts/4_World/classes\ammobox.c,348": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionsalvagewreck.c,180": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"JunkYardDogV4/scripts/4_World/actionsalvagewreck.c,299": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\chatcommandmanager\classes\chatmodules\argumentcommands\spawning\spawnongroundmodule.c,32": FIX-ME: Undefined function 'ItemBase.SetupSpawnedItem'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c,225": FIX-ME: Undefined function 'ItemBase.SetupSpawnedItem'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"BuildingFortifications/scripts/4_World/buildingfortifications\actions\instant\actionopenbuildingcore.c,104": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"BuildingFortifications/scripts/4_World/buildingfortifications\actions\instant\actionopenbuildingcore.c,107": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"BuildingFortifications/scripts/4_World/buildingfortifications\actions\instant\actionmanagelockondoor.c,197": Possible variable name conflict '_Health'
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"SearchInventory/Scripts/5_Mission/uihelper\ui\uisearchinventorywindow.c,338": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuitemmanager\menuitemmanager.c,201": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\mouseevents\vppmouseeventbase.c,53": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\infoboxinstance.c,61": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\mouseevents\vppholdleftclickevent.c,13": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\tooltiphandler.c,38": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppuimanager.c,183": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,862": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuxmleditor\menuxmleditor.c,264": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT       : 15:01:35.402 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 15:01:35.402 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 15:01:35.421 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 15:01:35.437 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 15:01:35.437 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 15:01:35.437 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 15:01:35.437 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 15:01:35.457 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 15:01:35.476 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 15:01:35.488 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : [HelziMagazineLoading | CLIENT MOD] - Version client mod: 1.26 (Stable)...
+SCRIPT       : [HelziMagazineLoading | CLIENT MOD] - The client started looking for the server part of the mod!
+SCRIPT       : [HelziMagazineLoading | SERVER MOD] - Version server mod: 1.26 (Stable)...
+SCRIPT       : [HelziMagazineLoading | SERVER MOD] - The client part has been found, the mod is in stable operation!
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : Expansion version: 1.9.17
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : BF_Define
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : AimSounds
+SCRIPT       : ExtraFarmingItems
+SCRIPT       : BedRespawning
+SCRIPT       : CodeLock
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : sakhal
+SCRIPT       : EarPlugs
+SCRIPT       : FireplaceIndoor
+SCRIPT       : FirstAidKit
+SCRIPT       : HelziMagazineLoading_CLIENT
+SCRIPT       : HelziMagazineLoading_SERVER
+SCRIPT       : InediaInfectedAI
+SCRIPT       : InventoryInCar
+SCRIPT       : DZ_InventoryMoveSounds
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JunkYardDogV4
+SCRIPT       : metabolism_1
+SCRIPT       : MountsAndSights
+SCRIPT       : SalineBagPlus
+SCRIPT       : SIN_SearchInventory
+SCRIPT       : ServerConfig_JD
+SCRIPT       : skd_CombinableItems
+SCRIPT       : StaminaRevised
+SCRIPT       : Z_CfgMods_VanillaDoubleMag_O
+SCRIPT       : AVPPAdminTools
+SCRIPT       : BigWheels
+SCRIPT       : MC_SYSTEM
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : FOG_MOD
+SCRIPT       : rag_immersive_vehicles
+SCRIPT       : rag_baseitems
+SCRIPT       : CtoTytPisatYaNeZnayu
+SCRIPT       : BarrelFIX
+SCRIPT       : BuildingFortifications
+SCRIPT       : Hashima
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : Nomadbackpack_v3
+SCRIPT       : casebag
+SCRIPT       : HashimaAssets
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : DayZ_Expansion_AI_Dynamic
+SCRIPT       : [Server_Config_JunkYardDog]- 	Checking For Config Files
+SCRIPT       : [Server_Config_JunkYardDog]- 	Found Config Files!
+SCRIPT       : [Bed-Respawn 2.0] Created BedFrameWork Instance!
+SCRIPT       : [Bed-Respawn 2.0] loading prexisting config file.
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : 15:01:36.375 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : [BuildingFortificationsConfig] Create Building Fortifications configuration instance..
+SCRIPT       : [BuildingFortificationsConfig] Loading existing Building Fortifications configuration file..
+SCRIPT       : [BuildingFortificationsConfig] Load existing Building Fortifications configuration file..
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'Project:Genesis'
+SCRIPT       : Found 0 zones!
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<c2b405b0>> at Pos <<672.558411, 10.669715, 972.094727>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<c2b405b0>> at Pos <<672.558411, 10.669715, 972.094727>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<c2b38fe0>> at Pos <<675.565552, 10.840638, 975.009521>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<c2b38fe0>> at Pos <<675.565552, 10.840638, 975.009521>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<c2b43c10>> at Pos <<683.103821, 10.669714, 983.751709>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<c2b43c10>> at Pos <<683.103821, 10.669714, 983.751709>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<c2b47270>> at Pos <<680.489075, 10.669715, 980.406067>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<c2b47270>> at Pos <<680.489075, 10.669715, 980.406067>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<c2b44520>> at Pos <<722.336914, 10.643972, 1123.769531>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<c2b44520>> at Pos <<722.336914, 10.643972, 1123.769531>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<c2b496b0>> at Pos <<725.908264, 10.643973, 1121.608643>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<c2b496b0>> at Pos <<725.908264, 10.643973, 1121.608643>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<c2b45740>> at Pos <<715.186218, 10.643973, 1112.723022>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<c2b45740>> at Pos <<715.186218, 10.643973, 1112.723022>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<c2b539d0>> at Pos <<733.992310, 10.643973, 1115.416870>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<c2b539d0>> at Pos <<733.992310, 10.643973, 1115.416870>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<c2b51ea0>> at Pos <<725.316223, 10.814897, 1108.540894>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<c2b51ea0>> at Pos <<725.316223, 10.814897, 1108.540894>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<c2b4df30>> at Pos <<729.705261, 10.814897, 1118.509155>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<c2b4df30>> at Pos <<729.705261, 10.814897, 1118.509155>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<c2b530c0>> at Pos <<720.736389, 10.643973, 1110.640503>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<c2b530c0>> at Pos <<720.736389, 10.643973, 1110.640503>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<c29160c0>> at Pos <<3398.331299, 10.187514, 3327.699951>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<c29160c0>> at Pos <<3398.331299, 10.187514, 3327.699951>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<a9577ca0>> at Pos <<3395.135010, 10.602951, 3335.363281>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<a9577ca0>> at Pos <<3395.135010, 10.602951, 3335.363281>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<bcc3ad40>> at Pos <<2681.851318, 8.014667, 2600.317871>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<bcc3ad40>> at Pos <<2681.851318, 8.014667, 2600.317871>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<c292c040>> at Pos <<2695.996094, 11.163366, 2610.947266>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<c292c040>> at Pos <<2695.996094, 11.163366, 2610.947266>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<c290e540>> at Pos <<3789.846436, 3.177515, 2336.268066>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<c290e540>> at Pos <<3789.846436, 3.177515, 2336.268066>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<bcc4fc90>> at Pos <<3784.861572, 2.833208, 2349.784912>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<bcc4fc90>> at Pos <<3784.861572, 2.833208, 2349.784912>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<bcc4ea70>> at Pos <<3790.590576, 3.592951, 2342.043701>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<bcc4ea70>> at Pos <<3790.590576, 3.592951, 2342.043701>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<bcc4a1f0>> at Pos <<3784.618408, 1.990000, 2322.032959>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<bcc4a1f0>> at Pos <<3784.618408, 1.990000, 2322.032959>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<bcc57b70>> at Pos <<2471.505371, 8.870891, 2480.368896>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<bcc57b70>> at Pos <<2471.505371, 8.870891, 2480.368896>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_S120_Red<bda407b0>> at Pos <<3086.401123, 8.635694, 2620.809814>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_S120_Red<bda407b0>> at Pos <<3086.401123, 8.635694, 2620.809814>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<bcc59fb0>> at Pos <<3095.283936, 8.053000, 2620.951416>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<bcc59fb0>> at Pos <<3095.283936, 8.053000, 2620.951416>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_green<bcc5fa50>> at Pos <<4232.768555, 1.750000, 1009.842102>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_green<bcc5fa50>> at Pos <<4232.768555, 1.750000, 1009.842102>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<bcc58480>> at Pos <<4178.291992, 3.352951, 1049.239868>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<bcc58480>> at Pos <<4178.291992, 3.352951, 1049.239868>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_orange<bcc60360>> at Pos <<4201.695801, 1.750000, 1052.786987>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_orange<bcc60360>> at Pos <<4201.695801, 1.750000, 1052.786987>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<bcc58d90>> at Pos <<4202.588379, 3.352951, 1079.389893>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<bcc58d90>> at Pos <<4202.588379, 3.352951, 1079.389893>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<c4309730>> at Pos <<3467.856201, 20.945492, 3858.448242>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<c4309730>> at Pos <<3467.856201, 20.945492, 3858.448242>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<bcc60c70>> at Pos <<3656.537598, 1.990000, 2662.128906>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<bcc60c70>> at Pos <<3656.537598, 1.990000, 2662.128906>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<c5e27520>> at Pos <<3339.471680, 9.678506, 3356.345947>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<c5e27520>> at Pos <<3339.471680, 9.678506, 3356.345947>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<c5e23ec0>> at Pos <<4089.383301, 27.320000, 935.608337>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<c5e23ec0>> at Pos <<4089.383301, 27.320000, 935.608337>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<c5df1830>> at Pos <<2863.694336, 8.812792, 2623.695801>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<c5df1830>> at Pos <<2863.694336, 8.812792, 2623.695801>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_blue<c5deeae0>> at Pos <<2876.955566, 8.328076, 2623.811035>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_blue<c5deeae0>> at Pos <<2876.955566, 8.328076, 2623.811035>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<c5decfb0>> at Pos <<2871.565918, 8.756690, 2624.000732>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<c5decfb0>> at Pos <<2871.565918, 8.756690, 2624.000732>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<c5df0610>> at Pos <<2855.857910, 8.812792, 2623.317627>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<c5df0610>> at Pos <<2855.857910, 8.812792, 2623.317627>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<c5df2a50>> at Pos <<2849.664063, 8.812824, 2623.444092>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<c5df2a50>> at Pos <<2849.664063, 8.812824, 2623.444092>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<c98aba10>> at Pos <<4269.414063, 4.898697, 1009.548950>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<c98aba10>> at Pos <<4269.414063, 4.898697, 1009.548950>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_orange<c5e0ef70>> at Pos <<4292.965332, 1.783390, 1002.270020>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_orange<c5e0ef70>> at Pos <<4292.965332, 1.783390, 1002.270020>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_orange<cb93f080>> at Pos <<4290.424316, 1.783390, 1008.453979>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_orange<cb93f080>> at Pos <<4290.424316, 1.783390, 1008.453979>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<cb9426e0>> at Pos <<2787.321777, 8.812792, 2624.491455>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<cb9426e0>> at Pos <<2787.321777, 8.812792, 2624.491455>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<cb94ee40>> at Pos <<2766.893311, 8.812791, 2623.937256>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<cb94ee40>> at Pos <<2766.893311, 8.812791, 2623.937256>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_green<cb9536c0>> at Pos <<3630.375000, 1.990135, 2566.383301>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_green<cb9536c0>> at Pos <<3630.375000, 1.990135, 2566.383301>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<d01f7540>> at Pos <<3443.368896, 10.187515, 3508.428711>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<d01f7540>> at Pos <<3443.368896, 10.187515, 3508.428711>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<cb957f40>> at Pos <<3451.999512, 10.602951, 3509.406006>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<cb957f40>> at Pos <<3451.999512, 10.602951, 3509.406006>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<cb95fe20>> at Pos <<1986.701172, 8.772985, 2392.515869>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<cb95fe20>> at Pos <<1986.701172, 8.772985, 2392.515869>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<cb960730>> at Pos <<1967.652466, 8.017677, 2392.863525>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<cb960730>> at Pos <<1967.652466, 8.017677, 2392.863525>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<cb96e9c0>> at Pos <<4238.700684, 1.750000, 899.091553>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<cb96e9c0>> at Pos <<4238.700684, 1.750000, 899.091553>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<cb968f20>> at Pos <<4060.252930, 27.320000, 572.032349>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<cb968f20>> at Pos <<4060.252930, 27.320000, 572.032349>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<d475a950>> at Pos <<4115.078613, 30.468699, 592.613464>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<d475a950>> at Pos <<4115.078613, 30.468699, 592.613464>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_orange<cb97de70>> at Pos <<4274.370605, 1.862320, 1089.008301>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_orange<cb97de70>> at Pos <<4274.370605, 1.862320, 1089.008301>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<d7494b00>> at Pos <<4001.697510, 27.320000, 828.732666>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<d7494b00>> at Pos <<4001.697510, 27.320000, 828.732666>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<d97ed900>> at Pos <<4036.341553, 30.468699, 827.528931>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<d97ed900>> at Pos <<4036.341553, 30.468699, 827.528931>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_white<d749b7c0>> at Pos <<2530.793701, 11.680410, 2417.374023>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_white<d749b7c0>> at Pos <<2530.793701, 11.680410, 2417.374023>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_white<d749d2f0>> at Pos <<2541.921143, 11.680411, 2431.637939>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_white<d749d2f0>> at Pos <<2541.921143, 11.680411, 2431.637939>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<d7499c90>> at Pos <<2536.874512, 11.680410, 2423.422607>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<d7499c90>> at Pos <<2536.874512, 11.680410, 2423.422607>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<d7495d20>> at Pos <<2536.543457, 11.682099, 2420.566650>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<d7495d20>> at Pos <<2536.543457, 11.682099, 2420.566650>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<d7497850>> at Pos <<2547.029785, 11.789902, 2425.229980>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<d7497850>> at Pos <<2547.029785, 11.789902, 2425.229980>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<d749c0d0>> at Pos <<2522.000000, 11.596333, 2421.351318>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<d749c0d0>> at Pos <<2522.000000, 11.596333, 2421.351318>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<d749a5a0>> at Pos <<2531.077393, 11.596333, 2423.677490>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<d749a5a0>> at Pos <<2531.077393, 11.596333, 2423.677490>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<d7498160>> at Pos <<2522.026367, 11.592960, 2424.230469>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<d7498160>> at Pos <<2522.026367, 11.592960, 2424.230469>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<d749c9e0>> at Pos <<2531.010742, 11.592960, 2420.799072>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<d749c9e0>> at Pos <<2531.010742, 11.592960, 2420.799072>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_green<e0ebf1e0>> at Pos <<3960.792480, 27.320000, 790.259033>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_green<e0ebf1e0>> at Pos <<3960.792480, 27.320000, 790.259033>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<e0edff80>> at Pos <<3691.292969, 3.051991, 2830.717285>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<e0edff80>> at Pos <<3691.292969, 3.051991, 2830.717285>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_blue<eb43a8f0>> at Pos <<4206.166992, 1.750000, 942.414612>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_blue<eb43a8f0>> at Pos <<4206.166992, 1.750000, 942.414612>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<eb43bb10>> at Pos <<4210.842773, 1.750000, 949.138245>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<eb43bb10>> at Pos <<4210.842773, 1.750000, 949.138245>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<eb43b200>> at Pos <<4227.138672, 1.750000, 924.661072>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<eb43b200>> at Pos <<4227.138672, 1.750000, 924.661072>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<eb437ba0>> at Pos <<4243.479980, 1.750000, 903.185425>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<eb437ba0>> at Pos <<4243.479980, 1.750000, 903.185425>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<eba5ebb0>> at Pos <<3479.858398, 10.187515, 3390.035400>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<eba5ebb0>> at Pos <<3479.858398, 10.187515, 3390.035400>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_orange<eb452590>> at Pos <<3942.550293, 27.320000, 703.937256>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_orange<eb452590>> at Pos <<3942.550293, 27.320000, 703.937256>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_orange<eb44b8d0>> at Pos <<3976.637939, 27.320000, 602.631897>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_orange<eb44b8d0>> at Pos <<3976.637939, 27.320000, 602.631897>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<eba708b0>> at Pos <<3987.598633, 30.468699, 607.517151>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<eba708b0>> at Pos <<3987.598633, 30.468699, 607.517151>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<ebe15d30>> at Pos <<3404.815674, 10.187515, 3990.259766>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<ebe15d30>> at Pos <<3404.815674, 10.187515, 3990.259766>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Lada_Red<eb455bf0>> at Pos <<3336.171875, 29.317497, 4018.375488>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Lada_Red<eb455bf0>> at Pos <<3336.171875, 29.317497, 4018.375488>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<eb461a40>> at Pos <<808.248047, 67.739830, 1988.796875>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<eb461a40>> at Pos <<808.248047, 67.739830, 1988.796875>>
+SCRIPT       : m_LoginTimeMs: 6200
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<eb4705e0>> at Pos <<3405.796875, 29.409332, 3691.124268>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<eb4705e0>> at Pos <<3405.796875, 29.409332, 3691.124268>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<f09bf770>> at Pos <<3414.565186, 10.187515, 3732.041992>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<f09bf770>> at Pos <<3414.565186, 10.187515, 3732.041992>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<eb46d890>> at Pos <<3414.514893, 10.602951, 3721.684082>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<eb46d890>> at Pos <<3414.514893, 10.602951, 3721.684082>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<eb46eab0>> at Pos <<3503.251953, 18.324825, 3681.972168>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<eb46eab0>> at Pos <<3503.251953, 18.324825, 3681.972168>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Harverster<ed0aab90>> at Pos <<4224.459961, 29.351892, 809.444336>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Harverster<ed0aab90>> at Pos <<4224.459961, 29.351892, 809.444336>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_yellow<f3eb7f60>> at Pos <<3545.159180, 9.675820, 3499.335205>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_yellow<f3eb7f60>> at Pos <<3545.159180, 9.675820, 3499.335205>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Volha_Blue<f3eb9180>> at Pos <<3530.762939, 9.749406, 3554.002686>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Volha_Blue<f3eb9180>> at Pos <<3530.762939, 9.749406, 3554.002686>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<f3ec1060>> at Pos <<3579.890625, 9.658823, 3336.048340>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<f3ec1060>> at Pos <<3579.890625, 9.658823, 3336.048340>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_red<f3e99f10>> at Pos <<2137.708496, 8.703723, 2983.138672>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_red<f3e99f10>> at Pos <<2137.708496, 8.703723, 2983.138672>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<f3e983e0>> at Pos <<2131.278809, 8.759825, 2989.912109>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<f3e983e0>> at Pos <<2131.278809, 8.759825, 2989.912109>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_blue<f3e9e790>> at Pos <<1823.585083, 8.000000, 3298.021729>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_blue<f3e9e790>> at Pos <<1823.585083, 8.000000, 3298.021729>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<f3e99600>> at Pos <<1812.358276, 8.000000, 3308.666016>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<f3e99600>> at Pos <<1812.358276, 8.000000, 3308.666016>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<f3ea5450>> at Pos <<854.698608, 68.041992, 1755.860962>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<f3ea5450>> at Pos <<854.698608, 68.041992, 1755.860962>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<f3ea2700>> at Pos <<856.368774, 67.739830, 1748.826782>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<f3ea2700>> at Pos <<856.368774, 67.739830, 1748.826782>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<f8e1f680>> at Pos <<2103.213623, 8.759825, 3011.271973>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<f8e1f680>> at Pos <<2103.213623, 8.759825, 3011.271973>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<f8e2d000>> at Pos <<2081.233398, 8.930747, 3039.400146>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<f8e2d000>> at Pos <<2081.233398, 8.930747, 3039.400146>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<f8e28780>> at Pos <<2085.946777, 8.930747, 3034.845703>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<f8e28780>> at Pos <<2085.946777, 8.930747, 3034.845703>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<f8e299a0>> at Pos <<2098.091309, 8.759824, 3016.241455>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<f8e299a0>> at Pos <<2098.091309, 8.759824, 3016.241455>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_HMMWV<fb5a1020>> at Pos <<1139.747681, 8.907103, 3981.323242>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_HMMWV<fb5a1020>> at Pos <<1139.747681, 8.907103, 3981.323242>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_orange<f8e38540>> at Pos <<1785.637817, 8.000000, 3328.467529>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_orange<f8e38540>> at Pos <<1785.637817, 8.000000, 3328.467529>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<f8e39760>> at Pos <<1793.422363, 8.000000, 3320.974854>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<f8e39760>> at Pos <<1793.422363, 8.000000, 3320.974854>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<f8e455b0>> at Pos <<850.945251, 66.979477, 1788.069580>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<f8e455b0>> at Pos <<850.945251, 66.979477, 1788.069580>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<fd5a2de0>> at Pos <<823.490784, 66.980003, 1827.480469>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<fd5a2de0>> at Pos <<823.490784, 66.980003, 1827.480469>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<fd5a1bc0>> at Pos <<824.123718, 66.980003, 1822.821533>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<fd5a1bc0>> at Pos <<824.123718, 66.980003, 1822.821533>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<fb5ba180>> at Pos <<821.028198, 70.128708, 1832.374268>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<fb5ba180>> at Pos <<821.028198, 70.128708, 1832.374268>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<fd5b0760>> at Pos <<864.617676, 66.980431, 1800.866821>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<fd5b0760>> at Pos <<864.617676, 66.980431, 1800.866821>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<fd5ada10>> at Pos <<813.331116, 68.380203, 1942.633179>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<fd5ada10>> at Pos <<813.331116, 68.380203, 1942.633179>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<fea361f0>> at Pos <<1019.236206, 68.041992, 1863.733643>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<fea361f0>> at Pos <<1019.236206, 68.041992, 1863.733643>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<fea47ae0>> at Pos <<1015.532532, 67.841125, 1882.723755>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<fea47ae0>> at Pos <<1015.532532, 67.841125, 1882.723755>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<fea49f20>> at Pos <<1053.971680, 100.886887, 1954.498047>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<fea49f20>> at Pos <<1053.971680, 100.886887, 1954.498047>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<fea456a0>> at Pos <<1054.555786, 100.693268, 1950.629272>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<fea456a0>> at Pos <<1054.555786, 100.693268, 1950.629272>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<fea44d90>> at Pos <<1053.358521, 100.693268, 1958.426880>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<fea44d90>> at Pos <<1053.358521, 100.693268, 1958.426880>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<854d90>> at Pos <<808.100891, 67.683723, 1885.001587>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<854d90>> at Pos <<808.100891, 67.683723, 1885.001587>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<859f20>> at Pos <<825.220032, 67.739830, 1894.542725>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<859f20>> at Pos <<825.220032, 67.739830, 1894.542725>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<83bed0>> at Pos <<1713.661011, 5.463677, 2234.886963>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<83bed0>> at Pos <<1713.661011, 5.463677, 2234.886963>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<83c7e0>> at Pos <<1708.488281, 5.264697, 2234.765869>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<83c7e0>> at Pos <<1708.488281, 5.264697, 2234.765869>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<848630>> at Pos <<3601.979980, 15.139101, 2826.520996>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<848630>> at Pos <<3601.979980, 15.139101, 2826.520996>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<844fd0>> at Pos <<3659.019287, 2.749823, 2829.208740>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<844fd0>> at Pos <<3659.019287, 2.749823, 2829.208740>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<850510>> at Pos <<3679.842529, 1.990000, 2801.676270>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<850510>> at Pos <<3679.842529, 1.990000, 2801.676270>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<84ceb0>> at Pos <<3716.570068, 2.749824, 2793.132813>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<84ceb0>> at Pos <<3716.570068, 2.749824, 2793.132813>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<84d7c0>> at Pos <<3715.451416, 2.749824, 2776.533203>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<84d7c0>> at Pos <<3715.451416, 2.749824, 2776.533203>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_blue<2624ba0>> at Pos <<3747.035645, 29.141991, 3746.049316>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_blue<2624ba0>> at Pos <<3747.035645, 29.141991, 3746.049316>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_red<2629d30>> at Pos <<3750.920410, 28.783722, 3747.010254>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_red<2629d30>> at Pos <<3750.920410, 28.783722, 3747.010254>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_yellow<262a640>> at Pos <<3738.402588, 28.738823, 3745.443848>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_yellow<262a640>> at Pos <<3738.402588, 28.738823, 3745.443848>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Volha_Blue<2623070>> at Pos <<3742.599121, 28.816942, 3746.042969>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Volha_Blue<2623070>> at Pos <<3742.599121, 28.816942, 3746.042969>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_black<2624290>> at Pos <<786.945557, 67.733322, 1852.704468>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_black<2624290>> at Pos <<786.945557, 67.733322, 1852.704468>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_black<26300e0>> at Pos <<792.578918, 67.733322, 1862.169922>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_black<26300e0>> at Pos <<792.578918, 67.733322, 1862.169922>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<262f7d0>> at Pos <<780.173584, 67.731636, 1879.608032>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<262f7d0>> at Pos <<780.173584, 67.731636, 1879.608032>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<26309f0>> at Pos <<784.831055, 68.041992, 1864.561890>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<26309f0>> at Pos <<784.831055, 68.041992, 1864.561890>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<2631c10>> at Pos <<791.637329, 67.733322, 1866.073730>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<2631c10>> at Pos <<791.637329, 67.733322, 1866.073730>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_blue<262eec0>> at Pos <<810.258545, 67.683723, 1877.409180>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_blue<262eec0>> at Pos <<810.258545, 67.683723, 1877.409180>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<2632520>> at Pos <<806.106934, 67.731636, 1856.427734>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<2632520>> at Pos <<806.106934, 67.731636, 1856.427734>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<262c170>> at Pos <<803.633911, 67.910751, 1868.218506>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<262c170>> at Pos <<803.633911, 67.910751, 1868.218506>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_blue<2631300>> at Pos <<812.933044, 68.041992, 1861.985229>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_blue<2631300>> at Pos <<812.933044, 68.041992, 1861.985229>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<262af50>> at Pos <<814.400024, 67.910751, 1858.038696>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<262af50>> at Pos <<814.400024, 67.910751, 1858.038696>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<2632e30>> at Pos <<812.392273, 68.041992, 1866.076538>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<2632e30>> at Pos <<812.392273, 68.041992, 1866.076538>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<262b860>> at Pos <<830.432068, 68.041992, 1869.244263>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<262b860>> at Pos <<830.432068, 68.041992, 1869.244263>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<2633740>> at Pos <<802.298157, 68.041992, 1875.587280>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<2633740>> at Pos <<802.298157, 68.041992, 1875.587280>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<2634050>> at Pos <<804.532227, 67.739830, 1863.840332>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<2634050>> at Pos <<804.532227, 67.739830, 1863.840332>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<262dca0>> at Pos <<821.219543, 67.841125, 1861.105103>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<262dca0>> at Pos <<821.219543, 67.841125, 1861.105103>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<262ca80>> at Pos <<814.995911, 67.841133, 1853.749268>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<262ca80>> at Pos <<814.995911, 67.841133, 1853.749268>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<2635b80>> at Pos <<778.006653, 67.910751, 1891.498535>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<2635b80>> at Pos <<778.006653, 67.910751, 1891.498535>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<262e5b0>> at Pos <<788.631592, 68.041992, 1885.543823>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<262e5b0>> at Pos <<788.631592, 68.041992, 1885.543823>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<263ec80>> at Pos <<1653.204224, 5.261118, 2255.381348>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<263ec80>> at Pos <<1653.204224, 5.261118, 2255.381348>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<2639af0>> at Pos <<1669.793701, 5.058823, 2254.824463>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<2639af0>> at Pos <<1669.793701, 5.058823, 2254.824463>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<2643500>> at Pos <<3639.405273, 2.783723, 2844.391113>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<2643500>> at Pos <<3639.405273, 2.783723, 2844.391113>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<264e130>> at Pos <<3732.827881, 1.990000, 2694.608154>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<264e130>> at Pos <<3732.827881, 1.990000, 2694.608154>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<2647d80>> at Pos <<3728.346191, 2.749823, 2723.853760>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<2647d80>> at Pos <<3728.346191, 2.749823, 2723.853760>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_S120_Red<2b1c9d0>> at Pos <<3640.017090, 2.677315, 2848.498047>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_S120_Red<2b1c9d0>> at Pos <<3640.017090, 2.677315, 2848.498047>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<26520a0>> at Pos <<3659.892822, 3.184230, 2868.430176>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<26520a0>> at Pos <<3659.892822, 3.184230, 2868.430176>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<2653bd0>> at Pos <<3656.307617, 2.121010, 2874.008545>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<2653bd0>> at Pos <<3656.307617, 2.121010, 2874.008545>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Lada_Red<2657230>> at Pos <<3788.251221, 2.651426, 2763.061035>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Lada_Red<2657230>> at Pos <<3788.251221, 2.651426, 2763.061035>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<265f110>> at Pos <<3615.910400, 3.051991, 2920.039551>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<265f110>> at Pos <<3615.910400, 3.051991, 2920.039551>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<2662770>> at Pos <<3300.841553, 3.051991, 2949.897949>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<2662770>> at Pos <<3300.841553, 3.051991, 2949.897949>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<39a9b20>> at Pos <<3668.093994, 3.051991, 2897.439209>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<39a9b20>> at Pos <<3668.093994, 3.051991, 2897.439209>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<39a6dd0>> at Pos <<3653.520020, 2.749823, 2909.965820>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<39a6dd0>> at Pos <<3653.520020, 2.749823, 2909.965820>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<39a4080>> at Pos <<3430.070313, 3.051991, 2987.609619>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<39a4080>> at Pos <<3430.070313, 3.051991, 2987.609619>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_orange<39ae3a0>> at Pos <<3819.665039, 1.990000, 2837.613037>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_orange<39ae3a0>> at Pos <<3819.665039, 1.990000, 2837.613037>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_black<39d9d70>> at Pos <<1884.015869, 7.635251, 2391.022949>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_black<39d9d70>> at Pos <<1884.015869, 7.635251, 2391.022949>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<39db8a0>> at Pos <<1888.131592, 8.149618, 2392.709473>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<39db8a0>> at Pos <<1888.131592, 8.149618, 2392.709473>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<39d9460>> at Pos <<1896.397339, 8.811306, 2390.538330>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<39d9460>> at Pos <<1896.397339, 8.811306, 2390.538330>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<39ddce0>> at Pos <<1910.701050, 8.824121, 2391.971680>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<39ddce0>> at Pos <<1910.701050, 8.824121, 2391.971680>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<39de5f0>> at Pos <<1906.261108, 8.824121, 2392.718018>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<39de5f0>> at Pos <<1906.261108, 8.824121, 2392.718018>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<39d7020>> at Pos <<1917.280884, 8.824121, 2393.037109>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<39d7020>> at Pos <<1917.280884, 8.824121, 2393.037109>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Blue<39e2560>> at Pos <<1933.912354, 8.992291, 2390.202637>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Blue<39e2560>> at Pos <<1933.912354, 8.992291, 2390.202637>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Beige<39e0120>> at Pos <<1940.905884, 9.004828, 2390.155273>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Beige<39e0120>> at Pos <<1940.905884, 9.004828, 2390.155273>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<61b7ac0>> at Pos <<4257.497559, 3.065615, 1050.249878>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<61b7ac0>> at Pos <<4257.497559, 3.065615, 1050.249878>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<57dcd80>> at Pos <<4016.219727, 10.285719, 1103.570313>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<57dcd80>> at Pos <<4016.219727, 10.285719, 1103.570313>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_HMMWV<9445db0>> at Pos <<898.089539, 67.854546, 1568.304443>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_HMMWV<9445db0>> at Pos <<898.089539, 67.854546, 1568.304443>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<625aa80>> at Pos <<3531.116699, 2.750187, 2877.484375>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<625aa80>> at Pos <<3531.116699, 2.750187, 2877.484375>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<a267f10>> at Pos <<2595.389404, 8.664179, 2505.213623>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<a267f10>> at Pos <<2595.389404, 8.664179, 2505.213623>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_black<a2648b0>> at Pos <<2525.590820, 8.753318, 2447.965820>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_black<a2648b0>> at Pos <<2525.590820, 8.753318, 2447.965820>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<a269130>> at Pos <<2533.900635, 8.000000, 2447.823486>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<a269130>> at Pos <<2533.900635, 8.000000, 2447.823486>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<a267600>> at Pos <<2550.996338, 8.870891, 2474.442871>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<a267600>> at Pos <<2550.996338, 8.870891, 2474.442871>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<a269a40>> at Pos <<2543.626953, 8.803858, 2476.683594>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<a269a40>> at Pos <<2543.626953, 8.803858, 2476.683594>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<a262470>> at Pos <<2541.514404, 8.803858, 2448.008301>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<a262470>> at Pos <<2541.514404, 8.803858, 2448.008301>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<a263fa0>> at Pos <<2571.214111, 8.751626, 2443.862793>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<a263fa0>> at Pos <<2571.214111, 8.751626, 2443.862793>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<a248390>> at Pos <<3355.092285, 29.517118, 3938.166992>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<a248390>> at Pos <<3355.092285, 29.517118, 3938.166992>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<a248ca0>> at Pos <<3355.611816, 29.409330, 3942.978271>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<a248ca0>> at Pos <<3355.611816, 29.409330, 3942.978271>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<a2495b0>> at Pos <<1052.132446, 100.755646, 1962.051636>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<a2495b0>> at Pos <<1052.132446, 100.755646, 1962.051636>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<a261b60>> at Pos <<2499.222168, 8.751626, 2473.656982>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<a261b60>> at Pos <<2499.222168, 8.751626, 2473.656982>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<ac88980>> at Pos <<2497.313477, 8.753319, 2447.795654>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<ac88980>> at Pos <<2497.313477, 8.753319, 2447.795654>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<ac8b6d0>> at Pos <<2480.522705, 8.803858, 2444.751465>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<ac8b6d0>> at Pos <<2480.522705, 8.803858, 2444.751465>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<ac8a4b0>> at Pos <<2510.729980, 9.602951, 2448.651367>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<ac8a4b0>> at Pos <<2510.729980, 9.602951, 2448.651367>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<aaae6e0>> at Pos <<2481.469971, 9.187506, 2503.223389>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<aaae6e0>> at Pos <<2481.469971, 9.187506, 2503.223389>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<ac91a80>> at Pos <<2481.321533, 9.602951, 2487.944336>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<ac91a80>> at Pos <<2481.321533, 9.602951, 2487.944336>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<ac9cfc0>> at Pos <<2599.585449, 8.930746, 2698.665283>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<ac9cfc0>> at Pos <<2599.585449, 8.930746, 2698.665283>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_black<ac9c6b0>> at Pos <<2603.237061, 8.751628, 2703.295654>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_black<ac9c6b0>> at Pos <<2603.237061, 8.751628, 2703.295654>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<aca4ea0>> at Pos <<2615.953125, 8.930746, 2718.112549>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<aca4ea0>> at Pos <<2615.953125, 8.930746, 2718.112549>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<aca0f30>> at Pos <<2670.441895, 8.920747, 2681.817871>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<aca0f30>> at Pos <<2670.441895, 8.920747, 2681.817871>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<aca3370>> at Pos <<2657.924561, 8.920748, 2686.103271>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<aca3370>> at Pos <<2657.924561, 8.920748, 2686.103271>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Beige<acab250>> at Pos <<2650.482666, 8.999132, 2734.688477>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Beige<acab250>> at Pos <<2650.482666, 8.999132, 2734.688477>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<acb3a40>> at Pos <<2654.033936, 8.861118, 2733.101318>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<acb3a40>> at Pos <<2654.033936, 8.861118, 2733.101318>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Volha_Grey<acb0cf0>> at Pos <<2647.538086, 8.736945, 2736.479492>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Volha_Grey<acb0cf0>> at Pos <<2647.538086, 8.736945, 2736.479492>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Volha_Blue<acb1600>> at Pos <<2644.623535, 8.736945, 2738.218506>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Volha_Blue<acb1600>> at Pos <<2644.623535, 8.736945, 2738.218506>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<acacd80>> at Pos <<2546.354736, 8.753318, 2390.593750>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<acacd80>> at Pos <<2546.354736, 8.753318, 2390.593750>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<acaf1c0>> at Pos <<2564.678223, 8.803858, 2438.746094>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<acaf1c0>> at Pos <<2564.678223, 8.803858, 2438.746094>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<acb5570>> at Pos <<2743.578125, 8.053000, 2620.729736>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<acb5570>> at Pos <<2743.578125, 8.053000, 2620.729736>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<acb4c60>> at Pos <<2689.407227, 8.930746, 2669.138916>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<acb4c60>> at Pos <<2689.407227, 8.930746, 2669.138916>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Beige<acadfa0>> at Pos <<2686.825928, 8.998158, 2670.854248>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Beige<acadfa0>> at Pos <<2686.825928, 8.998158, 2670.854248>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_orange<acb82c0>> at Pos <<4232.210449, 1.750000, 1084.595093>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_orange<acb82c0>> at Pos <<4232.210449, 1.750000, 1084.595093>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_V3S<acb94e0>> at Pos <<4205.823242, 3.265809, 1082.844116>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_V3S<acb94e0>> at Pos <<4205.823242, 3.265809, 1082.844116>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<bff6630>> at Pos <<2500.773438, 9.448070, 2401.340820>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<bff6630>> at Pos <<2500.773438, 9.448070, 2401.340820>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<acc6e60>> at Pos <<2662.567139, 8.930746, 2663.475098>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<acc6e60>> at Pos <<2662.567139, 8.930746, 2663.475098>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<acc7770>> at Pos <<2676.344971, 8.922859, 2677.840332>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<acc7770>> at Pos <<2676.344971, 8.922859, 2677.840332>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<acc01a0>> at Pos <<2674.612061, 8.000000, 2656.491455>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<acc01a0>> at Pos <<2674.612061, 8.000000, 2656.491455>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<acc0ab0>> at Pos <<2677.834473, 8.753318, 2666.205322>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<acc0ab0>> at Pos <<2677.834473, 8.753318, 2666.205322>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_white<6258640>> at Pos <<1326.302856, 5.245415, 2563.150391>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_white<6258640>> at Pos <<1326.302856, 5.245415, 2563.150391>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<c5446d0>> at Pos <<1043.971680, 68.041992, 1810.138428>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<c5446d0>> at Pos <<1043.971680, 68.041992, 1810.138428>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Uaz<c55b150>> at Pos <<2999.616943, 11.143187, 2119.445557>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Uaz<c55b150>> at Pos <<2999.616943, 11.143187, 2119.445557>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Blue<c563940>> at Pos <<3068.319824, 11.299132, 2051.753418>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Blue<c563940>> at Pos <<3068.319824, 11.299132, 2051.753418>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Volha_Blue<c55f9d0>> at Pos <<3046.041748, 11.032642, 2068.173828>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Volha_Blue<c55f9d0>> at Pos <<3046.041748, 11.032642, 2068.173828>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<14c2bd80>> at Pos <<3151.287109, 10.290716, 1967.996338>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<14c2bd80>> at Pos <<3151.287109, 10.290716, 1967.996338>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Volha_Grey<14c32a40>> at Pos <<3128.027344, 11.036944, 1991.776245>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Volha_Grey<14c32a40>> at Pos <<3128.027344, 11.036944, 1991.776245>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Beige<14c2cfa0>> at Pos <<3179.537354, 11.289132, 1941.048462>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Beige<14c2cfa0>> at Pos <<3179.537354, 11.289132, 1941.048462>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_white<14c262e0>> at Pos <<1826.890991, 5.449025, 2392.490723>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_white<14c262e0>> at Pos <<1826.890991, 5.449025, 2392.490723>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<14c21150>> at Pos <<1839.219116, 5.495315, 2391.166992>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<14c21150>> at Pos <<1839.219116, 5.495315, 2391.166992>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_wine<1120f850>> at Pos <<2013.910767, 8.716320, 2389.468262>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_wine<1120f850>> at Pos <<2013.910767, 8.716320, 2389.468262>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<1121dae0>> at Pos <<2110.976563, 8.983715, 2392.875000>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<1121dae0>> at Pos <<2110.976563, 8.983715, 2392.875000>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<11222360>> at Pos <<2104.457031, 8.812792, 2392.518555>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<11222360>> at Pos <<2104.457031, 8.812792, 2392.518555>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<11222c70>> at Pos <<2098.262939, 8.812791, 2392.645020>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<11222c70>> at Pos <<2098.262939, 8.812791, 2392.645020>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<1121b6a0>> at Pos <<2138.081543, 8.756690, 2389.816650>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<1121b6a0>> at Pos <<2138.081543, 8.756690, 2389.816650>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<1121e3f0>> at Pos <<2144.422363, 8.983714, 2389.619873>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<1121e3f0>> at Pos <<2144.422363, 8.983714, 2389.619873>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<11223580>> at Pos <<2185.082520, 8.812792, 2392.518555>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<11223580>> at Pos <<2185.082520, 8.812792, 2392.518555>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<11223e90>> at Pos <<2161.232666, 8.983714, 2389.550293>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<11223e90>> at Pos <<2161.232666, 8.983714, 2389.550293>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<1121c8c0>> at Pos <<2194.536133, 8.756690, 2391.108398>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<1121c8c0>> at Pos <<2194.536133, 8.756690, 2391.108398>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<11226be0>> at Pos <<2178.009521, 8.812792, 2392.587891>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<11226be0>> at Pos <<2178.009521, 8.812792, 2392.587891>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_black<112262d0>> at Pos <<2171.815430, 8.812791, 2392.714355>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_black<112262d0>> at Pos <<2171.815430, 8.812791, 2392.714355>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_blue<112259c0>> at Pos <<2200.565186, 8.756691, 2391.738525>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_blue<112259c0>> at Pos <<2200.565186, 8.756691, 2391.738525>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<1122c680>> at Pos <<2258.178711, 8.983714, 2389.600830>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<1122c680>> at Pos <<2258.178711, 8.983714, 2389.600830>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<11229930>> at Pos <<2277.994385, 8.756691, 2389.531982>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<11229930>> at Pos <<2277.994385, 8.756691, 2389.531982>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<11229020>> at Pos <<2283.345703, 8.812792, 2389.872803>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<11229020>> at Pos <<2283.345703, 8.812792, 2389.872803>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<1122bd70>> at Pos <<2301.167725, 8.756691, 2389.850830>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<1122bd70>> at Pos <<2301.167725, 8.756691, 2389.850830>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<117c1f00>> at Pos <<2440.863037, 8.753318, 2399.789063>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<117c1f00>> at Pos <<2440.863037, 8.753318, 2399.789063>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_black<117bbb50>> at Pos <<2440.071045, 8.751630, 2416.898926>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_black<117bbb50>> at Pos <<2440.071045, 8.751630, 2416.898926>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<117c8bc0>> at Pos <<2551.010254, 8.664179, 2567.449219>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<117c8bc0>> at Pos <<2551.010254, 8.664179, 2567.449219>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<117d7760>> at Pos <<2679.477051, 8.774490, 2577.351563>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<117d7760>> at Pos <<2679.477051, 8.774490, 2577.351563>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<117d9ba0>> at Pos <<2667.626709, 8.774490, 2582.523193>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<117d9ba0>> at Pos <<2667.626709, 8.774490, 2582.523193>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<117ddb10>> at Pos <<2671.122070, 8.774490, 2580.396973>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<117ddb10>> at Pos <<2671.122070, 8.774490, 2580.396973>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_red<117de420>> at Pos <<2675.601563, 8.718389, 2578.770996>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_red<117de420>> at Pos <<2675.601563, 8.718389, 2578.770996>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Digger<15675dc0>> at Pos <<2663.496094, 11.313665, 2596.429688>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Digger<15675dc0>> at Pos <<2663.496094, 11.313665, 2596.429688>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Lada_Red<117e59f0>> at Pos <<2683.927490, 10.961498, 2430.116699>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Lada_Red<117e59f0>> at Pos <<2683.927490, 10.961498, 2430.116699>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_wine<117e3ec0>> at Pos <<2704.678223, 11.051632, 2415.204834>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_wine<117e3ec0>> at Pos <<2704.678223, 11.051632, 2415.204834>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<117e6300>> at Pos <<2699.303223, 11.230747, 2420.346191>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<117e6300>> at Pos <<2699.303223, 11.230747, 2420.346191>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<117e6c10>> at Pos <<2695.356689, 11.230747, 2424.088623>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<117e6c10>> at Pos <<2695.356689, 11.230747, 2424.088623>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<117df640>> at Pos <<2688.834229, 11.161119, 2425.132568>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<117df640>> at Pos <<2688.834229, 11.161119, 2425.132568>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<117e2390>> at Pos <<2681.008545, 8.015309, 2591.979980>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<117e2390>> at Pos <<2681.008545, 8.015309, 2591.979980>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<11075950>> at Pos <<2516.851563, 8.836574, 2599.731445>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<11075950>> at Pos <<2516.851563, 8.836574, 2599.731445>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<11077480>> at Pos <<2482.866943, 8.658823, 2638.955566>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<11077480>> at Pos <<2482.866943, 8.658823, 2638.955566>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_yellow<11077d90>> at Pos <<2487.881592, 8.658823, 2633.477051>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_yellow<11077d90>> at Pos <<2487.881592, 8.658823, 2633.477051>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_blue<11078fb0>> at Pos <<2620.157959, 8.148550, 2638.223389>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_blue<11078fb0>> at Pos <<2620.157959, 8.148550, 2638.223389>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Lada_Red<1107b3f0>> at Pos <<3684.547852, 2.651426, 2623.778076>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Lada_Red<1107b3f0>> at Pos <<3684.547852, 2.651426, 2623.778076>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Blue<11080e90>> at Pos <<3714.198730, 2.989703, 2626.846924>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Blue<11080e90>> at Pos <<3714.198730, 2.989703, 2626.846924>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<1108c3d0>> at Pos <<2463.436523, 8.861119, 2651.033447>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<1108c3d0>> at Pos <<2463.436523, 8.861119, 2651.033447>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<1108cce0>> at Pos <<2454.662354, 8.861119, 2661.002686>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<1108cce0>> at Pos <<2454.662354, 8.861119, 2661.002686>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_yellow<11088d70>> at Pos <<2467.901611, 8.861119, 2647.505859>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_yellow<11088d70>> at Pos <<2467.901611, 8.861119, 2647.505859>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_grey<1108e810>> at Pos <<2471.804199, 8.658824, 2643.106201>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_grey<1108e810>> at Pos <<2471.804199, 8.658824, 2643.106201>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban2_red<11090c50>> at Pos <<2459.024658, 8.658823, 2656.152588>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban2_red<11090c50>> at Pos <<2459.024658, 8.658823, 2656.152588>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban1_black<11097000>> at Pos <<2545.374023, 8.751631, 2657.358154>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban1_black<11097000>> at Pos <<2545.374023, 8.751631, 2657.358154>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_green<1109caa0>> at Pos <<2622.273193, 9.062362, 2649.854980>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_green<1109caa0>> at Pos <<2622.273193, 9.062362, 2649.854980>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_wine<110a9b10>> at Pos <<2424.671143, 8.899423, 2697.696045>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_wine<110a9b10>> at Pos <<2424.671143, 8.899423, 2697.696045>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<e82fb20>> at Pos <<3273.829834, 2.750187, 2727.541748>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<e82fb20>> at Pos <<3273.829834, 2.750187, 2727.541748>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban2_orange<e8401f0>> at Pos <<3569.955322, 1.988933, 2785.078125>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban2_orange<e8401f0>> at Pos <<3569.955322, 1.988933, 2785.078125>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_red<e85e240>> at Pos <<3598.157959, 14.928491, 2826.931396>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_red<e85e240>> at Pos <<3598.157959, 14.928491, 2826.931396>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban1_blue<e860680>> at Pos <<3589.524170, 14.951028, 2826.840576>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban1_blue<e860680>> at Pos <<3589.524170, 14.951028, 2826.840576>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_green<e85f460>> at Pos <<3593.744629, 15.134694, 2827.109619>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_green<e85f460>> at Pos <<3593.744629, 15.134694, 2827.109619>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Blue<e841410>> at Pos <<2206.287354, 8.999134, 2908.523926>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Blue<e841410>> at Pos <<2206.287354, 8.999134, 2908.523926>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_S1023_Beige<e84c950>> at Pos <<2218.221680, 8.999134, 2896.666504>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_S1023_Beige<e84c950>> at Pos <<2218.221680, 8.999134, 2896.666504>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<e84c040>> at Pos <<2278.525146, 8.861119, 2842.779785>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<e84c040>> at Pos <<2278.525146, 8.861119, 2842.779785>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_wine<e86a090>> at Pos <<2268.149170, 8.753320, 2853.479492>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_wine<e86a090>> at Pos <<2268.149170, 8.753320, 2853.479492>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<5e27a40>> at Pos <<2273.575439, 8.861119, 2848.234375>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<5e27a40>> at Pos <<2273.575439, 8.861119, 2848.234375>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban1_white<5e2b0a0>> at Pos <<3627.980957, 3.051991, 2965.163330>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban1_white<5e2b0a0>> at Pos <<3627.980957, 3.051991, 2965.163330>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_S120_Red<5e61f60>> at Pos <<3688.670410, 3.139159, 2943.124756>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_S120_Red<5e61f60>> at Pos <<3688.670410, 3.139159, 2943.124756>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<5e30230>> at Pos <<3407.888184, 2.851119, 3013.310547>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<5e30230>> at Pos <<3407.888184, 2.851119, 3013.310547>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_red<5e1a0c0>> at Pos <<1996.860474, 8.861119, 3124.584961>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_red<5e1a0c0>> at Pos <<1996.860474, 8.861119, 3124.584961>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<5e17c80>> at Pos <<1972.891724, 8.753319, 3140.587646>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<5e17c80>> at Pos <<1972.891724, 8.753319, 3140.587646>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_wine<5e12af0>> at Pos <<1986.561401, 8.753321, 3135.049805>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_wine<5e12af0>> at Pos <<1986.561401, 8.753321, 3135.049805>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed02_aban1_grey<5e15840>> at Pos <<1991.810913, 8.861119, 3130.096680>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed02_aban1_grey<5e15840>> at Pos <<1991.810913, 8.861119, 3130.096680>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_blue<5e197b0>> at Pos <<2031.701050, 8.703723, 3090.275635>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_blue<5e197b0>> at Pos <<2031.701050, 8.703723, 3090.275635>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_orange<5e16150>> at Pos <<2003.808472, 8.000000, 3118.481201>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_orange<5e16150>> at Pos <<2003.808472, 8.000000, 3118.481201>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_blue<5e1e940>> at Pos <<2060.329834, 8.930747, 3061.516357>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_blue<5e1e940>> at Pos <<2060.329834, 8.930747, 3061.516357>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb02_aban2_black<5e1f250>> at Pos <<2056.023926, 8.703723, 3065.641113>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb02_aban2_black<5e1f250>> at Pos <<2056.023926, 8.703723, 3065.641113>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_wreck_truck01_aban1_green<1a9c3980>> at Pos <<1893.046143, 8.000000, 3222.378662>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_wreck_truck01_aban1_green<1a9c3980>> at Pos <<1893.046143, 8.000000, 3222.378662>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_Ural<13dc0d90>> at Pos <<3456.958008, 10.187515, 3525.873779>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_Ural<13dc0d90>> at Pos <<3456.958008, 10.187515, 3525.873779>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_sed01_aban2_white<1a9f20a0>> at Pos <<3386.227539, 29.409319, 3783.159424>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_sed01_aban2_white<1a9f20a0>> at Pos <<3386.227539, 29.409319, 3783.159424>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_hb01_aban2_white<1a9f6920>> at Pos <<3946.935303, 51.062160, 3957.770752>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_hb01_aban2_white<1a9f6920>> at Pos <<3946.935303, 51.062160, 3957.770752>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_HMMWV<124db950>> at Pos <<763.014893, 8.907103, 4356.370117>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_HMMWV<124db950>> at Pos <<763.014893, 8.907103, 4356.370117>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_HMMWV<124e1850>> at Pos <<772.055847, 8.907103, 4341.988281>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_HMMWV<124e1850>> at Pos <<772.055847, 8.907103, 4341.988281>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Lada_Green<1238df40>> at Pos <<788.750366, 8.661497, 4331.440430>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Lada_Green<1238df40>> at Pos <<788.750366, 8.661497, 4331.440430>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_S120_Red<124e0a10>> at Pos <<806.516296, 8.582694, 4315.607910>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_S120_Red<124e0a10>> at Pos <<806.516296, 8.582694, 4315.607910>>
+SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Land_Wreck_Lada_Red<12396730>> at Pos <<829.302185, 8.661497, 4284.011719>>
+SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Land_Wreck_Lada_Red<12396730>> at Pos <<829.302185, 8.661497, 4284.011719>>
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()

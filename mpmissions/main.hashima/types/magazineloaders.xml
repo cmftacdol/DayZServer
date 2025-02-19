@@ -14,7 +14,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_Case">
         <nominal>1</nominal>
@@ -27,7 +27,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_AdminCase">
         <nominal>1</nominal>
@@ -40,7 +40,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepBlue">
         <nominal>0</nominal>
@@ -53,7 +53,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepMagenta">
         <nominal>0</nominal>
@@ -66,7 +66,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepRed">
         <nominal>0</nominal>
@@ -79,7 +79,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepYellow">
         <nominal>0</nominal>
@@ -92,7 +92,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepBlueCamo">
         <nominal>0</nominal>
@@ -105,7 +105,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepGreenCamo">
         <nominal>0</nominal>
@@ -118,7 +118,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepMagentaCamo">
         <nominal>0</nominal>
@@ -131,7 +131,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepRedCamo">
         <nominal>0</nominal>
@@ -144,7 +144,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_DeepYellowCamo">
         <nominal>0</nominal>
@@ -157,7 +157,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_BlueCase">
         <nominal>1</nominal>
@@ -170,7 +170,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_MagentaCase">
         <nominal>1</nominal>
@@ -183,7 +183,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_RedCase">
         <nominal>1</nominal>
@@ -196,7 +196,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="Hel_MagazineLoading_YellowCase">
         <nominal>1</nominal>
@@ -209,7 +209,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Underground" />
+        <usage name="ContaminatedArea" />
     </type>
 
 
