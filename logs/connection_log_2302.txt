@@ -8522,3 +8522,6 @@
 [2025-02-19 15:14:46] [Connecting, 4, 3] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
 [2025-02-19 15:14:46] [Connected, 4, 3] [A:1:0:0] Logging on [A:1:0:0]
 [2025-02-19 15:14:46] [Logging On, 4, 3] [A:1:0:0] RecvMsgClientLogOnResponse() : [A:1:3757984786:43806] 'OK'
+[2025-02-19 15:49:25] [Logged On, 4, 3] [A:1:3757984786:43806] LogOff()
+[2025-02-19 15:49:25] [Logging Off, 4, 3] [A:1:3757984786:43806] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2025-02-19 15:49:25] [Logging Off, 0, 3] [A:1:3757984786:43806] Log session ended

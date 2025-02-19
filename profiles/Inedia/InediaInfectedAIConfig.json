@@ -412,10 +412,10 @@
             "all": 0.0
         },
         "AttackPlayersUnconsciousHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "AttackPlayersUnconsciousHitsLimit": {
-            "all": 5.0
+            "all": 10.0
         },
         "AttackAnimalsHandlerIsActive": {
             "all": 1
