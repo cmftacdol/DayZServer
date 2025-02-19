@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+<!--
+    ╔══════════════════════════════════════════════════════╗
+    ║ INDEX ██████████████████████████████████████████████ ║
+    ╠═══════════════════════╦══════════════════════════════╣
+    ║ CCS - Events - Misc   ║ ccs_ce/ccs_events_misc.xml   ║
+    ║ CCS - Events - Zombie ║ ccs_ce/ccs_events_zombie.xml ║
+    ╠═══════════════════════╬══════════════════════════════╣
+    ║ DZ - Events - Animal  ║ dz_ce/dz_events_animal.xml   ║
+    ║ DZ - Events - Misc    ║ dz_ce/dz_events_misc.xml     ║
+    ╚═══════════════════════╩══════════════════════════════╝
+-->
+</events>

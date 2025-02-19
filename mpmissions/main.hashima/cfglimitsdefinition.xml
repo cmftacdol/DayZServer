@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists>
+    <categories>
+        <category name="books" />
+        <category name="clothes" />
+        <category name="containers" />
+        <category name="explosives" />
+        <category name="food" />
+        <category name="tools" />
+        <category name="lootdispatch" />
+        <category name="weapons" />
+    </categories>
+    <tags>
+        <tag name="floor" />
+        <tag name="ground" />
+        <tag name="shelves" />
+
+        <tag name="CCS_KeyCard_0" />
+        <tag name="CCS_Note_4" />
+        <tag name="CCS_Note_9" />
+        <tag name="CCS_Note_10" />
+        <tag name="CCS_PID_73" />
+        <tag name="CCS_USB" />
+        <tag name="CCS_RokuohShaType89" />
+        <tag name="CCS_RokuohShaType89_Mag_Case" />
+    </tags>
+    <usageflags>
+        <usage name="Coast" />
+        <usage name="ContaminatedArea" />
+        <usage name="Farm" />
+        <usage name="Firefighter" />
+        <usage name="Hunting" />
+        <usage name="Industrial" />
+        <usage name="Labs" />
+        <usage name="Lunapark" />
+        <usage name="Medic" />
+        <usage name="Military" />
+        <usage name="Office" />
+        <usage name="Police" />
+        <usage name="Prison" />
+        <usage name="School" />
+        <usage name="SeasonalEvent" />
+        <usage name="Town" />
+        <usage name="Underground" />
+        <usage name="Village" />
+
+        <usage name="CCS_KeyCard_0" />
+        <usage name="CCS_Note_4" />
+        <usage name="CCS_Note_9" />
+        <usage name="CCS_Note_10" />
+        <usage name="CCS_PID_73" />
+        <usage name="CCS_USB" />
+        <usage name="CCS_RokuohShaType89" />
+        <usage name="CCS_RokuohShaType89_Mag_Case" />
+    </usageflags>
+    <valueflags>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <value name="Unique" />
+    </valueflags>
+</lists>

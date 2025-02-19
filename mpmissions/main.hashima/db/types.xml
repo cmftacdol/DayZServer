@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--
+    ╔══════════════════════════════════════════════════════════════╗
+    ║ INDEX ██████████████████████████████████████████████████████ ║
+    ╠═══════════════════════════╦══════════════════════════════════╣
+    ║ CCS - Types - Ammo        ║ ccs_ce/ccs_types_ammo.xml        ║
+    ║ CCS - Types - Bag         ║ ccs_ce/ccs_types_bag.xml         ║
+    ║ CCS - Types - Beer        ║ ccs_ce/ccs_types_beer.xml        ║
+    ║ CCS - Types - Can         ║ ccs_ce/ccs_types_can.xml         ║
+    ║ CCS - Types - Candy       ║ ccs_ce/ccs_types_candy.xml       ║
+    ║ CCS - Types - Clothing    ║ ccs_ce/ccs_types_clothing.xml    ║
+    ║ CCS - Types - Collectable ║ ccs_ce/ccs_types_collectable.xml ║
+    ║ CCS - Types - Drink       ║ ccs_ce/ccs_types_drink.xml       ║
+    ║ CCS - Types - Event       ║ ccs_ce/ccs_types_event.xml       ║
+    ║ CCS - Types - Jar         ║ ccs_ce/ccs_types_jar.xml         ║
+    ║ CCS - Types - Medical     ║ ccs_ce/ccs_types_medical.xml     ║
+    ║ CCS - Types - Snack       ║ ccs_ce/ccs_types_snack.xml       ║
+    ║ CCS - Types - Tool        ║ ccs_ce/ccs_types_tool.xml        ║
+    ║ CCS - Types - Weapon      ║ ccs_ce/ccs_types_weapon.xml      ║
+    ║ CCS - Types - Zombie      ║ ccs_ce/ccs_types_zombie.xml      ║
+    ╠═══════════════════════════╬══════════════════════════════════╣
+    ║ DZ - Types - Animal       ║ dz_ce/dz_types_animal.xml        ║
+    ║ DZ - Types - Bag          ║ dz_ce/dz_types_bag.xml           ║
+    ║ DZ - Types - Clothing     ║ dz_ce/dz_types_clothing.xml      ║
+    ║ DZ - Types - Event        ║ dz_ce/dz_types_event.xml         ║
+    ║ DZ - Types - Food         ║ dz_ce/dz_types_food.xml          ║
+    ║ DZ - Types - Medical      ║ dz_ce/dz_types_medical.xml       ║
+    ║ DZ - Types - Tool         ║ dz_ce/dz_types_tool.xml          ║
+    ║ DZ - Types - Weapon       ║ dz_ce/dz_types_weapon.xml        ║
+    ╚═══════════════════════════╩══════════════════════════════════╝
+-->
+</types>

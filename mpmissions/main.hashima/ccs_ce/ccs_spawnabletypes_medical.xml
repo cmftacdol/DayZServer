@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!--
+    ╔════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Medical ║
+    ╚════════════════════════════════╝
+-->
+    <type name="CCS_Hashima_Medical_Bandage">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="CCS_Hashima_Medical_First_Aid_kit">
+        <tag name="shelves" />
+        <cargo chance="1">
+            <item name="CCS_Hashima_Medical_Bandage" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="CCS_Hashima_Medical_Thermometer_1" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="CCS_Hashima_Medical_IV_Start_Kit" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="CCS_Hashima_Medical_Blood_Bag_Empty" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="CCS_Hashima_Medical_Blood_Test_Kit" />
+        </cargo>
+    </type>
+</spawnabletypes>

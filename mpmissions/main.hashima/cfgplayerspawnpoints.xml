@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>8</grid_density>
+            <grid_width>40.0</grid_width>
+            <grid_height>40.0</grid_height>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <generator_posbubbles>
+        <!--
+            ╔══════════════╗
+            ║ West Hashima ║
+            ╚══════════════╝
+        -->
+            <pos x="621.717" z="952.71" />
+            <pos x="522.687" z="990.848" />
+            <pos x="750.417" z="1226.03" />
+            <pos x="945.158" z="895.05" />
+            <pos x="729.506" z="575.697" />
+            <pos x="655.587" z="1222.99" />
+            <pos x="836.633" z="932.155" />
+            <pos x="738.823" z="948.56" />
+            <pos x="768.184" z="678.734" />
+            <pos x="700.515" z="836.105" />
+            <pos x="730.377" z="1182.48" />
+            <pos x="792.554" z="1221.54" />
+
+            <pos x="682.117" z="2118.61" />
+            <pos x="645.213" z="1861.39" />
+            <pos x="902.234" z="2436.08" />
+            <pos x="956.537" z="2338.05" />
+            <pos x="934.673" z="2548.15" />
+            <pos x="1417.52" z="1492.15" />
+            <pos x="1118.06" z="2420.84" />
+            <pos x="938.199" z="2545.52" />
+            <pos x="1007.02" z="2469.19" />
+        </generator_posbubbles>
+    </fresh>
+</playerspawnpoints>

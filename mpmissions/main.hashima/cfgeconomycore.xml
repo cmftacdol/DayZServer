@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+<!--
+    ╔════════════╗
+    ║ DZ - Class ║
+    ╚════════════╝
+-->
+    <classes>
+        <rootclass name="DefaultWeapon" />
+        <rootclass name="DefaultMagazine" />
+        <rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+        <rootclass name="Inventory_Base" />
+        <rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" />
+        <rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" />
+    </classes>
+    <defaults>
+        <default name="dyn_radius" value="30" />
+        <default name="dyn_smin" value="0" />
+        <default name="dyn_smax" value="0" />
+        <default name="dyn_dmin" value="1" />
+        <default name="dyn_dmax" value="5" />
+        <default name="log_ce_loop" value="false" />
+        <default name="log_ce_dynamicevent" value="false" />
+        <default name="log_ce_vehicle" value="false" />
+        <default name="log_ce_lootspawn" value="false" />
+        <default name="log_ce_lootcleanup" value="false" />
+        <default name="log_ce_lootrespawn" value="false" />
+        <default name="log_ce_statistics" value="false" />
+        <default name="log_ce_zombie" value="false" />
+        <default name="log_storageinfo" value="false" />
+        <default name="log_hivewarning" value="false" />
+        <default name="log_missionfilewarning" value="false" />
+        <default name="save_events_startup" value="false" />
+        <default name="save_types_startup" value="false" />
+    </defaults>
+<!--
+    ╔══════════════╗
+    ║ CCS - Events ║
+    ╚══════════════╝
+-->
+    <ce folder="ccs_ce">
+        <file name="ccs_events_misc.xml" type="events" />
+        <file name="ccs_events_zombie.xml" type="events" />
+    <!--
+        ╔══════════════════════╗
+        ║ CCS - SpawnableTypes ║
+        ╚══════════════════════╝
+    -->
+        <file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_bag.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_clothing.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_medical.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_tool.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_weapon.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
+    <!--
+        ╔═════════════╗
+        ║ CCS - Types ║
+        ╚═════════════╝
+    -->
+        <file name="ccs_types_ammo.xml" type="types" />
+        <file name="ccs_types_bag.xml" type="types" />
+        <file name="ccs_types_beer.xml" type="types" />
+        <file name="ccs_types_can.xml" type="types" />
+        <file name="ccs_types_candy.xml" type="types" />
+        <file name="ccs_types_clothing.xml" type="types" />
+        <file name="ccs_types_collectable.xml" type="types" />
+        <file name="ccs_types_drink.xml" type="types" />
+        <file name="ccs_types_event.xml" type="types" />
+        <file name="ccs_types_jar.xml" type="types" />
+        <file name="ccs_types_medical.xml" type="types" />
+        <file name="ccs_types_snack.xml" type="types" />
+        <file name="ccs_types_tool.xml" type="types" />
+        <file name="ccs_types_weapon.xml" type="types" />
+        <file name="ccs_types_zombie.xml" type="types" />
+    </ce>
+<!--
+    ╔═════════════╗
+    ║ DZ - Events ║
+    ╚═════════════╝
+-->
+    <ce folder="dz_ce">
+        <file name="dz_events_animal.xml" type="events" />
+        <file name="dz_events_misc.xml" type="events" />
+    <!--
+        ╔═════════════════════╗
+        ║ DZ - SpawnableTypes ║
+        ╚═════════════════════╝
+    -->
+        <file name="dz_spawnabletypes_bag.xml" type="spawnabletypes" />
+        <file name="dz_spawnabletypes_clothing.xml" type="spawnabletypes" />
+        <file name="dz_spawnabletypes_tool.xml" type="spawnabletypes" />
+        <file name="dz_spawnabletypes_weapon.xml" type="spawnabletypes" />
+        <file name="modded_spawnables.xml" type="spawnabletypes" />
+    <!--
+        ╔════════════╗
+        ║ DZ - Types ║
+        ╚════════════╝
+    -->
+        <file name="dz_types_animal.xml" type="types" />
+        <file name="dz_types_bag.xml" type="types" />
+        <file name="dz_types_clothing.xml" type="types" />
+        <file name="dz_types_event.xml" type="types" />
+        <file name="dz_types_food.xml" type="types" />
+        <file name="dz_types_tool.xml" type="types" />
+        <file name="dz_types_weapon.xml" type="types" />
+    </ce>
+
+    <ce folder="types">
+		<file name="fog.xml" type="types" />
+		<file name="fortification.xml" type="types" />
+		<file name="bedspawning.xml" type="types" />
+		<file name="betterbackpacks.xml" type="types" />
+		<file name="coupledmags.xml" type="types" />
+		<file name="inediapain.xml" type="types" />
+		<file name="magazineloaders.xml" type="types" />
+		<file name="rag.xml" type="types" />
+		<file name="scopeandmounts.xml" type="types" />
+	</ce>
+
+    
+</economycore>

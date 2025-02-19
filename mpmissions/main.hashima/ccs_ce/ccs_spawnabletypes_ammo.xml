@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!--
+    ╔═════════════════════════════╗
+    ║ CCS - SpawnableTypes - Ammo ║
+    ╚═════════════════════════════╝
+-->
+    <type name="CCS_Hashima_Tool_AmmoBox">
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Ammobox_12_Buck" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Ammobox_12_Rubber" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Ammobox_12_Slug" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Ammobox_22_Normal" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="CCS_Hashima_Ammobox_308_Normal" />
+        </cargo>
+        <cargo chance="0.15">
+            <item name="CCS_Hashima_Ammobox_308_Tracer" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Ammobox_357_Normal" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Ammobox_380_Normal" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Ammobox_45_Normal" />
+        </cargo>
+        <cargo chance="0.50">
+            <item name="CCS_Hashima_Ammobox_545x39_Normal" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="CCS_Hashima_Ammobox_545x39_Tracer" />
+        </cargo>
+        <cargo chance="0.50">
+            <item name="CCS_Hashima_Ammobox_556x45_Normal" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="CCS_Hashima_Ammobox_556x45_Tracer" />
+        </cargo>
+        <cargo chance="0.50">
+            <item name="CCS_Hashima_Ammobox_762x39_Normal" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="CCS_Hashima_Ammobox_762x39_Tracer" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="CCS_Hashima_Ammobox_762x54_Normal" />
+        </cargo>
+        <cargo chance="0.15">
+            <item name="CCS_Hashima_Ammobox_762x54_Tracer" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Ammobox_9x19_Normal" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Ammobox_9x39_Normal" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Ammobox_9x39_AP" />
+        </cargo>
+        <cargo chance="0.01">
+            <item name="Ammo_40mm_ChemGas" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="Ammo_40mm_Smoke_Black" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="Ammo_40mm_Smoke_Green" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="Ammo_40mm_Smoke_Red" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="Ammo_40mm_Smoke_White" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="Ammo_40mm_Explosive" />
+        </cargo>
+    </type>
+</spawnabletypes>

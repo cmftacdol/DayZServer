@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!--
+    ╔════════════════════════════╗
+    ║ CCS - SpawnableTypes - Bag ║
+    ╚════════════════════════════╝
+-->
+    <type name="CCS_Hashima_Bag_ChildBag_Blue">
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_ChildBag_Green">
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_ChildBag_Red">
+        <cargo preset="foodVillage" />
+    </type>
+
+    <type name="CCS_Hashima_Bag_DryBag_Black">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_DryBag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_DryBag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_DryBag_Orange">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_DryBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_DryBag_Yellow">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+
+    <type name="CCS_Hashima_Bag_HikingBag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Pink">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Yellow">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+
+    <type name="CCS_Hashima_Bag_MountainBag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Orange">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+</spawnabletypes>

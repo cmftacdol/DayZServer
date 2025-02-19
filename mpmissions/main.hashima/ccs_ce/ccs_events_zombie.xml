@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+<!--
+    ╔═══════════════════════╗
+    ║ CCS - Events - Zombie ║
+    ╚═══════════════════════╝
+-->
+    <event name="InfectedArmy">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="30" type="CCS_Hashima_Zombie_M_Patrol_Normal_Autumn" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Patrol_Normal_Flat" />
+            <child lootmax="5" lootmin="0" max="0" min="20" type="CCS_Hashima_Zombie_M_Patrol_Normal_PautRev" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Patrol_Normal_Summer" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Normal_Desert" />1
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Normal_Woodland" />
+        </children>
+    </event>
+    <event name="InfectedArmyHeavy">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="CCS_Hashima_Zombie_M_Patrol_Normal_Autumn" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Patrol_Normal_Flat" />
+            <child lootmax="5" lootmin="0" max="0" min="20" type="CCS_Hashima_Zombie_M_Patrol_Normal_PautRev" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Patrol_Normal_Summer" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Fat_Officer" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Normal_Desert" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Normal_Woodland" />
+        </children>
+    </event>
+    <event name="InfectedCity">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Checks" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Yellow" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Stripes" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Violet" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
+
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Olive" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Journalist_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Green" />
+        </children>
+    </event>
+    <event name="InfectedCityTier1">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Checks" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Yellow" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Stripes" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Violet" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
+
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Olive" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Journalist_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Gray" />
+        </children>
+    </event>
+    <event name="InfectedCityTier2">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Checks" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Yellow" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Stripes" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Violet" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
+
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Olive" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Journalist_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Gray" />
+        </children>
+    </event>
+    <event name="InfectedCityTier3">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Checks" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ShortSkirt_Normal_Yellow" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Stripes" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Skater_Young_Violet" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
+
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CommercialPilot_Old_Olive" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Journalist_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Motobiker_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Skater_Young_Gray" />
+        </children>
+    </event>
+    <event name="InfectedFirefighter">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="90" type="CCS_Hashima_Zombie_M_Firefighter_Normal" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_NBC_Black" />
+        </children>
+    </event>
+    <event name="InfectedIndustrial">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_Mechanic_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_Mechanic_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_Mechanic_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_F_Mechanic_Normal_Orange" />
+
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Handyman_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Handyman_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Handyman_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Handyman_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Handyman_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_HeavyIndustryWorker_Normal" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Mechanic_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Mechanic_Skinny_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Mechanic_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="4" type="CCS_Hashima_Zombie_M_Mechanic_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_M_OffshoreWorker_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_M_OffshoreWorker_Normal_Orange" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_M_OffshoreWorker_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_M_OffshoreWorker_Normal_Yellow" />
+        </children>
+    </event>
+    <event name="InfectedMedic">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_Doctor_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_Nurse_Fat" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_F_Paramedic_Normal_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Patient_Old" />
+
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_M_Doctor_Fat" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_NBC_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_NBC_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_NBC_Purple" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_NBC_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Paramedic_Normal_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_M_Patient_Skinny" />
+        </children>
+    </event>
+    <event name="InfectedNBC">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="CCS_Hashima_Zombie_M_NBC_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="100" type="CCS_Hashima_Zombie_M_NBC_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="100" type="CCS_Hashima_Zombie_M_NBC_Purple" />
+            <child lootmax="5" lootmin="0" max="0" min="100" type="CCS_Hashima_Zombie_M_NBC_Red" />
+        </children>
+    </event>
+    <event name="InfectedNBCBlack">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="50" type="CCS_Hashima_Zombie_M_NBC_Black" />
+        </children>
+    </event>
+    <event name="InfectedNBCGreen">
+        <nominal>35</nominal>
+        <min>25</min>
+        <max>40</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="30" type="CCS_Hashima_Zombie_M_NBC_Green" />
+        </children>
+    </event>
+    <event name="InfectedNBCPurple">
+        <nominal>35</nominal>
+        <min>25</min>
+        <max>40</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="16" type="CCS_Hashima_Zombie_M_NBC_Purple" />
+        </children>
+    </event>
+    <event name="InfectedNBCRed">
+        <nominal>35</nominal>
+        <min>25</min>
+        <max>40</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_NBC_Red" />
+        </children>
+    </event>
+    <event name="InfectedPolice">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="CCS_Hashima_Zombie_F_PoliceOfficer_Normal" />
+            <child lootmax="5" lootmin="0" max="0" min="40" type="CCS_Hashima_Zombie_M_PoliceOfficer_Fat" />
+
+            <child lootmax="5" lootmin="0" max="20" min="0" type="CCS_Hashima_Zombie_M_PoliceOfficer_SpecialForce_Normal" />
+            <child lootmax="5" lootmin="0" max="20" min="0" type="CCS_Hashima_Zombie_M_PoliceOfficer_SpecialForce_Heavy" />
+        </children>
+    </event>
+    <event name="InfectedPoliceHeavy">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="20" min="0" type="CCS_Hashima_Zombie_M_PoliceOfficer_SpecialForce_Normal" />
+            <child lootmax="5" lootmin="0" max="20" min="0" type="CCS_Hashima_Zombie_M_PoliceOfficer_SpecialForce_Heavy" />
+        </children>
+    </event>
+    <event name="InfectedPrisoner">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="CCS_Hashima_Zombie_M_Prisioner_Skinny" />
+        </children>
+    </event>
+    <event name="InfectedReligious">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="CCS_Hashima_Zombie_M_Priest_Skinny" />
+        </children>
+    </event>
+    <event name="InfectedSolitude">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_Hiker_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_Hiker_Skinny_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_Hiker_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_Hiker_Skinny_Red" />
+
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Fisherman_Old_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Fisherman_Old_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Fisherman_Old_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Fisherman_Old_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hermit_Skinny_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hermit_Skinny_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hermit_Skinny_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hermit_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hiker_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hiker_Skinny_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hiker_Skinny_Yellow" />
+            <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Hunter_Old_Autumn" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hunter_Old_Spring" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Hunter_Old_Summer" />
+        </children>
+    </event>
+    <event name="InfectedVillage">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Jogger_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_F_Jogger_Skinny_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Jogger_Skinny_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_MilkMaid_Old_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_MilkMaid_Old_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_MilkMaid_Old_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Villager_Old_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Villager_Old_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Villager_Old_White" />
+
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Farmer_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Farmer_Fat_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Farmer_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Black" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Brown" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_GreenChecks" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Khaki" />
+            <child lootmax="5" lootmin="0" max="0" min="6" type="CCS_Hashima_Zombie_M_Jacket_Normal_Stripes" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Jogger_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Jogger_Skinny_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Villager_Old_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Villager_Old_White" />
+        </children>
+    </event>
+    <event name="InfectedVillageTier1">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="17" type="CCS_Hashima_Zombie_F_Jogger_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_F_MilkMaid_Old_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="17" type="CCS_Hashima_Zombie_F_Villager_Old_Blue" />
+
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Farmer_Fat_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="17" type="CCS_Hashima_Zombie_M_Jacket_Normal_BlueChecks" />
+            <child lootmax="5" lootmin="0" max="0" min="17" type="CCS_Hashima_Zombie_M_Jacket_Normal_Magenta" />
+            <child lootmax="5" lootmin="0" max="0" min="17" type="CCS_Hashima_Zombie_M_Jogger_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Villager_Old_Green" />
+        </children>
+    </event>
+</events>

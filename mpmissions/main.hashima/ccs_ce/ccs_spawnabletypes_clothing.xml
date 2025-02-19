@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!--
+    ╔═════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Clothing ║
+    ╚═════════════════════════════════╝
+-->
+    <type name="CCS_Hashima_Clothing_Firefighter_Jacket_Black">
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Firefighter_Pants_Black">
+        <cargo preset="toolsPolice" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_LabCoat_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_LabCoat_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_LabCoat_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_LabCoat_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Paramedic_Jacket_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Paramedic_Pants_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Police_Jacket_Black">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Police_Jacket_Camo">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Police_Pants_Black">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Police_Pants_Camo">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Prisoner_Jacket">
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Clothing_Prisoner_Pants">
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14" />
+        </cargo>
+    </type>
+</spawnabletypes>
