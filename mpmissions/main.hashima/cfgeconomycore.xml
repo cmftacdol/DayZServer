@@ -116,6 +116,8 @@
 		<file name="magazineloaders.xml" type="types" />
 		<file name="rag.xml" type="types" />
 		<file name="scopeandmounts.xml" type="types" />
+		<file name="craftables.xml" type="types" />
+		<file name="zensleep.xml" type="types" />
 	</ce>
 
     

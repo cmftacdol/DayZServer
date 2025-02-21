@@ -1,43 +1,3 @@
-/@AICFireplaceIndoor
-/@AimSounds
-/@AmmoStacks
-/@Basic Ear Plugs
-/@Bed-Respawning
-/@Better Medical Pouch
-/@BetterSuppressors
-/@Building Fortifications
-/@CargoSorting
-/@CarVanillaPlus
-/@CaseBag
-/@CF
-/@Code Lock
-/@Combinable RepairKits
-/@Coupled Mag Vanilla
-/@Dabs Framework
-/@DayZ-Dynamic-AI-Addon
-/@DayZ-Expansion-AI
-/@DayZ-Expansion-Core
-/@Early Winter or Late Fall Livonia
-/@Forward Operator Gear
-/@InediaInfectedAI
-/@Inventory Move Sounds
-/@InventoryInCar
-/@JunkYardDog
-/@Loot Barrel Transfer
-/@MagazineLoading
-/@metabolism
-/@MountsSights
-/@Nomadbackpack
-/@PvZmoD_Spawn_System
-/@RaG_BaseItems
-/@RaG_Immersive_Vehicles
-/@Saline Bag
-/@StaminaRevised
-/@Survivor Animations
-/@Usefull Vanila Tents
-/@VPPAdminTools
-/@Mag Obfuscation
-/@SearchInventory
 /mpmissions/dayzOffline.sakhal
 /mpmissions/dayzOffline.chernarusplus
 /mpmissions/dayzOffline.enoch/storage_1
@@ -47,11 +7,7 @@
 /profile/Users
 /mpmissions/dayzOffline.enoch/areaflags.map
 /dta
-/@Survivor Missions
 /mpmissions/dayzOffline.enoch/storage_2
-/@DayZ-Expansion-Licensed
-/@DayZ-Expansion-BaseBuilding
-/@SuppressionMod
 /profiles/CodeLock/Logs
 /logs
 /profiles/EventManagerLog
@@ -59,11 +15,45 @@
 /profiles/WebApiLog/
 /config/config.vdf
 /profiles/ExpansionMod/Logs
-/@TakistanPlus
-/@Hashima Islands
-/@BigWheelZ
 /mpmissions/Offline.TakistanPlus/storage_3
-/@SpawnerBubaku
-/@Hashima Islands Assets
 /mpmissions/main.hashima/areaflags.map
 /mpmissions/main.hashima/storage_1
+/@Hashima Islands
+/@AICFireplaceIndoor
+/@AimSounds
+/@AmmoStacks
+/@Basic Ear Plugs
+/@Bed-Respawning
+/@Better Medical Pouch
+/@BetterSuppressors
+/@CF
+/@Building Fortifications
+/@CaseBag
+/@Code Lock
+/@Combinable RepairKits
+/@Coupled Mag Vanilla
+/@Forward Operator Gear
+/@InediaInfectedAI
+/@Inventory Move Sounds
+/@JunkYardDog
+/@Loot Barrel Transfer
+/@MagazineLoading
+/@metabolism
+/@MountsSights
+/@Nomadbackpack
+/@RaG_BaseItems
+/@Saline Bag
+/@StaminaRevised
+/@Usefull Vanila Tents
+/@VPPAdminTools
+/@SearchInventory
+/@Hashima Islands Assets
+/@Mag Obfuscation
+/@BoomLays Craftables
+/@SuppressionMod
+/@Zens Chicken Coops
+/@Zens Crafting Sounds
+/@Zens Firewood Piles
+/@Zens Static Barbed Wire
+/@ZenSleep
+/@SpawnerBubaku

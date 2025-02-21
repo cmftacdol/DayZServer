@@ -245,9 +245,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="tools" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="rag_baseitems_food_dono_stand">
         <lifetime>1209600</lifetime>
@@ -264,10 +264,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
     </type>
     <type name="rag_baseitems_big_drawer_cabinet">
         <lifetime>1209600</lifetime>
@@ -379,10 +379,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
     </type>
     <type name="rag_baseitems_toolbench">
         <lifetime>1209600</lifetime>
@@ -399,10 +399,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
     </type>
     <type name="rag_baseitems_tools_drawer">
         <lifetime>1209600</lifetime>
@@ -792,10 +792,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
     </type>
     <type name="rag_baseitems_globe">
         <lifetime>1209600</lifetime>
@@ -3361,6 +3361,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
     </type>
+    <type name="CodeLock">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
     <type name="rag_baseitems_table_saw_kit">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
@@ -3449,9 +3463,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
     </type>
     <type name="EngineOil">
         <nominal>50</nominal>
@@ -3463,9 +3477,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_pumpkin">
         <lifetime>1209600</lifetime>

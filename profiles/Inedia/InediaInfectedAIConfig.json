@@ -388,16 +388,16 @@
             }
         },
         "BreakingDoorsDestroyAfterOpenChancePercent": {
-            "all": 30.0,
-            "highstr": 50.0,
-            "mediumstr": 40.0,
-            "lowstr": 30.0
+            "all": 70.0,
+            "highstr": 100.0,
+            "mediumstr": 80.0,
+            "lowstr": 70.0
         },
         "BreakingDoorsOpenChancePercent": {
-            "all": 30.0,
-            "highstr": 50.0,
-            "mediumstr": 40.0,
-            "lowstr": 30.0
+            "all": 70.0,
+            "highstr": 100.0,
+            "mediumstr": 80.0,
+            "lowstr": 70.0
         },
         "BreakingDoorsOpenLockPickChancePercent": {
             "all": 5.0
@@ -474,7 +474,7 @@
             "all": 0.0
         },
         "SpeedLimitInCalmMode": {
-            "all": 1.0
+            "all": 3.0
         },
         "SpeedMultiplierInCalmMode": {
             "all": 1.0
@@ -483,7 +483,7 @@
             "all": 0.0
         },
         "SpeedLimitInSearchMode": {
-            "all": 1.0
+            "all": 3.0
         },
         "SpeedMultiplierInSearchMode": {
             "all": 1.0
@@ -492,7 +492,7 @@
             "all": 0.0
         },
         "SpeedLimitInChaseMode": {
-            "all": 1.0
+            "all": 3.0
         },
         "SpeedMultiplierInChaseMode": {
             "all": 1.0
@@ -1537,7 +1537,7 @@
         "ShowPainBadges": 1,
         "ShowPainBlur": 1,
         "ShowMedicationInfo": 1,
-        "PainHealingRatePerSecondPercent": 0.20,
+        "PainHealingRatePerSecondPercent": 0.15,
         "HealthDrainWithOverPainedLimbPerSecondPercent": 0.10000000149011612,
         "VehicleCrashPainMultiplier": 1.0,
         "VehicleCollisionsPainMultiplier": 1.0,

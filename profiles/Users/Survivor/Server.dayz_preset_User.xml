@@ -1023,40 +1023,9 @@
     <input name="UAToggleNVGPosition">
         <btn name="kSemicolon" />
     </input>
-    <input name="UAToggleHeadlightHighBeam">
-        <btn name="kL" />
-    </input>
-    <input name="eAICommandMenu">
-        <btn name="kT" />
-    </input>
-    <input name="eAISetWaypoint">
-        <btn name="kLControl">
-            <btn name="mBLeft" />
-        </btn>
-    </input>
-    <input name="eAITestInput">
-        <btn name="kY" />
-    </input>
-    <input name="eAITestLRIncrease">
-        <btn name="kRight" />
-    </input>
-    <input name="eAITestLRDecrease">
-        <btn name="kLeft" />
-    </input>
-    <input name="eAITestUDIncrease">
-        <btn name="kUp" />
-    </input>
-    <input name="eAITestUDDecrease">
-        <btn name="kDown" />
-    </input>
-    <input name="UAExpansionSnappingDirectionNext">
-        <btn name="mWheelUp" />
-    </input>
-    <input name="UAExpansionSnappingDirectionPrevious">
-        <btn name="mWheelDown" />
-    </input>
-    <input name="UAExpansionSnappingToggle">
-        <btn name="kX" />
+    <input name="UAZenSleep_SleepKey" />
+    <input name="UAZenSleep_RefreshConfig">
+        <btn name="kNumpad3" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
