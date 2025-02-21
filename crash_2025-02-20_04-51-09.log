@@ -1,0 +1,28 @@
+Unhandled exception
+
+Program: G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff788093ab2 at 0x2a61ae34b68
+
+SymGetSymFromAddr:487, addr:0x7ff788093ab2
+SymGetSymFromAddr:487, addr:0x7ff788093cd4
+SymGetSymFromAddr:487, addr:0x7ff788088e4b
+SymGetSymFromAddr:487, addr:0x7ff78801f0b4
+SymGetSymFromAddr:487, addr:0x7ff787f6cca2
+SymGetSymFromAddr:487, addr:0x7ff787efc821
+SymGetSymFromAddr:487, addr:0x7ff787efc8a9
+[CDPCreateServer]: ??? addr:0x7ff788749ee8
+[CDPCreateServer]: ??? addr:0x7ff78874a5f9
+SymGetSymFromAddr:487, addr:0x7ff78819061d
+[CDPCreateServer]: ??? addr:0x7ff78874ab04
+SymGetSymFromAddr:487, addr:0x7ff78819c17d
+[CDPCreateServer]: ??? addr:0x7ff788752676
+SymGetSymFromAddr:487, addr:0x7ff7882b667b
+[CDPCreateServer]: ??? addr:0x7ff7888a2622
+[BaseThreadInitThunk]: ??? addr:0x7ff9dc6d7374
+[RtlUserThreadStart]: ??? addr:0x7ff9dd95cc91
+[RtlUserThreadStart]: ??? addr:0x7ff9dd95cc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Hashima Islands;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@BigWheelZ;@Hashima Islands Assets; profiles profiles servermod @DayZ-Dynamic-AI-Addon; 

@@ -1,0 +1,19 @@
+---------------------------------------------
+Log warning_2025-02-20_09-45-13.log started at 2025-02-20 09:45:34
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-02-20 09:45:34
+
+Ignoring object patrol classname 'Land_fortified_nest_big_ep1' because it is not registered for dynamic patrol spawning
+Class:      'ExpansionAIPatrolSettings'
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-02-20 09:45:34
+
+Ignoring object patrol classname 'Land_cype_Policestation' because it is not registered for dynamic patrol spawning
+Class:      'ExpansionAIPatrolSettings'
+

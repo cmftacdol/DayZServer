@@ -1,0 +1,59 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2025-02-20_09-20-42.log started at 20.02. 09:21:32
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 20.02 2025 09:21:32
+Unhandled exception
+
+Program: G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff788152490 at 0x0
+
+
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\main.hashima\init.c:6
+
+SymGetSymFromAddr:487, addr:0x7ff788152490
+SymGetSymFromAddr:487, addr:0x7ff788152a16
+SymGetSymFromAddr:487, addr:0x7ff787e15050
+SymGetSymFromAddr:487, addr:0x7ff787e14fb0
+[CDPCreateServer]: ??? addr:0x7ff78856d775
+[CDPCreateServer]: ??? addr:0x7ff78856d5c3
+[CDPCreateServer]: ??? addr:0x7ff78856d22c
+[CDPCreateServer]: ??? addr:0x7ff78856d3d6
+[CDPCreateServer]: ??? addr:0x7ff78857dd55
+[CDPCreateServer]: ??? addr:0x7ff78857dc8f
+SymGetSymFromAddr:487, addr:0x7ff7883a27a3
+SymGetSymFromAddr:487, addr:0x7ff7883a2304
+SymGetSymFromAddr:487, addr:0x7ff7883a1b3e
+SymGetSymFromAddr:487, addr:0x7ff7883a1e10
+[CDPCreateServer]: ??? addr:0x7ff788753d35
+SymGetSymFromAddr:487, addr:0x7ff78809ed20
+SymGetSymFromAddr:487, addr:0x7ff78809f1c3
+SymGetSymFromAddr:487, addr:0x7ff78809f9d2
+SymGetSymFromAddr:487, addr:0x7ff78808b63b
+SymGetSymFromAddr:487, addr:0x7ff788089a61
+SymGetSymFromAddr:487, addr:0x7ff78808a02c
+SymGetSymFromAddr:487, addr:0x7ff78808a0ac
+SymGetSymFromAddr:487, addr:0x7ff788089fd4
+SymGetSymFromAddr:487, addr:0x7ff7883c180b
+[CDPInitServer]: ??? addr:0x7ff78846e2b8
+[CDPInitServer]: ??? addr:0x7ff788460130
+[CDPCreateServer]: ??? addr:0x7ff7885f1191
+[CDPCreateServer]: ??? addr:0x7ff7887513b6
+[CDPCreateServer]: ??? addr:0x7ff788748554
+[CDPCreateServer]: ??? addr:0x7ff78874aa59
+SymGetSymFromAddr:487, addr:0x7ff78819c17d
+[CDPCreateServer]: ??? addr:0x7ff788752676
+SymGetSymFromAddr:487, addr:0x7ff7882b667b
+[CDPCreateServer]: ??? addr:0x7ff7888a2622
+[BaseThreadInitThunk]: ??? addr:0x7ff9dc6d7374
+[RtlUserThreadStart]: ??? addr:0x7ff9dd95cc91
+[RtlUserThreadStart]: ??? addr:0x7ff9dd95cc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @Dabs Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-BaseBuilding;@Hashima Islands;@AICFireplaceIndoor;@AimSounds;@AmmoStacks;@Basic Ear Plugs;@Bed-Respawning;@Better Medical Pouch;@BetterSuppressors;@CF;@Building Fortifications;@CarVanillaPlus;@CaseBag;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Forward Operator Gear;@InediaInfectedAI;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@Loot Barrel Transfer;@MagazineLoading;@metabolism;@MountsSights;@Nomadbackpack;@RaG_BaseItems;@RaG_Immersive_Vehicles;@Saline Bag;@StaminaRevised;@Usefull Vanila Tents;@VPPAdminTools;@SearchInventory;@BigWheelZ;@Hashima Islands Assets; profiles profiles servermod @DayZ-Dynamic-AI-Addon; 
